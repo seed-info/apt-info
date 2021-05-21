@@ -15,21 +15,27 @@ categories: [실거래분석]
   </tr>
 
   <tr>
-    <td>168</td>
+    <td>169</td>
     <td>경상남도 창원시 마산합포구 교방동</td>
     <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=교방동 창원 푸르지오 더 플래티넘">창원 푸르지오 더 플래티넘</a></td>
   </tr>
 
   <tr>
-    <td>95</td>
+    <td>98</td>
     <td>충청남도 아산시 배방읍 북수리</td>
     <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=배방읍 북수리 더샵 센트로">더샵 센트로</a></td>
   </tr>
 
   <tr>
-    <td>75</td>
+    <td>83</td>
     <td>충청남도 천안시 동남구 풍세면 보성리</td>
     <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=풍세면 보성리 천안 한양수자인 에코시티">천안 한양수자인 에코시티</a></td>
+  </tr>
+
+  <tr>
+    <td>51</td>
+    <td>경상남도 김해시 신문동</td>
+    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=신문동 김해율하 더스카이시티 제니스앤프라우">김해율하 더스카이시티 제니스앤프라우</a></td>
   </tr>
 
   <tr>
@@ -39,15 +45,15 @@ categories: [실거래분석]
   </tr>
 
   <tr>
-    <td>39</td>
+    <td>44</td>
     <td>경기도 화성시 오산동</td>
     <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=오산동 동탄2 C7블록 동탄역 예미지 3차">동탄2 C7블록 동탄역 예미지 3차</a></td>
   </tr>
 
   <tr>
-    <td>35</td>
-    <td>경상남도 김해시 신문동</td>
-    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=신문동 김해율하 더스카이시티 제니스앤프라우">김해율하 더스카이시티 제니스앤프라우</a></td>
+    <td>37</td>
+    <td>충청남도 계룡시 두마면 농소리</td>
+    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=두마면 농소리 계룡 푸르지오 더 퍼스트">계룡 푸르지오 더 퍼스트</a></td>
   </tr>
 
   <tr>
@@ -57,39 +63,45 @@ categories: [실거래분석]
   </tr>
 
   <tr>
-    <td>31</td>
-    <td>충청남도 계룡시 두마면 농소리</td>
-    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=두마면 농소리 계룡 푸르지오 더 퍼스트">계룡 푸르지오 더 퍼스트</a></td>
-  </tr>
-
-  <tr>
-    <td>29</td>
+    <td>30</td>
     <td>제주특별자치도 제주시 연동</td>
     <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=연동 e편한세상 연동 센트럴파크 2단지">e편한세상 연동 센트럴파크 2단지</a></td>
   </tr>
 
   <tr>
-    <td>25</td>
+    <td>27</td>
     <td>제주특별자치도 제주시 연동</td>
     <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=연동 연동 한일 베라체 더 퍼스트">연동 한일 베라체 더 퍼스트</a></td>
   </tr>
 
   <tr>
-    <td>25</td>
+    <td>27</td>
     <td>전라북도 군산시 나운동</td>
     <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=나운동 나운 금호어울림 센트럴">나운 금호어울림 센트럴</a></td>
+  </tr>
+
+  <tr>
+    <td>25</td>
+    <td>충청북도 청주시 서원구 모충동</td>
+    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=모충동 청주모충 LH트릴로채 공공분양">청주모충 LH트릴로채 공공분양</a></td>
+  </tr>
+
+  <tr>
+    <td>25</td>
+    <td>제주특별자치도 제주시 연동</td>
+    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=연동 e편한세상 연동 센트럴파크 1단지">e편한세상 연동 센트럴파크 1단지</a></td>
+  </tr>
+
+  <tr>
+    <td>23</td>
+    <td>충청남도 아산시 모종동</td>
+    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=모종동 힐스테이트 모종 네오루체">힐스테이트 모종 네오루체</a></td>
   </tr>
 
   <tr>
     <td>23</td>
     <td>경상북도 경산시 하양읍 서사리</td>
     <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=하양읍 서사리 경산하양 A2블록 우미린">경산하양 A2블록 우미린</a></td>
-  </tr>
-
-  <tr>
-    <td>23</td>
-    <td>제주특별자치도 제주시 연동</td>
-    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=연동 e편한세상 연동 센트럴파크 1단지">e편한세상 연동 센트럴파크 1단지</a></td>
   </tr>
 
   <tr>
@@ -105,15 +117,21 @@ categories: [실거래분석]
   </tr>
 
   <tr>
-    <td>21</td>
-    <td>충청북도 청주시 서원구 모충동</td>
-    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=모충동 청주모충 LH트릴로채 공공분양">청주모충 LH트릴로채 공공분양</a></td>
+    <td>22</td>
+    <td>경상남도 김해시 신문동</td>
+    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=신문동 대청천 경동리인 뷰">대청천 경동리인 뷰</a></td>
   </tr>
 
   <tr>
     <td>19</td>
     <td>울산광역시 동구 서부동</td>
     <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=서부동 울산 지웰시티 자이 1단지">울산 지웰시티 자이 1단지</a></td>
+  </tr>
+
+  <tr>
+    <td>19</td>
+    <td>경상남도 양산시 동면 내송리</td>
+    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=동면 내송리 양산 사송 더샵데시앙 B4블록">양산 사송 더샵데시앙 B4블록</a></td>
   </tr>
 
   <tr>
@@ -124,8 +142,8 @@ categories: [실거래분석]
 
   <tr>
     <td>18</td>
-    <td>경상남도 김해시 신문동</td>
-    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=신문동 대청천 경동리인 뷰">대청천 경동리인 뷰</a></td>
+    <td>경상남도 양산시 동면 내송리</td>
+    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=동면 내송리 양산 사송 더샵데시앙 B3블록">양산 사송 더샵데시앙 B3블록</a></td>
   </tr>
 
   <tr>
@@ -142,14 +160,20 @@ categories: [실거래분석]
 
   <tr>
     <td>16</td>
+    <td>경상북도 경산시 중산동</td>
+    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=중산동 중산자이 1단지">중산자이 1단지</a></td>
+  </tr>
+
+  <tr>
+    <td>16</td>
     <td>경상남도 양산시 동면 사송리</td>
     <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=동면 사송리 양산사송 A1 신혼희망타운">양산사송 A1 신혼희망타운</a></td>
   </tr>
 
   <tr>
-    <td>15</td>
-    <td>충청남도 아산시 모종동</td>
-    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=모종동 힐스테이트 모종 네오루체">힐스테이트 모종 네오루체</a></td>
+    <td>16</td>
+    <td>충청남도 당진시 수청동</td>
+    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=수청동 당진 센트레빌 르네블루">당진 센트레빌 르네블루</a></td>
   </tr>
 
   <tr>
@@ -159,21 +183,33 @@ categories: [실거래분석]
   </tr>
 
   <tr>
-    <td>15</td>
-    <td>충청남도 당진시 수청동</td>
-    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=수청동 당진 센트레빌 르네블루">당진 센트레빌 르네블루</a></td>
-  </tr>
-
-  <tr>
     <td>14</td>
     <td>충청북도 진천군 진천읍 교성리</td>
     <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=진천읍 교성리 진천 교성지구 풍림아이원 트리니티">진천 교성지구 풍림아이원 트리니티</a></td>
   </tr>
 
   <tr>
+    <td>14</td>
+    <td>충청남도 아산시 모종동</td>
+    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=모종동 모종 금호어울림 아이퍼스트">모종 금호어울림 아이퍼스트</a></td>
+  </tr>
+
+  <tr>
     <td>13</td>
     <td>인천광역시 부평구 부개동</td>
     <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=부개동 부평 SK VIEW 해모로">부평 SK VIEW 해모로</a></td>
+  </tr>
+
+  <tr>
+    <td>13</td>
+    <td>경상남도 창원시 마산합포구 월영동</td>
+    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=월영동 마린애시앙부영">마린애시앙부영</a></td>
+  </tr>
+
+  <tr>
+    <td>13</td>
+    <td>경상남도 김해시 삼계동</td>
+    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=삼계동 김해 삼계두곡 한라비발디 센텀시티">김해 삼계두곡 한라비발디 센텀시티</a></td>
   </tr>
 
   <tr>
@@ -190,8 +226,14 @@ categories: [실거래분석]
 
   <tr>
     <td>12</td>
-    <td>경상북도 경산시 중산동</td>
-    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=중산동 중산자이 1단지">중산자이 1단지</a></td>
+    <td>강원도 원주시 명륜동</td>
+    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=명륜동 원주 더샵 센트럴파크 3단지">원주 더샵 센트럴파크 3단지</a></td>
+  </tr>
+
+  <tr>
+    <td>11</td>
+    <td>충청남도 아산시 탕정면 매곡리</td>
+    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=탕정면 매곡리 탕정지구 시티프라디움 2-A4블록">탕정지구 시티프라디움 2-A4블록</a></td>
   </tr>
 
   <tr>
@@ -209,25 +251,13 @@ categories: [실거래분석]
   <tr>
     <td>11</td>
     <td>강원도 원주시 명륜동</td>
-    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=명륜동 원주 더샵 센트럴파크 3단지">원주 더샵 센트럴파크 3단지</a></td>
-  </tr>
-
-  <tr>
-    <td>11</td>
-    <td>강원도 원주시 명륜동</td>
     <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=명륜동 원주 더샵 센트럴파크 2단지">원주 더샵 센트럴파크 2단지</a></td>
   </tr>
 
   <tr>
     <td>11</td>
-    <td>경상남도 양산시 동면 내송리</td>
-    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=동면 내송리 양산 사송 더샵데시앙 B3블록">양산 사송 더샵데시앙 B3블록</a></td>
-  </tr>
-
-  <tr>
-    <td>11</td>
-    <td>경상남도 창원시 마산합포구 월영동</td>
-    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=월영동 마린애시앙부영">마린애시앙부영</a></td>
+    <td>경상남도 양산시 물금읍 범어리</td>
+    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=물금읍 범어리 양산물금 브라운스톤">양산물금 브라운스톤</a></td>
   </tr>
 
   <tr>
@@ -237,15 +267,27 @@ categories: [실거래분석]
   </tr>
 
   <tr>
-    <td>11</td>
-    <td>경상남도 김해시 삼계동</td>
-    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=삼계동 김해 삼계두곡 한라비발디 센텀시티">김해 삼계두곡 한라비발디 센텀시티</a></td>
+    <td>10</td>
+    <td>경기도 안성시 공도읍 만정리</td>
+    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=공도읍 만정리 이트리니티 공도 센트럴파크">이트리니티 공도 센트럴파크</a></td>
   </tr>
 
   <tr>
     <td>10</td>
-    <td>충청남도 아산시 탕정면 매곡리</td>
-    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=탕정면 매곡리 탕정지구 시티프라디움 2-A4블록">탕정지구 시티프라디움 2-A4블록</a></td>
+    <td>경기도 김포시 마산동</td>
+    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=마산동 김포한강 동일스위트ThePark1단지">김포한강 동일스위트ThePark1단지</a></td>
+  </tr>
+
+  <tr>
+    <td>10</td>
+    <td>경기도 평택시 고덕면 궁리</td>
+    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=고덕면 궁리 고덕하늘채 시그니처">고덕하늘채 시그니처</a></td>
+  </tr>
+
+  <tr>
+    <td>10</td>
+    <td>경상북도 경주시 용강동</td>
+    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=용강동 경주 뉴센트로 에일린의 뜰">경주 뉴센트로 에일린의 뜰</a></td>
   </tr>
 
   <tr>
@@ -256,8 +298,8 @@ categories: [실거래분석]
 
   <tr>
     <td>9</td>
-    <td>경기도 안성시 공도읍 만정리</td>
-    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=공도읍 만정리 이트리니티 공도 센트럴파크">이트리니티 공도 센트럴파크</a></td>
+    <td>강원도 원주시 무실동</td>
+    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=무실동 원주 더샵 센트럴파크 1단지">원주 더샵 센트럴파크 1단지</a></td>
   </tr>
 
   <tr>
@@ -270,48 +312,6 @@ categories: [실거래분석]
     <td>9</td>
     <td>경상남도 김해시 내동</td>
     <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=내동 연지공원 푸르지오">연지공원 푸르지오</a></td>
-  </tr>
-
-  <tr>
-    <td>9</td>
-    <td>경상남도 양산시 물금읍 범어리</td>
-    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=물금읍 범어리 양산물금 브라운스톤">양산물금 브라운스톤</a></td>
-  </tr>
-
-  <tr>
-    <td>9</td>
-    <td>대구광역시 달성군 구지면 창리</td>
-    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=구지면 창리 대구국가산단 A3블록 모아미래도">대구국가산단 A3블록 모아미래도</a></td>
-  </tr>
-
-  <tr>
-    <td>9</td>
-    <td>경기도 김포시 마산동</td>
-    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=마산동 김포한강 동일스위트ThePark1단지">김포한강 동일스위트ThePark1단지</a></td>
-  </tr>
-
-  <tr>
-    <td>8</td>
-    <td>경기도 수원시 팔달구 교동</td>
-    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=교동 힐스테이트 푸르지오 수원">힐스테이트 푸르지오 수원</a></td>
-  </tr>
-
-  <tr>
-    <td>8</td>
-    <td>충청남도 천안시 동남구 신방동</td>
-    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=신방동 천안 신방 삼부르네상스">천안 신방 삼부르네상스</a></td>
-  </tr>
-
-  <tr>
-    <td>8</td>
-    <td>강원도 원주시 무실동</td>
-    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=무실동 원주 더샵 센트럴파크 1단지">원주 더샵 센트럴파크 1단지</a></td>
-  </tr>
-
-  <tr>
-    <td>8</td>
-    <td>경상남도 양산시 동면 내송리</td>
-    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=동면 내송리 양산 사송 더샵데시앙 B4블록">양산 사송 더샵데시앙 B4블록</a></td>
   </tr>
 
 </table>
