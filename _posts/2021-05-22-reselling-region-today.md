@@ -34,6 +34,11 @@ categories: [실거래분석]
   </tr>
 
   <tr>
+    <td>10</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/22/26230.html">부산광역시 부산진구 양정동</a></td>
+  </tr>
+
+  <tr>
     <td>8</td>
     <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/22/41590.html">경기도 화성시 병점동</a></td>
   </tr>
@@ -69,6 +74,11 @@ categories: [실거래분석]
   </tr>
 
   <tr>
+    <td>5</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/22/26290.html">부산광역시 남구 대연동</a></td>
+  </tr>
+
+  <tr>
     <td>4</td>
     <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/22/45130.html">전라북도 군산시 조촌동</a></td>
   </tr>
@@ -76,6 +86,16 @@ categories: [실거래분석]
   <tr>
     <td>4</td>
     <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/22/43112.html">충청북도 청주시 서원구 모충동</a></td>
+  </tr>
+
+  <tr>
+    <td>4</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/22/27110.html">대구광역시 중구 달성동</a></td>
+  </tr>
+
+  <tr>
+    <td>4</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/22/26710.html">부산광역시 기장군 기장읍 청강리</a></td>
   </tr>
 
   <tr>
@@ -91,6 +111,11 @@ categories: [실거래분석]
   <tr>
     <td>3</td>
     <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/22/44270.html">충청남도 당진시 수청동</a></td>
+  </tr>
+
+  <tr>
+    <td>3</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/22/26470.html">부산광역시 연제구 거제동</a></td>
   </tr>
 
   <tr>
@@ -116,6 +141,16 @@ categories: [실거래분석]
   <tr>
     <td>2</td>
     <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/22/41500.html">경기도 이천시 송정동</a></td>
+  </tr>
+
+  <tr>
+    <td>2</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/22/26530.html">부산광역시 사상구 덕포동</a></td>
+  </tr>
+
+  <tr>
+    <td>2</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/22/26380.html">부산광역시 사하구 괴정동</a></td>
   </tr>
 
   <tr>
@@ -226,16 +261,6 @@ categories: [실거래분석]
   <tr>
     <td>1</td>
     <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/22/41430.html">경기도 의왕시 오전동</a></td>
-  </tr>
-
-  <tr>
-    <td>1</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/22/41390.html">경기도 시흥시 월곶동</a></td>
-  </tr>
-
-  <tr>
-    <td>1</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/22/41285.html">경기도 고양시 일산동구 식사동</a></td>
   </tr>
 
 </table>

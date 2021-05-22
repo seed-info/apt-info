@@ -57,7 +57,7 @@ categories: [실거래분석]
   </tr>
 
   <tr>
-    <td>32</td>
+    <td>35</td>
     <td>부산광역시 연제구 거제동</td>
     <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=거제동 레이카운티">레이카운티</a></td>
   </tr>
@@ -231,6 +231,12 @@ categories: [실거래분석]
   </tr>
 
   <tr>
+    <td>12</td>
+    <td>부산광역시 부산진구 당감동</td>
+    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=당감동 서면 비스타동원">서면 비스타동원</a></td>
+  </tr>
+
+  <tr>
     <td>11</td>
     <td>충청남도 아산시 탕정면 매곡리</td>
     <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=탕정면 매곡리 탕정지구 시티프라디움 2-A4블록">탕정지구 시티프라디움 2-A4블록</a></td>
@@ -262,6 +268,12 @@ categories: [실거래분석]
 
   <tr>
     <td>11</td>
+    <td>부산광역시 기장군 기장읍 청강리</td>
+    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=기장읍 청강리 부산기장A2 신혼희망타운 공공분양">부산기장A2 신혼희망타운 공공분양</a></td>
+  </tr>
+
+  <tr>
+    <td>11</td>
     <td>경상북도 경주시 용강동</td>
     <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=용강동 두산위브 트레지움">두산위브 트레지움</a></td>
   </tr>
@@ -270,6 +282,12 @@ categories: [실거래분석]
     <td>10</td>
     <td>경기도 안성시 공도읍 만정리</td>
     <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=공도읍 만정리 이트리니티 공도 센트럴파크">이트리니티 공도 센트럴파크</a></td>
+  </tr>
+
+  <tr>
+    <td>10</td>
+    <td>부산광역시 남구 대연동</td>
+    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=대연동 대연 푸르지오 클라센트">대연 푸르지오 클라센트</a></td>
   </tr>
 
   <tr>
@@ -294,24 +312,6 @@ categories: [실거래분석]
     <td>9</td>
     <td>전라북도 익산시 동산동</td>
     <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=동산동 익산 수도산 광신프로그레스">익산 수도산 광신프로그레스</a></td>
-  </tr>
-
-  <tr>
-    <td>9</td>
-    <td>강원도 원주시 무실동</td>
-    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=무실동 원주 더샵 센트럴파크 1단지">원주 더샵 센트럴파크 1단지</a></td>
-  </tr>
-
-  <tr>
-    <td>9</td>
-    <td>울산광역시 동구 서부동</td>
-    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=서부동 울산 지웰시티 자이 2단지">울산 지웰시티 자이 2단지</a></td>
-  </tr>
-
-  <tr>
-    <td>9</td>
-    <td>경상남도 김해시 내동</td>
-    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=내동 연지공원 푸르지오">연지공원 푸르지오</a></td>
   </tr>
 
 </table>
