@@ -74,6 +74,11 @@ categories: [실거래분석]
   </tr>
 
   <tr>
+    <td>175</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/23/28200.html">인천광역시 남동구 구월동</a></td>
+  </tr>
+
+  <tr>
     <td>166</td>
     <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/23/26350.html">부산광역시 해운대구 좌동</a></td>
   </tr>
@@ -81,11 +86,6 @@ categories: [실거래분석]
   <tr>
     <td>164</td>
     <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/23/41480.html">경기도 파주시 금촌동</a></td>
-  </tr>
-
-  <tr>
-    <td>161</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/23/28200.html">인천광역시 남동구 구월동</a></td>
   </tr>
 
   <tr>
@@ -134,8 +134,18 @@ categories: [실거래분석]
   </tr>
 
   <tr>
+    <td>135</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/23/28245.html">인천광역시 계양구 효성동</a></td>
+  </tr>
+
+  <tr>
     <td>131</td>
     <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/23/41463.html">경기도 용인시 기흥구 신갈동</a></td>
+  </tr>
+
+  <tr>
+    <td>129</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/23/41370.html">경기도 오산시 부산동</a></td>
   </tr>
 
   <tr>
@@ -144,18 +154,8 @@ categories: [실거래분석]
   </tr>
 
   <tr>
-    <td>123</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/23/28245.html">인천광역시 계양구 효성동</a></td>
-  </tr>
-
-  <tr>
     <td>122</td>
     <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/23/45130.html">전라북도 군산시 금동</a></td>
-  </tr>
-
-  <tr>
-    <td>122</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/23/41370.html">경기도 오산시 부산동</a></td>
   </tr>
 
   <tr>
@@ -210,6 +210,11 @@ categories: [실거래분석]
 
   <tr>
     <td>105</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/23/41150.html">경기도 의정부시 의정부동</a></td>
+  </tr>
+
+  <tr>
+    <td>105</td>
     <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/23/30170.html">대전광역시 서구 변동</a></td>
   </tr>
 
@@ -221,11 +226,6 @@ categories: [실거래분석]
   <tr>
     <td>104</td>
     <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/23/41550.html">경기도 안성시 공도읍 양기리</a></td>
-  </tr>
-
-  <tr>
-    <td>104</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/23/41150.html">경기도 의정부시 의정부동</a></td>
   </tr>
 
   <tr>

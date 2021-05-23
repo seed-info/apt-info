@@ -50,6 +50,11 @@ categories: [실거래분석]
 
   <tr>
     <td>8</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/23/31170.html">울산광역시 동구 전하동</a></td>
+  </tr>
+
+  <tr>
+    <td>8</td>
     <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/23/28260.html">인천광역시 서구 백석동</a></td>
   </tr>
 
@@ -91,6 +96,11 @@ categories: [실거래분석]
   <tr>
     <td>3</td>
     <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/23/41133.html">경기도 성남시 중원구 금광동</a></td>
+  </tr>
+
+  <tr>
+    <td>3</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/23/31140.html">울산광역시 남구 신정동</a></td>
   </tr>
 
   <tr>
@@ -150,17 +160,12 @@ categories: [실거래분석]
 
   <tr>
     <td>2</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/23/31170.html">울산광역시 동구 전하동</a></td>
-  </tr>
-
-  <tr>
-    <td>2</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/23/31140.html">울산광역시 남구 신정동</a></td>
-  </tr>
-
-  <tr>
-    <td>2</td>
     <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/23/30170.html">대전광역시 서구 도마동</a></td>
+  </tr>
+
+  <tr>
+    <td>2</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/23/29155.html">광주광역시 남구 압촌동</a></td>
   </tr>
 
   <tr>
@@ -256,11 +261,6 @@ categories: [실거래분석]
   <tr>
     <td>1</td>
     <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/23/31200.html">울산광역시 북구 중산동</a></td>
-  </tr>
-
-  <tr>
-    <td>1</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/23/30230.html">대전광역시 대덕구 신탄진동</a></td>
   </tr>
 
 </table>

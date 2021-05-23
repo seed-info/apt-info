@@ -64,7 +64,7 @@ categories: [실거래분석]
   </tr>
 
   <tr>
-    <td>40</td>
+    <td>41</td>
     <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/23/31110.html">울산광역시 중구 복산동</a></td>
   </tr>
 
@@ -86,6 +86,11 @@ categories: [실거래분석]
   <tr>
     <td>38</td>
     <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/23/44250.html">충청남도 계룡시 두마면 농소리</a></td>
+  </tr>
+
+  <tr>
+    <td>35</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/23/31170.html">울산광역시 동구 서부동</a></td>
   </tr>
 
   <tr>
@@ -111,11 +116,6 @@ categories: [실거래분석]
   <tr>
     <td>30</td>
     <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/23/42130.html">강원도 원주시 명륜동</a></td>
-  </tr>
-
-  <tr>
-    <td>29</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/23/31170.html">울산광역시 동구 서부동</a></td>
   </tr>
 
   <tr>
@@ -220,6 +220,11 @@ categories: [실거래분석]
 
   <tr>
     <td>12</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/23/31140.html">울산광역시 남구 야음동</a></td>
+  </tr>
+
+  <tr>
+    <td>12</td>
     <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/23/26320.html">부산광역시 북구 만덕동</a></td>
   </tr>
 
@@ -231,11 +236,6 @@ categories: [실거래분석]
   <tr>
     <td>11</td>
     <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/23/41115.html">경기도 수원시 팔달구 교동</a></td>
-  </tr>
-
-  <tr>
-    <td>11</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/23/31140.html">울산광역시 남구 야음동</a></td>
   </tr>
 
   <tr>
