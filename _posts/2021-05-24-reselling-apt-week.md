@@ -57,6 +57,12 @@ categories: [실거래분석]
   </tr>
 
   <tr>
+    <td>32</td>
+    <td><a href="/실거래가/2021/05/24/48310.html">경상남도 거제시 고현동</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=고현동 e편한세상 거제 유로스카이">e편한세상 거제 유로스카이</a></td>
+  </tr>
+
+  <tr>
     <td>31</td>
     <td><a href="/실거래가/2021/05/24/50110.html">제주특별자치도 제주시 연동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=연동 e편한세상 연동 센트럴파크 2단지">e편한세상 연동 센트럴파크 2단지</a></td>
@@ -99,7 +105,7 @@ categories: [실거래분석]
   </tr>
 
   <tr>
-    <td>22</td>
+    <td>23</td>
     <td><a href="/실거래가/2021/05/24/48330.html">경상남도 양산시 동면 내송리</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=동면 내송리 양산 사송 더샵데시앙 B3블록">양산 사송 더샵데시앙 B3블록</a></td>
   </tr>
@@ -306,12 +312,6 @@ categories: [실거래분석]
     <td>10</td>
     <td><a href="/실거래가/2021/05/24/47130.html">경상북도 경주시 용강동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=용강동 경주 뉴센트로 에일린의 뜰">경주 뉴센트로 에일린의 뜰</a></td>
-  </tr>
-
-  <tr>
-    <td>9</td>
-    <td><a href="/실거래가/2021/05/24/28177.html">인천광역시 미추홀구 주안동</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=주안동 주안파크자이 더 플래티넘">주안파크자이 더 플래티넘</a></td>
   </tr>
 
 </table>

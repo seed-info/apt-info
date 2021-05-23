@@ -15,7 +15,7 @@ categories: [실거래분석]
   </tr>
 
   <tr>
-    <td>202</td>
+    <td>205</td>
     <td><a href="/실거래가/2021/05/24/36110.html">세종특별자치시 집현동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=집현동 새나루마을 12단지">새나루마을 12단지</a></td>
   </tr>
@@ -105,7 +105,7 @@ categories: [실거래분석]
   </tr>
 
   <tr>
-    <td>24</td>
+    <td>25</td>
     <td><a href="/실거래가/2021/05/24/28200.html">인천광역시 남동구 서창동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=서창동 인천서창엘에이치1단지">인천서창엘에이치1단지</a></td>
   </tr>

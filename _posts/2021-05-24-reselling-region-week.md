@@ -39,7 +39,7 @@ categories: [실거래분석]
   </tr>
 
   <tr>
-    <td>77</td>
+    <td>79</td>
     <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/24/48330.html">경상남도 양산시 동면 사송리</a></td>
   </tr>
 
@@ -86,6 +86,11 @@ categories: [실거래분석]
   <tr>
     <td>38</td>
     <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/24/44250.html">충청남도 계룡시 두마면 농소리</a></td>
+  </tr>
+
+  <tr>
+    <td>36</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/24/48310.html">경상남도 거제시 양정동</a></td>
   </tr>
 
   <tr>
@@ -256,11 +261,6 @@ categories: [실거래분석]
   <tr>
     <td>10</td>
     <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/24/41830.html">경기도 양평군 양평읍 창대리</a></td>
-  </tr>
-
-  <tr>
-    <td>10</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/24/41461.html">경기도 용인시 처인구 역북동</a></td>
   </tr>
 
 </table>

@@ -21,13 +21,13 @@ categories: [실거래분석]
   </tr>
 
   <tr>
-    <td>75</td>
+    <td>76</td>
     <td><a href="/실거래가/2021/05/24/41220.html">경기도 평택시 안중읍 현화리</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=안중읍 현화리 성원">성원</a></td>
   </tr>
 
   <tr>
-    <td>48</td>
+    <td>49</td>
     <td><a href="/실거래가/2021/05/24/11110.html">서울특별시 종로구 평창동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=평창동 삼성">삼성</a></td>
   </tr>
@@ -105,7 +105,7 @@ categories: [실거래분석]
   </tr>
 
   <tr>
-    <td>24</td>
+    <td>25</td>
     <td><a href="/실거래가/2021/05/24/26290.html">부산광역시 남구 감만동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=감만동 현대2">현대2</a></td>
   </tr>
@@ -154,6 +154,12 @@ categories: [실거래분석]
 
   <tr>
     <td>20</td>
+    <td><a href="/실거래가/2021/05/24/28185.html">인천광역시 연수구 옥련동</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=옥련동 현대1">현대1</a></td>
+  </tr>
+
+  <tr>
+    <td>20</td>
     <td><a href="/실거래가/2021/05/24/43111.html">충청북도 청주시 상당구 용암동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=용암동 부영">부영</a></td>
   </tr>
@@ -168,12 +174,6 @@ categories: [실거래분석]
     <td>20</td>
     <td><a href="/실거래가/2021/05/24/28185.html">인천광역시 연수구 연수동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=연수동 대림">대림</a></td>
-  </tr>
-
-  <tr>
-    <td>19</td>
-    <td><a href="/실거래가/2021/05/24/28185.html">인천광역시 연수구 옥련동</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=옥련동 현대1">현대1</a></td>
   </tr>
 
   <tr>
@@ -261,6 +261,12 @@ categories: [실거래분석]
   </tr>
 
   <tr>
+    <td>15</td>
+    <td><a href="/실거래가/2021/05/24/11260.html">서울특별시 중랑구 중화동</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=중화동 극동">극동</a></td>
+  </tr>
+
+  <tr>
     <td>14</td>
     <td><a href="/실거래가/2021/05/24/43114.html">충청북도 청주시 청원구 오창읍 각리</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=오창읍 각리 한라비발디">한라비발디</a></td>
@@ -306,12 +312,6 @@ categories: [실거래분석]
     <td>14</td>
     <td><a href="/실거래가/2021/05/24/28185.html">인천광역시 연수구 청학동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=청학동 시대">시대</a></td>
-  </tr>
-
-  <tr>
-    <td>14</td>
-    <td><a href="/실거래가/2021/05/24/41480.html">경기도 파주시 금촌동</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=금촌동 새꽃마을뜨란채(972-0)">새꽃마을뜨란채(972-0)</a></td>
   </tr>
 
 </table>

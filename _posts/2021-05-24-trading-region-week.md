@@ -45,17 +45,17 @@ categories: [실거래분석]
 
   <tr>
     <td>195</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/24/48330.html">경상남도 양산시 남부동</a></td>
+  </tr>
+
+  <tr>
+    <td>195</td>
     <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/24/47190.html">경상북도 구미시 원평동</a></td>
   </tr>
 
   <tr>
-    <td>189</td>
+    <td>190</td>
     <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/24/28260.html">인천광역시 서구 경서동</a></td>
-  </tr>
-
-  <tr>
-    <td>187</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/24/48330.html">경상남도 양산시 남부동</a></td>
   </tr>
 
   <tr>
@@ -229,6 +229,11 @@ categories: [실거래분석]
   </tr>
 
   <tr>
+    <td>102</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/24/43130.html">충청북도 충주시 교현동</a></td>
+  </tr>
+
+  <tr>
     <td>100</td>
     <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/24/47290.html">경상북도 경산시 상방동</a></td>
   </tr>
@@ -236,11 +241,6 @@ categories: [실거래분석]
   <tr>
     <td>100</td>
     <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/24/26290.html">부산광역시 남구 대연동</a></td>
-  </tr>
-
-  <tr>
-    <td>95</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/24/43130.html">충청북도 충주시 교현동</a></td>
   </tr>
 
   <tr>
