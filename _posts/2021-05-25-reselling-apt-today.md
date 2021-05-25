@@ -51,9 +51,21 @@ categories: [실거래분석]
   </tr>
 
   <tr>
+    <td>12</td>
+    <td><a href="/실거래가/2021/05/25/26470.html">부산광역시 연제구 거제동</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=거제동 레이카운티">레이카운티</a></td>
+  </tr>
+
+  <tr>
     <td>11</td>
     <td><a href="/실거래가/2021/05/25/42130.html">강원도 원주시 명륜동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=명륜동 원주 더샵 센트럴파크 2단지">원주 더샵 센트럴파크 2단지</a></td>
+  </tr>
+
+  <tr>
+    <td>10</td>
+    <td><a href="/실거래가/2021/05/25/26230.html">부산광역시 부산진구 당감동</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=당감동 서면 비스타동원">서면 비스타동원</a></td>
   </tr>
 
   <tr>
@@ -72,6 +84,12 @@ categories: [실거래분석]
     <td>8</td>
     <td><a href="/실거래가/2021/05/25/48250.html">경상남도 김해시 신문동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=신문동 대청천 경동리인 뷰">대청천 경동리인 뷰</a></td>
+  </tr>
+
+  <tr>
+    <td>8</td>
+    <td><a href="/실거래가/2021/05/25/27710.html">대구광역시 달성군 구지면 창리</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=구지면 창리 대구국가산단 A3블록 모아미래도">대구국가산단 A3블록 모아미래도</a></td>
   </tr>
 
   <tr>
@@ -120,6 +138,18 @@ categories: [실거래분석]
     <td>6</td>
     <td><a href="/실거래가/2021/05/25/44200.html">충청남도 아산시 모종동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=모종동 모종 금호어울림 아이퍼스트">모종 금호어울림 아이퍼스트</a></td>
+  </tr>
+
+  <tr>
+    <td>6</td>
+    <td><a href="/실거래가/2021/05/25/27110.html">대구광역시 중구 남산동</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=남산동 남산자이하늘채">남산자이하늘채</a></td>
+  </tr>
+
+  <tr>
+    <td>5</td>
+    <td><a href="/실거래가/2021/05/25/28177.html">인천광역시 미추홀구 주안동</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=주안동 힐스테이트푸르지오 주안">힐스테이트푸르지오 주안</a></td>
   </tr>
 
   <tr>
@@ -178,6 +208,12 @@ categories: [실거래분석]
 
   <tr>
     <td>4</td>
+    <td><a href="/실거래가/2021/05/25/26410.html">부산광역시 금정구 부곡동</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=부곡동 부산대역 삼한골든뷰 에듀스테이션">부산대역 삼한골든뷰 에듀스테이션</a></td>
+  </tr>
+
+  <tr>
+    <td>4</td>
     <td><a href="/실거래가/2021/05/25/48125.html">경상남도 창원시 마산합포구 월영동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=월영동 마린애시앙부영">마린애시앙부영</a></td>
   </tr>
@@ -214,6 +250,18 @@ categories: [실거래분석]
 
   <tr>
     <td>3</td>
+    <td><a href="/실거래가/2021/05/25/28140.html">인천광역시 동구 송림동</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=송림동 인천 LH 브리즈힐">인천 LH 브리즈힐</a></td>
+  </tr>
+
+  <tr>
+    <td>3</td>
+    <td><a href="/실거래가/2021/05/25/26230.html">부산광역시 부산진구 개금동</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=개금동 이진 젠시티">이진 젠시티</a></td>
+  </tr>
+
+  <tr>
+    <td>3</td>
     <td><a href="/실거래가/2021/05/25/44131.html">충청남도 천안시 동남구 봉명동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=봉명동 이안 그랑센텀 천안">이안 그랑센텀 천안</a></td>
   </tr>
@@ -238,6 +286,12 @@ categories: [실거래분석]
 
   <tr>
     <td>3</td>
+    <td><a href="/실거래가/2021/05/25/26230.html">부산광역시 부산진구 부암동</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=부암동 시민공원 삼정그린코아 더베스트">시민공원 삼정그린코아 더베스트</a></td>
+  </tr>
+
+  <tr>
+    <td>3</td>
     <td><a href="/실거래가/2021/05/25/42210.html">강원도 속초시 조양동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=조양동 속초 조양동 양우내안애 오션스카이">속초 조양동 양우내안애 오션스카이</a></td>
   </tr>
@@ -256,62 +310,8 @@ categories: [실거래분석]
 
   <tr>
     <td>3</td>
-    <td><a href="/실거래가/2021/05/25/44270.html">충청남도 당진시 수청동</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=수청동 당진 센트레빌 르네블루">당진 센트레빌 르네블루</a></td>
-  </tr>
-
-  <tr>
-    <td>3</td>
-    <td><a href="/실거래가/2021/05/25/48250.html">경상남도 김해시 안동</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=안동 김해 푸르지오 하이엔드">김해 푸르지오 하이엔드</a></td>
-  </tr>
-
-  <tr>
-    <td>3</td>
-    <td><a href="/실거래가/2021/05/25/47113.html">경상북도 포항시 북구 흥해읍 이인리</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=흥해읍 이인리 KTX포항역 삼구 트리니엔">KTX포항역 삼구 트리니엔</a></td>
-  </tr>
-
-  <tr>
-    <td>2</td>
-    <td><a href="/실거래가/2021/05/25/47111.html">경상북도 포항시 남구 오천읍 원리</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=오천읍 원리 힐스테이트포항">힐스테이트포항</a></td>
-  </tr>
-
-  <tr>
-    <td>2</td>
-    <td><a href="/실거래가/2021/05/25/46790.html">전라남도 화순군 화순읍 교리</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=화순읍 교리 힐스테이트 화순">힐스테이트 화순</a></td>
-  </tr>
-
-  <tr>
-    <td>2</td>
-    <td><a href="/실거래가/2021/05/25/41590.html">경기도 화성시 기안동</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=기안동 화성 우방 아이유쉘 메가시티 2단지">화성 우방 아이유쉘 메가시티 2단지</a></td>
-  </tr>
-
-  <tr>
-    <td>2</td>
-    <td><a href="/실거래가/2021/05/25/41590.html">경기도 화성시 기안동</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=기안동 화성 우방 아이유쉘 메가시티 1단지">화성 우방 아이유쉘 메가시티 1단지</a></td>
-  </tr>
-
-  <tr>
-    <td>2</td>
-    <td><a href="/실거래가/2021/05/25/44200.html">충청남도 아산시 탕정면 매곡리</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=탕정면 매곡리 탕정지웰시티푸르지오2-A1">탕정지웰시티푸르지오2-A1</a></td>
-  </tr>
-
-  <tr>
-    <td>2</td>
-    <td><a href="/실거래가/2021/05/25/42110.html">강원도 춘천시 온의동</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=온의동 춘천 센트럴파크 푸르지오">춘천 센트럴파크 푸르지오</a></td>
-  </tr>
-
-  <tr>
-    <td>2</td>
-    <td><a href="/실거래가/2021/05/25/43112.html">충청북도 청주시 서원구 수곡동</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=수곡동 청주 더샵 퍼스트파크">청주 더샵 퍼스트파크</a></td>
+    <td><a href="/실거래가/2021/05/25/27140.html">대구광역시 동구 신암동</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=신암동 동대구 해모로 스퀘어 웨스트">동대구 해모로 스퀘어 웨스트</a></td>
   </tr>
 
 </table>

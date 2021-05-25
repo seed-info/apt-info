@@ -69,6 +69,21 @@ categories: [실거래분석]
   </tr>
 
   <tr>
+    <td>53</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/25/26230.html">부산광역시 부산진구 연지동</a></td>
+  </tr>
+
+  <tr>
+    <td>52</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/25/27710.html">대구광역시 달성군 구지면 창리</a></td>
+  </tr>
+
+  <tr>
+    <td>47</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/25/26470.html">부산광역시 연제구 거제동</a></td>
+  </tr>
+
+  <tr>
     <td>46</td>
     <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/25/28237.html">인천광역시 부평구 십정동</a></td>
   </tr>
@@ -99,8 +114,8 @@ categories: [실거래분석]
   </tr>
 
   <tr>
-    <td>39</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/25/27710.html">대구광역시 달성군 구지면 창리</a></td>
+    <td>37</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/25/28177.html">인천광역시 미추홀구 주안동</a></td>
   </tr>
 
   <tr>
@@ -110,7 +125,7 @@ categories: [실거래분석]
 
   <tr>
     <td>34</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/25/26470.html">부산광역시 연제구 거제동</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/25/26290.html">부산광역시 남구 대연동</a></td>
   </tr>
 
   <tr>
@@ -124,18 +139,23 @@ categories: [실거래분석]
   </tr>
 
   <tr>
-    <td>30</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/25/26230.html">부산광역시 부산진구 연지동</a></td>
+    <td>29</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/25/27140.html">대구광역시 동구 신암동</a></td>
   </tr>
 
   <tr>
-    <td>28</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/25/26290.html">부산광역시 남구 대연동</a></td>
+    <td>27</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/25/27110.html">대구광역시 중구 동인동3가</a></td>
   </tr>
 
   <tr>
     <td>26</td>
     <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/25/44210.html">충청남도 서산시 예천동</a></td>
+  </tr>
+
+  <tr>
+    <td>25</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/25/27170.html">대구광역시 서구 평리동</a></td>
   </tr>
 
   <tr>
@@ -159,16 +179,6 @@ categories: [실거래분석]
   </tr>
 
   <tr>
-    <td>23</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/25/28177.html">인천광역시 미추홀구 주안동</a></td>
-  </tr>
-
-  <tr>
-    <td>23</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/25/27170.html">대구광역시 서구 평리동</a></td>
-  </tr>
-
-  <tr>
     <td>22</td>
     <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/25/42110.html">강원도 춘천시 약사동</a></td>
   </tr>
@@ -181,11 +191,6 @@ categories: [실거래분석]
   <tr>
     <td>20</td>
     <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/25/31170.html">울산광역시 동구 서부동</a></td>
-  </tr>
-
-  <tr>
-    <td>20</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/25/27140.html">대구광역시 동구 신암동</a></td>
   </tr>
 
   <tr>
@@ -224,6 +229,11 @@ categories: [실거래분석]
   </tr>
 
   <tr>
+    <td>15</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/25/26320.html">부산광역시 북구 만덕동</a></td>
+  </tr>
+
+  <tr>
     <td>14</td>
     <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/25/47230.html">경상북도 영천시 완산동</a></td>
   </tr>
@@ -239,11 +249,6 @@ categories: [실거래분석]
   </tr>
 
   <tr>
-    <td>14</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/25/27110.html">대구광역시 중구 동인동3가</a></td>
-  </tr>
-
-  <tr>
     <td>13</td>
     <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/25/50130.html">제주특별자치도 서귀포시 중문동</a></td>
   </tr>
@@ -255,12 +260,7 @@ categories: [실거래분석]
 
   <tr>
     <td>13</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/25/26710.html">부산광역시 기장군 기장읍 교리</a></td>
-  </tr>
-
-  <tr>
-    <td>12</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/25/26320.html">부산광역시 북구 만덕동</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/25/27290.html">대구광역시 달서구 성당동</a></td>
   </tr>
 
 </table>

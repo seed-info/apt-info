@@ -57,6 +57,12 @@ categories: [실거래분석]
   </tr>
 
   <tr>
+    <td>44</td>
+    <td><a href="/실거래가/2021/05/25/26470.html">부산광역시 연제구 거제동</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=거제동 레이카운티">레이카운티</a></td>
+  </tr>
+
+  <tr>
     <td>41</td>
     <td><a href="/실거래가/2021/05/25/31110.html">울산광역시 중구 복산동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=복산동 번영로 센트리지">번영로 센트리지</a></td>
@@ -66,12 +72,6 @@ categories: [실거래분석]
     <td>34</td>
     <td><a href="/실거래가/2021/05/25/41590.html">경기도 화성시 오산동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=오산동 동탄2 C7블록 동탄역 예미지 3차">동탄2 C7블록 동탄역 예미지 3차</a></td>
-  </tr>
-
-  <tr>
-    <td>32</td>
-    <td><a href="/실거래가/2021/05/25/26470.html">부산광역시 연제구 거제동</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=거제동 레이카운티">레이카운티</a></td>
   </tr>
 
   <tr>
@@ -147,15 +147,21 @@ categories: [실거래분석]
   </tr>
 
   <tr>
+    <td>22</td>
+    <td><a href="/실거래가/2021/05/25/27710.html">대구광역시 달성군 구지면 창리</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=구지면 창리 대구국가산단 A2-1블록 대방노블랜드">대구국가산단 A2-1블록 대방노블랜드</a></td>
+  </tr>
+
+  <tr>
     <td>21</td>
     <td><a href="/실거래가/2021/05/25/28185.html">인천광역시 연수구 송도동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=송도동 힐스테이트 레이크 송도 3차">힐스테이트 레이크 송도 3차</a></td>
   </tr>
 
   <tr>
-    <td>21</td>
-    <td><a href="/실거래가/2021/05/25/27710.html">대구광역시 달성군 구지면 창리</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=구지면 창리 대구국가산단 A2-1블록 대방노블랜드">대구국가산단 A2-1블록 대방노블랜드</a></td>
+    <td>20</td>
+    <td><a href="/실거래가/2021/05/25/26230.html">부산광역시 부산진구 당감동</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=당감동 서면 비스타동원">서면 비스타동원</a></td>
   </tr>
 
   <tr>
@@ -196,6 +202,12 @@ categories: [실거래분석]
 
   <tr>
     <td>18</td>
+    <td><a href="/실거래가/2021/05/25/27710.html">대구광역시 달성군 구지면 창리</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=구지면 창리 대구국가산단 A3블록 모아미래도">대구국가산단 A3블록 모아미래도</a></td>
+  </tr>
+
+  <tr>
+    <td>18</td>
     <td><a href="/실거래가/2021/05/25/44270.html">충청남도 당진시 수청동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=수청동 당진 센트레빌 르네블루">당진 센트레빌 르네블루</a></td>
   </tr>
@@ -210,6 +222,12 @@ categories: [실거래분석]
     <td>16</td>
     <td><a href="/실거래가/2021/05/25/45140.html">전라북도 익산시 동산동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=동산동 익산 수도산 광신프로그레스">익산 수도산 광신프로그레스</a></td>
+  </tr>
+
+  <tr>
+    <td>16</td>
+    <td><a href="/실거래가/2021/05/25/27170.html">대구광역시 서구 원대동3가</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=원대동3가 서대구센트럴자이">서대구센트럴자이</a></td>
   </tr>
 
   <tr>
@@ -234,12 +252,6 @@ categories: [실거래분석]
     <td>15</td>
     <td><a href="/실거래가/2021/05/25/41550.html">경기도 안성시 공도읍 만정리</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=공도읍 만정리 이트리니티 공도 센트럴파크">이트리니티 공도 센트럴파크</a></td>
-  </tr>
-
-  <tr>
-    <td>15</td>
-    <td><a href="/실거래가/2021/05/25/27170.html">대구광역시 서구 원대동3가</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=원대동3가 서대구센트럴자이">서대구센트럴자이</a></td>
   </tr>
 
   <tr>
@@ -300,18 +312,6 @@ categories: [실거래분석]
     <td>12</td>
     <td><a href="/실거래가/2021/05/25/47113.html">경상북도 포항시 북구 흥해읍 이인리</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=흥해읍 이인리 KTX포항역 삼구 트리니엔">KTX포항역 삼구 트리니엔</a></td>
-  </tr>
-
-  <tr>
-    <td>11</td>
-    <td><a href="/실거래가/2021/05/25/28237.html">인천광역시 부평구 십정동</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=십정동 힐스테이트 부평">힐스테이트 부평</a></td>
-  </tr>
-
-  <tr>
-    <td>11</td>
-    <td><a href="/실거래가/2021/05/25/48330.html">경상남도 양산시 물금읍 범어리</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=물금읍 범어리 양산물금 브라운스톤">양산물금 브라운스톤</a></td>
   </tr>
 
 </table>
