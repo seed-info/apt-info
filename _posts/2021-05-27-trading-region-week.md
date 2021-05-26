@@ -14,253 +14,253 @@ categories: [실거래분석]
   </tr>
 
   <tr>
-    <td>349</td>
+    <td>397</td>
     <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/27/41220.html">경기도 평택시 서정동</a></td>
   </tr>
 
   <tr>
-    <td>276</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/27/41590.html">경기도 화성시 목동</a></td>
-  </tr>
-
-  <tr>
-    <td>272</td>
+    <td>354</td>
     <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/27/48250.html">경상남도 김해시 구산동</a></td>
   </tr>
 
   <tr>
-    <td>230</td>
+    <td>322</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/27/41590.html">경기도 화성시 목동</a></td>
+  </tr>
+
+  <tr>
+    <td>263</td>
     <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/27/44200.html">충청남도 아산시 온천동</a></td>
   </tr>
 
   <tr>
-    <td>214</td>
+    <td>246</td>
     <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/27/41390.html">경기도 시흥시 대야동</a></td>
   </tr>
 
   <tr>
-    <td>202</td>
+    <td>240</td>
     <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/27/44133.html">충청남도 천안시 서북구 백석동</a></td>
   </tr>
 
   <tr>
-    <td>192</td>
+    <td>229</td>
     <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/27/47190.html">경상북도 구미시 송정동</a></td>
   </tr>
 
   <tr>
-    <td>181</td>
+    <td>226</td>
     <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/27/28260.html">인천광역시 서구 검암동</a></td>
   </tr>
 
   <tr>
-    <td>179</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/27/41190.html">경기도 부천시 심곡동</a></td>
-  </tr>
-
-  <tr>
-    <td>177</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/27/28237.html">인천광역시 부평구 부평동</a></td>
-  </tr>
-
-  <tr>
-    <td>177</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/27/26350.html">부산광역시 해운대구 재송동</a></td>
-  </tr>
-
-  <tr>
-    <td>173</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/27/28200.html">인천광역시 남동구 구월동</a></td>
-  </tr>
-
-  <tr>
-    <td>172</td>
+    <td>225</td>
     <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/27/42130.html">강원도 원주시 단구동</a></td>
   </tr>
 
   <tr>
-    <td>172</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/27/28185.html">인천광역시 연수구 옥련동</a></td>
+    <td>218</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/27/26350.html">부산광역시 해운대구 재송동</a></td>
   </tr>
 
   <tr>
-    <td>168</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/27/48330.html">경상남도 양산시 어곡동</a></td>
+    <td>211</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/27/28237.html">인천광역시 부평구 부평동</a></td>
   </tr>
 
   <tr>
-    <td>165</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/27/41480.html">경기도 파주시 금촌동</a></td>
+    <td>205</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/27/28200.html">인천광역시 남동구 구월동</a></td>
   </tr>
 
   <tr>
-    <td>159</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/27/45113.html">전라북도 전주시 덕진구 인후동1가</a></td>
-  </tr>
-
-  <tr>
-    <td>159</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/27/41360.html">경기도 남양주시 별내면 청학리</a></td>
-  </tr>
-
-  <tr>
-    <td>158</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/27/43112.html">충청북도 청주시 서원구 사창동</a></td>
-  </tr>
-
-  <tr>
-    <td>157</td>
+    <td>202</td>
     <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/27/29170.html">광주광역시 북구 일곡동</a></td>
   </tr>
 
   <tr>
-    <td>152</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/27/44131.html">충청남도 천안시 동남구 청당동</a></td>
+    <td>200</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/27/41190.html">경기도 부천시 심곡동</a></td>
   </tr>
 
   <tr>
-    <td>151</td>
+    <td>199</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/27/41480.html">경기도 파주시 금촌동</a></td>
+  </tr>
+
+  <tr>
+    <td>193</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/27/48330.html">경상남도 양산시 어곡동</a></td>
+  </tr>
+
+  <tr>
+    <td>192</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/27/28185.html">인천광역시 연수구 옥련동</a></td>
+  </tr>
+
+  <tr>
+    <td>189</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/27/43112.html">충청북도 청주시 서원구 사창동</a></td>
+  </tr>
+
+  <tr>
+    <td>188</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/27/41360.html">경기도 남양주시 별내면 청학리</a></td>
+  </tr>
+
+  <tr>
+    <td>184</td>
     <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/27/41117.html">경기도 수원시 영통구 매탄동</a></td>
   </tr>
 
   <tr>
-    <td>148</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/27/29200.html">광주광역시 광산구 선암동</a></td>
-  </tr>
-
-  <tr>
-    <td>139</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/27/45111.html">전라북도 전주시 완산구 서완산동2가</a></td>
-  </tr>
-
-  <tr>
-    <td>139</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/27/41287.html">경기도 고양시 일산서구 주엽동</a></td>
-  </tr>
-
-  <tr>
-    <td>138</td>
+    <td>183</td>
     <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/27/28245.html">인천광역시 계양구 계산동</a></td>
   </tr>
 
   <tr>
-    <td>137</td>
+    <td>178</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/27/45113.html">전라북도 전주시 덕진구 인후동1가</a></td>
+  </tr>
+
+  <tr>
+    <td>177</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/27/29200.html">광주광역시 광산구 선암동</a></td>
+  </tr>
+
+  <tr>
+    <td>173</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/27/44131.html">충청남도 천안시 동남구 청당동</a></td>
+  </tr>
+
+  <tr>
+    <td>171</td>
     <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/27/48123.html">경상남도 창원시 성산구 대방동</a></td>
   </tr>
 
   <tr>
-    <td>136</td>
+    <td>171</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/27/41287.html">경기도 고양시 일산서구 주엽동</a></td>
+  </tr>
+
+  <tr>
+    <td>168</td>
     <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/27/43113.html">충청북도 청주시 흥덕구 강내면 월곡리</a></td>
   </tr>
 
   <tr>
-    <td>133</td>
+    <td>164</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/27/45111.html">전라북도 전주시 완산구 서완산동2가</a></td>
+  </tr>
+
+  <tr>
+    <td>162</td>
     <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/27/26380.html">부산광역시 사하구 하단동</a></td>
   </tr>
 
   <tr>
-    <td>132</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/27/41113.html">경기도 수원시 권선구 고색동</a></td>
-  </tr>
-
-  <tr>
-    <td>130</td>
+    <td>157</td>
     <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/27/41463.html">경기도 용인시 기흥구 신갈동</a></td>
   </tr>
 
   <tr>
-    <td>125</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/27/11350.html">서울특별시 노원구 상계동</a></td>
-  </tr>
-
-  <tr>
-    <td>123</td>
+    <td>155</td>
     <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/27/41150.html">경기도 의정부시 호원동</a></td>
   </tr>
 
   <tr>
-    <td>122</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/27/27230.html">대구광역시 북구 노원동3가</a></td>
+    <td>150</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/27/11350.html">서울특별시 노원구 상계동</a></td>
   </tr>
 
   <tr>
-    <td>120</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/27/28177.html">인천광역시 미추홀구 용현동</a></td>
-  </tr>
-
-  <tr>
-    <td>120</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/27/26230.html">부산광역시 부산진구 양정동</a></td>
-  </tr>
-
-  <tr>
-    <td>118</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/27/47290.html">경상북도 경산시 백천동</a></td>
-  </tr>
-
-  <tr>
-    <td>118</td>
+    <td>148</td>
     <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/27/45130.html">전라북도 군산시 수송동</a></td>
   </tr>
 
   <tr>
-    <td>116</td>
+    <td>148</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/27/41113.html">경기도 수원시 권선구 고색동</a></td>
+  </tr>
+
+  <tr>
+    <td>146</td>
     <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/27/41550.html">경기도 안성시 당왕동</a></td>
   </tr>
 
   <tr>
-    <td>116</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/27/41370.html">경기도 오산시 오산동</a></td>
+    <td>144</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/27/28177.html">인천광역시 미추홀구 용현동</a></td>
   </tr>
 
   <tr>
-    <td>115</td>
+    <td>140</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/27/47290.html">경상북도 경산시 백천동</a></td>
+  </tr>
+
+  <tr>
+    <td>140</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/27/26230.html">부산광역시 부산진구 양정동</a></td>
+  </tr>
+
+  <tr>
+    <td>138</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/27/27230.html">대구광역시 북구 노원동3가</a></td>
+  </tr>
+
+  <tr>
+    <td>134</td>
     <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/27/48170.html">경상남도 진주시 상봉동</a></td>
   </tr>
 
   <tr>
-    <td>110</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/27/48310.html">경상남도 거제시 옥포동</a></td>
-  </tr>
-
-  <tr>
-    <td>110</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/27/26320.html">부산광역시 북구 금곡동</a></td>
-  </tr>
-
-  <tr>
-    <td>109</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/27/29140.html">광주광역시 서구 농성동</a></td>
-  </tr>
-
-  <tr>
-    <td>106</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/27/30200.html">대전광역시 유성구 덕명동</a></td>
-  </tr>
-
-  <tr>
-    <td>106</td>
+    <td>133</td>
     <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/27/30170.html">대전광역시 서구 용문동</a></td>
   </tr>
 
   <tr>
-    <td>101</td>
+    <td>132</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/27/41370.html">경기도 오산시 오산동</a></td>
+  </tr>
+
+  <tr>
+    <td>130</td>
     <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/27/26290.html">부산광역시 남구 대연동</a></td>
   </tr>
 
   <tr>
-    <td>97</td>
+    <td>129</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/27/30200.html">대전광역시 유성구 덕명동</a></td>
+  </tr>
+
+  <tr>
+    <td>127</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/27/29140.html">광주광역시 서구 농성동</a></td>
+  </tr>
+
+  <tr>
+    <td>124</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/27/41465.html">경기도 용인시 수지구 풍덕천동</a></td>
+  </tr>
+
+  <tr>
+    <td>124</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/27/26320.html">부산광역시 북구 금곡동</a></td>
+  </tr>
+
+  <tr>
+    <td>123</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/27/48310.html">경상남도 거제시 옥포동</a></td>
+  </tr>
+
+  <tr>
+    <td>121</td>
     <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/27/11680.html">서울특별시 강남구 개포동</a></td>
   </tr>
 
   <tr>
-    <td>96</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/27/45140.html">전라북도 익산시 영등동</a></td>
-  </tr>
-
-  <tr>
-    <td>94</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/27/43130.html">충청북도 충주시 봉방동</a></td>
+    <td>119</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/27/11500.html">서울특별시 강서구 염창동</a></td>
   </tr>
 
 </table>

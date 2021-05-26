@@ -23,10 +23,11 @@
       {% endif %}
     </title>
     <!-- async load css file -->
-    <link rel="stylesheet" href="{{"/assets/css/styles.css" | relative_url}}" media="none" onload="if(media!='all')media='all'">
+    <!-- <link rel="stylesheet" href="{{"/assets/css/styles.css" | relative_url}}" media="none" onload="if(media!='all')media='all'"> -->
     <!-- Load css when script is disabled -->
-    <noscript><link rel="stylesheet" href="{{"/assets/css/styles.css" | relative_url}}"></noscript>
-
+    <!-- <noscript><link rel="stylesheet" href="{{"/assets/css/styles.css" | relative_url}}"></noscript> -->
+    <link rel="stylesheet" href="{{"/assets/css/styles.css" | relative_url}}">
+    
     <!-- Dns Prefetch the google analytics -->
     <link rel="dns-prefetch" href="www.googletagmanager.com">
     <link rel="dns-prefetch" href="www.google-analytics.com">
