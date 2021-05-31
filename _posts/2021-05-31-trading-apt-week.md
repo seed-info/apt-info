@@ -27,13 +27,13 @@ categories: [실거래분석]
   </tr>
 
   <tr>
-    <td>67</td>
+    <td>68</td>
     <td><a href="/실거래가/2021/05/31/41150.html">경기도 의정부시 민락동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=민락동 주공">주공</a></td>
   </tr>
 
   <tr>
-    <td>58</td>
+    <td>59</td>
     <td><a href="/실거래가/2021/05/31/46110.html">전라남도 목포시 산정동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=산정동 삼성">삼성</a></td>
   </tr>
@@ -166,6 +166,12 @@ categories: [실거래분석]
 
   <tr>
     <td>23</td>
+    <td><a href="/실거래가/2021/05/31/42110.html">강원도 춘천시 우두동</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=우두동 동부">동부</a></td>
+  </tr>
+
+  <tr>
+    <td>23</td>
     <td><a href="/실거래가/2021/05/31/26350.html">부산광역시 해운대구 좌동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=좌동 대림">대림</a></td>
   </tr>
@@ -202,20 +208,14 @@ categories: [실거래분석]
 
   <tr>
     <td>21</td>
-    <td><a href="/실거래가/2021/05/31/42110.html">강원도 춘천시 우두동</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=우두동 동부">동부</a></td>
+    <td><a href="/실거래가/2021/05/31/41171.html">경기도 안양시 만안구 안양동</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=안양동 벽산">벽산</a></td>
   </tr>
 
   <tr>
     <td>20</td>
     <td><a href="/실거래가/2021/05/31/41220.html">경기도 평택시 비전동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=비전동 소사벌리더스하임">소사벌리더스하임</a></td>
-  </tr>
-
-  <tr>
-    <td>20</td>
-    <td><a href="/실거래가/2021/05/31/41171.html">경기도 안양시 만안구 안양동</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=안양동 벽산">벽산</a></td>
   </tr>
 
   <tr>
@@ -232,6 +232,12 @@ categories: [실거래분석]
 
   <tr>
     <td>19</td>
+    <td><a href="/실거래가/2021/05/31/44200.html">충청남도 아산시 탕정면 호산리</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=탕정면 호산리 홍익">홍익</a></td>
+  </tr>
+
+  <tr>
+    <td>19</td>
     <td><a href="/실거래가/2021/05/31/41550.html">경기도 안성시 공도읍 진사리</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=공도읍 진사리 우림">우림</a></td>
   </tr>
@@ -240,6 +246,12 @@ categories: [실거래분석]
     <td>19</td>
     <td><a href="/실거래가/2021/05/31/41465.html">경기도 용인시 수지구 상현동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=상현동 수지상현 THE S">수지상현 THE S</a></td>
+  </tr>
+
+  <tr>
+    <td>19</td>
+    <td><a href="/실거래가/2021/05/31/28200.html">인천광역시 남동구 만수동</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=만수동 뉴서울">뉴서울</a></td>
   </tr>
 
   <tr>
@@ -286,20 +298,8 @@ categories: [실거래분석]
 
   <tr>
     <td>18</td>
-    <td><a href="/실거래가/2021/05/31/28200.html">인천광역시 남동구 만수동</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=만수동 뉴서울">뉴서울</a></td>
-  </tr>
-
-  <tr>
-    <td>18</td>
     <td><a href="/실거래가/2021/05/31/48330.html">경상남도 양산시 동면 석산리</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=동면 석산리 극동">극동</a></td>
-  </tr>
-
-  <tr>
-    <td>17</td>
-    <td><a href="/실거래가/2021/05/31/44200.html">충청남도 아산시 탕정면 호산리</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=탕정면 호산리 홍익">홍익</a></td>
   </tr>
 
   <tr>

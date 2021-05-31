@@ -21,7 +21,7 @@ categories: [실거래분석]
   </tr>
 
   <tr>
-    <td>157</td>
+    <td>158</td>
     <td><a href="/실거래가/2021/05/31/36110.html">세종특별자치시 집현동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=집현동 새나루마을 12단지">새나루마을 12단지</a></td>
   </tr>
@@ -42,6 +42,12 @@ categories: [실거래분석]
     <td>90</td>
     <td><a href="/실거래가/2021/05/31/41220.html">경기도 평택시 고덕면 여염리</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=고덕면 여염리 평택고덕엘에이치35단지">평택고덕엘에이치35단지</a></td>
+  </tr>
+
+  <tr>
+    <td>75</td>
+    <td><a href="/실거래가/2021/05/31/41290.html">경기도 과천시 원문동</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=원문동 과천 위버필드(201~216동)">과천 위버필드(201~216동)</a></td>
   </tr>
 
   <tr>
@@ -159,6 +165,12 @@ categories: [실거래분석]
   </tr>
 
   <tr>
+    <td>28</td>
+    <td><a href="/실거래가/2021/05/31/11710.html">서울특별시 송파구 마천동</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=마천동 송파파크데일3단지">송파파크데일3단지</a></td>
+  </tr>
+
+  <tr>
     <td>26</td>
     <td><a href="/실거래가/2021/05/31/11500.html">서울특별시 강서구 등촌동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=등촌동 주공3">주공3</a></td>
@@ -168,12 +180,6 @@ categories: [실거래분석]
     <td>26</td>
     <td><a href="/실거래가/2021/05/31/41210.html">경기도 광명시 하안동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=하안동 주공1">주공1</a></td>
-  </tr>
-
-  <tr>
-    <td>25</td>
-    <td><a href="/실거래가/2021/05/31/11710.html">서울특별시 송파구 마천동</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=마천동 송파파크데일3단지">송파파크데일3단지</a></td>
   </tr>
 
   <tr>
@@ -306,12 +312,6 @@ categories: [실거래분석]
     <td>18</td>
     <td><a href="/실거래가/2021/05/31/11740.html">서울특별시 강동구 강일동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=강일동 강일리버파크6단지">강일리버파크6단지</a></td>
-  </tr>
-
-  <tr>
-    <td>17</td>
-    <td><a href="/실거래가/2021/05/31/41281.html">경기도 고양시 덕양구 원흥동</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=원흥동 엘에이치원흥도래울마을1단지(임대)">엘에이치원흥도래울마을1단지(임대)</a></td>
   </tr>
 
 </table>

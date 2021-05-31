@@ -14,12 +14,12 @@ categories: [실거래분석]
   </tr>
 
   <tr>
-    <td>440</td>
+    <td>563</td>
     <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/31/48250.html">경상남도 김해시 안동</a></td>
   </tr>
 
   <tr>
-    <td>341</td>
+    <td>396</td>
     <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/31/48310.html">경상남도 거제시 고현동</a></td>
   </tr>
 
@@ -34,7 +34,7 @@ categories: [실거래분석]
   </tr>
 
   <tr>
-    <td>69</td>
+    <td>70</td>
     <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/31/26230.html">부산광역시 부산진구 양정동</a></td>
   </tr>
 

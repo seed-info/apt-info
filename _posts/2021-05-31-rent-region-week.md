@@ -14,12 +14,12 @@ categories: [실거래분석]
   </tr>
 
   <tr>
-    <td>370</td>
+    <td>375</td>
     <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/31/11710.html">서울특별시 송파구 마천동</a></td>
   </tr>
 
   <tr>
-    <td>338</td>
+    <td>339</td>
     <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/31/11740.html">서울특별시 강동구 상일동</a></td>
   </tr>
 
@@ -29,7 +29,7 @@ categories: [실거래분석]
   </tr>
 
   <tr>
-    <td>321</td>
+    <td>322</td>
     <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/31/36110.html">세종특별자치시 집현동</a></td>
   </tr>
 
@@ -44,8 +44,18 @@ categories: [실거래분석]
   </tr>
 
   <tr>
+    <td>250</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/31/41290.html">경기도 과천시 원문동</a></td>
+  </tr>
+
+  <tr>
     <td>245</td>
     <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/31/41135.html">경기도 성남시 분당구 수내동</a></td>
+  </tr>
+
+  <tr>
+    <td>240</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/31/11650.html">서울특별시 서초구 우면동</a></td>
   </tr>
 
   <tr>
@@ -56,11 +66,6 @@ categories: [실거래분석]
   <tr>
     <td>238</td>
     <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/31/11500.html">서울특별시 강서구 등촌동</a></td>
-  </tr>
-
-  <tr>
-    <td>237</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/31/11650.html">서울특별시 서초구 우면동</a></td>
   </tr>
 
   <tr>
@@ -116,11 +121,6 @@ categories: [실거래분석]
   <tr>
     <td>175</td>
     <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/31/41390.html">경기도 시흥시 은행동</a></td>
-  </tr>
-
-  <tr>
-    <td>175</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/31/41290.html">경기도 과천시 원문동</a></td>
   </tr>
 
   <tr>

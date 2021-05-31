@@ -15,7 +15,7 @@ categories: [실거래분석]
   </tr>
 
   <tr>
-    <td>333</td>
+    <td>383</td>
     <td><a href="/실거래가/2021/05/31/48310.html">경상남도 거제시 고현동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=고현동 e편한세상 거제 유로스카이">e편한세상 거제 유로스카이</a></td>
   </tr>
@@ -27,7 +27,7 @@ categories: [실거래분석]
   </tr>
 
   <tr>
-    <td>136</td>
+    <td>256</td>
     <td><a href="/실거래가/2021/05/31/48250.html">경상남도 김해시 안동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=안동 김해 푸르지오 하이엔드 2차">김해 푸르지오 하이엔드 2차</a></td>
   </tr>
@@ -69,7 +69,7 @@ categories: [실거래분석]
   </tr>
 
   <tr>
-    <td>33</td>
+    <td>34</td>
     <td><a href="/실거래가/2021/05/31/26230.html">부산광역시 부산진구 당감동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=당감동 서면 비스타동원">서면 비스타동원</a></td>
   </tr>
@@ -208,6 +208,12 @@ categories: [실거래분석]
 
   <tr>
     <td>13</td>
+    <td><a href="/실거래가/2021/05/31/48250.html">경상남도 김해시 삼계동</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=삼계동 김해 삼계두곡 한라비발디 센텀시티">김해 삼계두곡 한라비발디 센텀시티</a></td>
+  </tr>
+
+  <tr>
+    <td>13</td>
     <td><a href="/실거래가/2021/05/31/47290.html">경상북도 경산시 하양읍 서사리</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=하양읍 서사리 경산하양 호반써밋 더 퍼스트">경산하양 호반써밋 더 퍼스트</a></td>
   </tr>
@@ -240,12 +246,6 @@ categories: [실거래분석]
     <td>12</td>
     <td><a href="/실거래가/2021/05/31/44200.html">충청남도 아산시 배방읍 북수리</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=배방읍 북수리 더샵 센트로">더샵 센트로</a></td>
-  </tr>
-
-  <tr>
-    <td>12</td>
-    <td><a href="/실거래가/2021/05/31/48250.html">경상남도 김해시 삼계동</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=삼계동 김해 삼계두곡 한라비발디 센텀시티">김해 삼계두곡 한라비발디 센텀시티</a></td>
   </tr>
 
   <tr>
@@ -285,6 +285,12 @@ categories: [실거래분석]
   </tr>
 
   <tr>
+    <td>11</td>
+    <td><a href="/실거래가/2021/05/31/48310.html">경상남도 거제시 고현동</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=고현동 e편한세상 거제 유로아일랜드">e편한세상 거제 유로아일랜드</a></td>
+  </tr>
+
+  <tr>
     <td>10</td>
     <td><a href="/실거래가/2021/05/31/41115.html">경기도 수원시 팔달구 교동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=교동 힐스테이트 푸르지오 수원">힐스테이트 푸르지오 수원</a></td>
@@ -306,12 +312,6 @@ categories: [실거래분석]
     <td>10</td>
     <td><a href="/실거래가/2021/05/31/26230.html">부산광역시 부산진구 부암동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=부암동 백양산 롯데캐슬 골드센트럴">백양산 롯데캐슬 골드센트럴</a></td>
-  </tr>
-
-  <tr>
-    <td>10</td>
-    <td><a href="/실거래가/2021/05/31/41570.html">경기도 김포시 마산동</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=마산동 김포한강 동일스위트ThePark1단지">김포한강 동일스위트ThePark1단지</a></td>
   </tr>
 
 </table>

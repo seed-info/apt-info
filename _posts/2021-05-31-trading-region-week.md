@@ -24,7 +24,7 @@ categories: [실거래분석]
   </tr>
 
   <tr>
-    <td>291</td>
+    <td>296</td>
     <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/31/48250.html">경상남도 김해시 구산동</a></td>
   </tr>
 
@@ -74,6 +74,11 @@ categories: [실거래분석]
   </tr>
 
   <tr>
+    <td>191</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/31/28200.html">인천광역시 남동구 간석동</a></td>
+  </tr>
+
+  <tr>
     <td>185</td>
     <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/31/41190.html">경기도 부천시 중동</a></td>
   </tr>
@@ -89,11 +94,6 @@ categories: [실거래분석]
   </tr>
 
   <tr>
-    <td>180</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/31/28200.html">인천광역시 남동구 간석동</a></td>
-  </tr>
-
-  <tr>
     <td>178</td>
     <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/31/41480.html">경기도 파주시 와동동</a></td>
   </tr>
@@ -101,6 +101,11 @@ categories: [실거래분석]
   <tr>
     <td>175</td>
     <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/31/28245.html">인천광역시 계양구 계산동</a></td>
+  </tr>
+
+  <tr>
+    <td>162</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/31/48330.html">경상남도 양산시 물금읍 범어리</a></td>
   </tr>
 
   <tr>
@@ -121,11 +126,6 @@ categories: [실거래분석]
   <tr>
     <td>156</td>
     <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/31/43113.html">충청북도 청주시 흥덕구 가경동</a></td>
-  </tr>
-
-  <tr>
-    <td>154</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/31/48330.html">경상남도 양산시 물금읍 범어리</a></td>
   </tr>
 
   <tr>
@@ -189,6 +189,11 @@ categories: [실거래분석]
   </tr>
 
   <tr>
+    <td>129</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/31/26230.html">부산광역시 부산진구 양정동</a></td>
+  </tr>
+
+  <tr>
     <td>128</td>
     <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/31/28177.html">인천광역시 미추홀구 용현동</a></td>
   </tr>
@@ -204,13 +209,13 @@ categories: [실거래분석]
   </tr>
 
   <tr>
-    <td>125</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/31/26230.html">부산광역시 부산진구 양정동</a></td>
+    <td>123</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/31/11350.html">서울특별시 노원구 공릉동</a></td>
   </tr>
 
   <tr>
-    <td>123</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/31/11350.html">서울특별시 노원구 공릉동</a></td>
+    <td>122</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/31/48310.html">경상남도 거제시 아주동</a></td>
   </tr>
 
   <tr>
@@ -246,11 +251,6 @@ categories: [실거래분석]
   <tr>
     <td>110</td>
     <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/31/29140.html">광주광역시 서구 양동</a></td>
-  </tr>
-
-  <tr>
-    <td>107</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/실거래가/2021/05/31/48310.html">경상남도 거제시 아주동</a></td>
   </tr>
 
   <tr>
