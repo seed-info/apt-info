@@ -15,21 +15,39 @@ categories: [실거래분석]
   </tr>
 
   <tr>
-    <td>12</td>
+    <td>31</td>
     <td><a href="/실거래가/2021/06/04/47113.html">경상북도 포항시 북구 흥해읍 이인리</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=흥해읍 이인리 한화 포레나 포항">한화 포레나 포항</a></td>
   </tr>
 
   <tr>
-    <td>8</td>
+    <td>11</td>
     <td><a href="/실거래가/2021/06/04/44131.html">충청남도 천안시 동남구 풍세면 보성리</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=풍세면 보성리 천안 한양수자인 에코시티">천안 한양수자인 에코시티</a></td>
   </tr>
 
   <tr>
-    <td>5</td>
+    <td>9</td>
+    <td><a href="/실거래가/2021/06/04/41630.html">경기도 양주시 장흥면 부곡리</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=장흥면 부곡리 송추 북한산 경남아너스빌">송추 북한산 경남아너스빌</a></td>
+  </tr>
+
+  <tr>
+    <td>8</td>
     <td><a href="/실거래가/2021/06/04/47113.html">경상북도 포항시 북구 흥해읍 이인리</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=흥해읍 이인리 KTX포항역 삼구 트리니엔">KTX포항역 삼구 트리니엔</a></td>
+  </tr>
+
+  <tr>
+    <td>7</td>
+    <td><a href="/실거래가/2021/06/04/48310.html">경상남도 거제시 고현동</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=고현동 e편한세상 거제 유로스카이">e편한세상 거제 유로스카이</a></td>
+  </tr>
+
+  <tr>
+    <td>5</td>
+    <td><a href="/실거래가/2021/06/04/44200.html">충청남도 아산시 신창면 남성리</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=신창면 남성리 아산 삼부르네상스 더힐">아산 삼부르네상스 더힐</a></td>
   </tr>
 
   <tr>
@@ -40,14 +58,50 @@ categories: [실거래분석]
 
   <tr>
     <td>4</td>
-    <td><a href="/실거래가/2021/06/04/44200.html">충청남도 아산시 신창면 남성리</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=신창면 남성리 아산 삼부르네상스 더힐">아산 삼부르네상스 더힐</a></td>
+    <td><a href="/실거래가/2021/06/04/47113.html">경상북도 포항시 북구 득량동</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=득량동 포항 양학 신원아침도시 퀘렌시아">포항 양학 신원아침도시 퀘렌시아</a></td>
   </tr>
 
   <tr>
     <td>4</td>
-    <td><a href="/실거래가/2021/06/04/48310.html">경상남도 거제시 고현동</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=고현동 e편한세상 거제 유로스카이">e편한세상 거제 유로스카이</a></td>
+    <td><a href="/실거래가/2021/06/04/43750.html">충청북도 진천군 진천읍 교성리</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=진천읍 교성리 진천 교성지구 풍림아이원 트리니티">진천 교성지구 풍림아이원 트리니티</a></td>
+  </tr>
+
+  <tr>
+    <td>3</td>
+    <td><a href="/실거래가/2021/06/04/48250.html">경상남도 김해시 삼계동</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=삼계동 김해 삼계두곡 한라비발디 센텀시티">김해 삼계두곡 한라비발디 센텀시티</a></td>
+  </tr>
+
+  <tr>
+    <td>3</td>
+    <td><a href="/실거래가/2021/06/04/47290.html">경상북도 경산시 하양읍 서사리</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=하양읍 서사리 경산하양 호반써밋 더 퍼스트">경산하양 호반써밋 더 퍼스트</a></td>
+  </tr>
+
+  <tr>
+    <td>2</td>
+    <td><a href="/실거래가/2021/06/04/44200.html">충청남도 아산시 모종동</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=모종동 힐스테이트 모종 네오루체">힐스테이트 모종 네오루체</a></td>
+  </tr>
+
+  <tr>
+    <td>2</td>
+    <td><a href="/실거래가/2021/06/04/43112.html">충청북도 청주시 서원구 모충동</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=모충동 청주모충 LH트릴로채 공공분양">청주모충 LH트릴로채 공공분양</a></td>
+  </tr>
+
+  <tr>
+    <td>2</td>
+    <td><a href="/실거래가/2021/06/04/28177.html">인천광역시 미추홀구 주안동</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=주안동 주안파크자이 더 플래티넘">주안파크자이 더 플래티넘</a></td>
+  </tr>
+
+  <tr>
+    <td>2</td>
+    <td><a href="/실거래가/2021/06/04/41550.html">경기도 안성시 공도읍 만정리</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=공도읍 만정리 이트리니티 공도 센트럴파크">이트리니티 공도 센트럴파크</a></td>
   </tr>
 
   <tr>
@@ -58,14 +112,80 @@ categories: [실거래분석]
 
   <tr>
     <td>2</td>
+    <td><a href="/실거래가/2021/06/04/30200.html">대전광역시 유성구 둔곡동</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=둔곡동 유성둔곡지구 서한이다음(1단지)">유성둔곡지구 서한이다음(1단지)</a></td>
+  </tr>
+
+  <tr>
+    <td>2</td>
+    <td><a href="/실거래가/2021/06/04/42130.html">강원도 원주시 명륜동</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=명륜동 원주 더샵 센트럴파크 3단지">원주 더샵 센트럴파크 3단지</a></td>
+  </tr>
+
+  <tr>
+    <td>2</td>
+    <td><a href="/실거래가/2021/06/04/46150.html">전라남도 순천시 서면 선평리</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=서면 선평리 순천금호어울림더파크2차">순천금호어울림더파크2차</a></td>
+  </tr>
+
+  <tr>
+    <td>2</td>
     <td><a href="/실거래가/2021/06/04/26200.html">부산광역시 영도구 동삼동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=동삼동 부산 오션시티 푸르지오">부산 오션시티 푸르지오</a></td>
   </tr>
 
   <tr>
     <td>2</td>
-    <td><a href="/실거래가/2021/06/04/48250.html">경상남도 김해시 삼계동</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=삼계동 김해 삼계두곡 한라비발디 센텀시티">김해 삼계두곡 한라비발디 센텀시티</a></td>
+    <td><a href="/실거래가/2021/06/04/26710.html">부산광역시 기장군 기장읍 교리</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=기장읍 교리 부산 기장 유림 노르웨이숲">부산 기장 유림 노르웨이숲</a></td>
+  </tr>
+
+  <tr>
+    <td>2</td>
+    <td><a href="/실거래가/2021/06/04/27140.html">대구광역시 동구 방촌동</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=방촌동 방촌역 세영리첼">방촌역 세영리첼</a></td>
+  </tr>
+
+  <tr>
+    <td>2</td>
+    <td><a href="/실거래가/2021/06/04/44270.html">충청남도 당진시 대덕동</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=대덕동 당진 대덕 수청 시티프라디움 1차">당진 대덕 수청 시티프라디움 1차</a></td>
+  </tr>
+
+  <tr>
+    <td>2</td>
+    <td><a href="/실거래가/2021/06/04/29170.html">광주광역시 북구 임동</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=임동 금남로 중흥S-클래스&두산위브더제니스">금남로 중흥S-클래스&두산위브더제니스</a></td>
+  </tr>
+
+  <tr>
+    <td>2</td>
+    <td><a href="/실거래가/2021/06/04/42750.html">강원도 영월군 영월읍 하송리</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=영월읍 하송리 극동스타클래스 영월">극동스타클래스 영월</a></td>
+  </tr>
+
+  <tr>
+    <td>2</td>
+    <td><a href="/실거래가/2021/06/04/41220.html">경기도 평택시 고덕면 궁리</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=고덕면 궁리 고덕하늘채 시그니처">고덕하늘채 시그니처</a></td>
+  </tr>
+
+  <tr>
+    <td>2</td>
+    <td><a href="/실거래가/2021/06/04/50130.html">제주특별자치도 서귀포시 중문동</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=중문동 e편한세상 중문">e편한세상 중문</a></td>
+  </tr>
+
+  <tr>
+    <td>2</td>
+    <td><a href="/실거래가/2021/06/04/47230.html">경상북도 영천시 완산동</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=완산동 e편한세상 센텀스타시티 영천 1블럭">e편한세상 센텀스타시티 영천 1블럭</a></td>
+  </tr>
+
+  <tr>
+    <td>1</td>
+    <td><a href="/실거래가/2021/06/04/47111.html">경상북도 포항시 남구 오천읍 원리</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=오천읍 원리 힐스테이트포항">힐스테이트포항</a></td>
   </tr>
 
   <tr>
@@ -82,8 +202,14 @@ categories: [실거래분석]
 
   <tr>
     <td>1</td>
-    <td><a href="/실거래가/2021/06/04/44200.html">충청남도 아산시 모종동</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=모종동 힐스테이트 모종 네오루체">힐스테이트 모종 네오루체</a></td>
+    <td><a href="/실거래가/2021/06/04/28185.html">인천광역시 연수구 송도동</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=송도동 힐스테이트 레이크 송도 3차">힐스테이트 레이크 송도 3차</a></td>
+  </tr>
+
+  <tr>
+    <td>1</td>
+    <td><a href="/실거래가/2021/06/04/27710.html">대구광역시 달성군 화원읍 천내리</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=화원읍 천내리 화원파크뷰 우방아이유쉘">화원파크뷰 우방아이유쉘</a></td>
   </tr>
 
   <tr>
@@ -94,8 +220,26 @@ categories: [실거래분석]
 
   <tr>
     <td>1</td>
+    <td><a href="/실거래가/2021/06/04/41590.html">경기도 화성시 기안동</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=기안동 화성 우방 아이유쉘 메가시티 2단지">화성 우방 아이유쉘 메가시티 2단지</a></td>
+  </tr>
+
+  <tr>
+    <td>1</td>
     <td><a href="/실거래가/2021/06/04/46150.html">전라남도 순천시 용당동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=용당동 한양수자인 디에스티지">한양수자인 디에스티지</a></td>
+  </tr>
+
+  <tr>
+    <td>1</td>
+    <td><a href="/실거래가/2021/06/04/46110.html">전라남도 목포시 석현동</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=석현동 하당 제일풍경채 센트럴퍼스트">하당 제일풍경채 센트럴퍼스트</a></td>
+  </tr>
+
+  <tr>
+    <td>1</td>
+    <td><a href="/실거래가/2021/06/04/48310.html">경상남도 거제시 장평동</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=장평동 포레나 거제 장평">포레나 거제 장평</a></td>
   </tr>
 
   <tr>
@@ -112,14 +256,20 @@ categories: [실거래분석]
 
   <tr>
     <td>1</td>
+    <td><a href="/실거래가/2021/06/04/44133.html">충청남도 천안시 서북구 와촌동</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=와촌동 천안역사 동아라이크텐">천안역사 동아라이크텐</a></td>
+  </tr>
+
+  <tr>
+    <td>1</td>
     <td><a href="/실거래가/2021/06/04/44131.html">충청남도 천안시 동남구 청당동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=청당동 천안 청당 서희스타힐스">천안 청당 서희스타힐스</a></td>
   </tr>
 
   <tr>
     <td>1</td>
-    <td><a href="/실거래가/2021/06/04/43750.html">충청북도 진천군 진천읍 교성리</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=진천읍 교성리 진천 교성지구 풍림아이원 트리니티">진천 교성지구 풍림아이원 트리니티</a></td>
+    <td><a href="/실거래가/2021/06/04/48170.html">경상남도 진주시 강남동</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=강남동 진주 강남동 일동미라주">진주 강남동 일동미라주</a></td>
   </tr>
 
   <tr>
@@ -143,7 +293,7 @@ categories: [실거래분석]
   <tr>
     <td>1</td>
     <td><a href="/실거래가/2021/06/04/28177.html">인천광역시 미추홀구 주안동</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=주안동 주안파크자이 더 플래티넘">주안파크자이 더 플래티넘</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=주안동 주안역 센트레빌">주안역 센트레빌</a></td>
   </tr>
 
   <tr>
@@ -154,164 +304,14 @@ categories: [실거래분석]
 
   <tr>
     <td>1</td>
+    <td><a href="/실거래가/2021/06/04/45111.html">전라북도 전주시 완산구 서완산동2가</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=서완산동2가 전주 서완산 골드클래스">전주 서완산 골드클래스</a></td>
+  </tr>
+
+  <tr>
+    <td>1</td>
     <td><a href="/실거래가/2021/06/04/26230.html">부산광역시 부산진구 부암동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=부암동 일동미라주">일동미라주</a></td>
-  </tr>
-
-  <tr>
-    <td>1</td>
-    <td><a href="/실거래가/2021/06/04/28260.html">인천광역시 서구 당하동</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=당하동 인천검단AA4블록 유승한내들 에듀파크">인천검단AA4블록 유승한내들 에듀파크</a></td>
-  </tr>
-
-  <tr>
-    <td>1</td>
-    <td><a href="/실거래가/2021/06/04/41550.html">경기도 안성시 공도읍 만정리</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=공도읍 만정리 이트리니티 공도 센트럴파크">이트리니티 공도 센트럴파크</a></td>
-  </tr>
-
-  <tr>
-    <td>1</td>
-    <td><a href="/실거래가/2021/06/04/42170.html">강원도 동해시 천곡동</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=천곡동 이안 동해 센트럴">이안 동해 센트럴</a></td>
-  </tr>
-
-  <tr>
-    <td>1</td>
-    <td><a href="/실거래가/2021/06/04/43114.html">충청북도 청주시 청원구 율량동</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=율량동 율량 금호어울림 센트로">율량 금호어울림 센트로</a></td>
-  </tr>
-
-  <tr>
-    <td>1</td>
-    <td><a href="/실거래가/2021/06/04/30200.html">대전광역시 유성구 둔곡동</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=둔곡동 유성둔곡지구 서한이다음(1단지)">유성둔곡지구 서한이다음(1단지)</a></td>
-  </tr>
-
-  <tr>
-    <td>1</td>
-    <td><a href="/실거래가/2021/06/04/42130.html">강원도 원주시 무실동</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=무실동 원주 더샵 센트럴파크 4단지">원주 더샵 센트럴파크 4단지</a></td>
-  </tr>
-
-  <tr>
-    <td>1</td>
-    <td><a href="/실거래가/2021/06/04/46110.html">전라남도 목포시 용해동</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=용해동 용해동광신프로그레스">용해동광신프로그레스</a></td>
-  </tr>
-
-  <tr>
-    <td>1</td>
-    <td><a href="/실거래가/2021/06/04/41461.html">경기도 용인시 처인구 유방동</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=유방동 용인 보평역 서희스타힐스 리버파크">용인 보평역 서희스타힐스 리버파크</a></td>
-  </tr>
-
-  <tr>
-    <td>1</td>
-    <td><a href="/실거래가/2021/06/04/41670.html">경기도 여주시 교동</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=교동 여주역 우남퍼스트빌">여주역 우남퍼스트빌</a></td>
-  </tr>
-
-  <tr>
-    <td>1</td>
-    <td><a href="/실거래가/2021/06/04/41670.html">경기도 여주시 천송동</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=천송동 여주 서해 스카이팰리스">여주 서해 스카이팰리스</a></td>
-  </tr>
-
-  <tr>
-    <td>1</td>
-    <td><a href="/실거래가/2021/06/04/48330.html">경상남도 양산시 동면 내송리</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=동면 내송리 양산 사송 더샵데시앙 C1블록">양산 사송 더샵데시앙 C1블록</a></td>
-  </tr>
-
-  <tr>
-    <td>1</td>
-    <td><a href="/실거래가/2021/06/04/46150.html">전라남도 순천시 서면 선평리</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=서면 선평리 순천금호어울림더파크2차">순천금호어울림더파크2차</a></td>
-  </tr>
-
-  <tr>
-    <td>1</td>
-    <td><a href="/실거래가/2021/06/04/41115.html">경기도 수원시 팔달구 인계동</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=인계동 센트럴하임">센트럴하임</a></td>
-  </tr>
-
-  <tr>
-    <td>1</td>
-    <td><a href="/실거래가/2021/06/04/26230.html">부산광역시 부산진구 범천동</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=범천동 서면 스위트엠 골드에비뉴">서면 스위트엠 골드에비뉴</a></td>
-  </tr>
-
-  <tr>
-    <td>1</td>
-    <td><a href="/실거래가/2021/06/04/48240.html">경상남도 사천시 용강동</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=용강동 사천 용강동 서희스타힐스">사천 용강동 서희스타힐스</a></td>
-  </tr>
-
-  <tr>
-    <td>1</td>
-    <td><a href="/실거래가/2021/06/04/28237.html">인천광역시 부평구 산곡동</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=산곡동 부평 신일 해피트리 더루츠">부평 신일 해피트리 더루츠</a></td>
-  </tr>
-
-  <tr>
-    <td>1</td>
-    <td><a href="/실거래가/2021/06/04/28237.html">인천광역시 부평구 부개동</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=부개동 부평 SK VIEW 해모로">부평 SK VIEW 해모로</a></td>
-  </tr>
-
-  <tr>
-    <td>1</td>
-    <td><a href="/실거래가/2021/06/04/26110.html">부산광역시 중구 중앙동4가</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=중앙동4가 부산 서린엘마르 센트로뷰">부산 서린엘마르 센트로뷰</a></td>
-  </tr>
-
-  <tr>
-    <td>1</td>
-    <td><a href="/실거래가/2021/06/04/27140.html">대구광역시 동구 방촌동</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=방촌동 방촌역 세영리첼">방촌역 세영리첼</a></td>
-  </tr>
-
-  <tr>
-    <td>1</td>
-    <td><a href="/실거래가/2021/06/04/28177.html">인천광역시 미추홀구 학익동</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=학익동 미추홀 트루엘 파크">미추홀 트루엘 파크</a></td>
-  </tr>
-
-  <tr>
-    <td>1</td>
-    <td><a href="/실거래가/2021/06/04/48125.html">경상남도 창원시 마산합포구 월영동</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=월영동 마린애시앙부영">마린애시앙부영</a></td>
-  </tr>
-
-  <tr>
-    <td>1</td>
-    <td><a href="/실거래가/2021/06/04/11290.html">서울특별시 성북구 길음동</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=길음동 롯데캐슬 클라시아">롯데캐슬 클라시아</a></td>
-  </tr>
-
-  <tr>
-    <td>1</td>
-    <td><a href="/실거래가/2021/06/04/27140.html">대구광역시 동구 신천동</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=신천동 동대구역 더샵 센터시티">동대구역 더샵 센터시티</a></td>
-  </tr>
-
-  <tr>
-    <td>1</td>
-    <td><a href="/실거래가/2021/06/04/28177.html">인천광역시 미추홀구 숭의동</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=숭의동 도원역 서희스타힐스 크루즈시티">도원역 서희스타힐스 크루즈시티</a></td>
-  </tr>
-
-  <tr>
-    <td>1</td>
-    <td><a href="/실거래가/2021/06/04/44200.html">충청남도 아산시 배방읍 북수리</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=배방읍 북수리 더샵 센트로">더샵 센트로</a></td>
-  </tr>
-
-  <tr>
-    <td>1</td>
-    <td><a href="/실거래가/2021/06/04/27710.html">대구광역시 달성군 구지면 창리</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=구지면 창리 대구국가산단 A3블록 모아미래도">대구국가산단 A3블록 모아미래도</a></td>
   </tr>
 
 </table>
