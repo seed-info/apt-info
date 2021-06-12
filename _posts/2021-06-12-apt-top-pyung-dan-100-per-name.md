@@ -81,12 +81,6 @@ categories: [실거래분석]
   </tr>
 
   <tr>
-    <td><a href="/실거래가/2021/06/12/11650.html">서울특별시 서초구 잠원동</a></td>
-    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=잠원동 래미안 신반포 리오센트">래미안 신반포 리오센트</a></td>
-    <td>3653</td>
-  </tr>
-
-  <tr>
     <td><a href="/실거래가/2021/06/12/11680.html">서울특별시 강남구 압구정동</a></td>
     <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=압구정동 현대3차(61~64동)">현대3차(61~64동)</a></td>
     <td>3596</td>
@@ -111,15 +105,15 @@ categories: [실거래분석]
   </tr>
 
   <tr>
-    <td><a href="/실거래가/2021/06/12/11650.html">서울특별시 서초구 잠원동</a></td>
-    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=잠원동 신반포8">신반포8</a></td>
-    <td>3536</td>
-  </tr>
-
-  <tr>
     <td><a href="/실거래가/2021/06/12/11650.html">서울특별시 서초구 반포동</a></td>
     <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=반포동 래미안퍼스티지">래미안퍼스티지</a></td>
     <td>3534</td>
+  </tr>
+
+  <tr>
+    <td><a href="/실거래가/2021/06/12/11650.html">서울특별시 서초구 잠원동</a></td>
+    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=잠원동 신반포8">신반포8</a></td>
+    <td>3528</td>
   </tr>
 
   <tr>
@@ -137,7 +131,13 @@ categories: [실거래분석]
   <tr>
     <td><a href="/실거래가/2021/06/12/11650.html">서울특별시 서초구 반포동</a></td>
     <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=반포동 에이아이디차관주택">에이아이디차관주택</a></td>
-    <td>3452</td>
+    <td>3456</td>
+  </tr>
+
+  <tr>
+    <td><a href="/실거래가/2021/06/12/11650.html">서울특별시 서초구 반포동</a></td>
+    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=반포동 반포 주공1단지">반포 주공1단지</a></td>
+    <td>3449</td>
   </tr>
 
   <tr>
@@ -147,15 +147,15 @@ categories: [실거래분석]
   </tr>
 
   <tr>
-    <td><a href="/실거래가/2021/06/12/11650.html">서울특별시 서초구 반포동</a></td>
-    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=반포동 반포 주공1단지">반포 주공1단지</a></td>
-    <td>3360</td>
-  </tr>
-
-  <tr>
     <td><a href="/실거래가/2021/06/12/11680.html">서울특별시 강남구 개포동</a></td>
     <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=개포동 디에이치아너힐즈">디에이치아너힐즈</a></td>
     <td>3349</td>
+  </tr>
+
+  <tr>
+    <td><a href="/실거래가/2021/06/12/11650.html">서울특별시 서초구 잠원동</a></td>
+    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=잠원동 래미안 신반포 리오센트">래미안 신반포 리오센트</a></td>
+    <td>3328</td>
   </tr>
 
   <tr>
@@ -191,6 +191,12 @@ categories: [실거래분석]
   <tr>
     <td><a href="/실거래가/2021/06/12/11710.html">서울특별시 송파구 잠실동</a></td>
     <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=잠실동 리센츠">리센츠</a></td>
+    <td>3282</td>
+  </tr>
+
+  <tr>
+    <td><a href="/실거래가/2021/06/12/11680.html">서울특별시 강남구 압구정동</a></td>
+    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=압구정동 현대2차(10,11,20,23,24,25동)">현대2차(10,11,20,23,24,25동)</a></td>
     <td>3282</td>
   </tr>
 
@@ -233,7 +239,7 @@ categories: [실거래분석]
   <tr>
     <td><a href="/실거래가/2021/06/12/11710.html">서울특별시 송파구 잠실동</a></td>
     <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=잠실동 주공아파트 5단지">주공아파트 5단지</a></td>
-    <td>3195</td>
+    <td>3201</td>
   </tr>
 
   <tr>
@@ -329,7 +335,7 @@ categories: [실거래분석]
   <tr>
     <td><a href="/실거래가/2021/06/12/11650.html">서울특별시 서초구 잠원동</a></td>
     <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=잠원동 신반포16">신반포16</a></td>
-    <td>3037</td>
+    <td>3050</td>
   </tr>
 
   <tr>
@@ -423,6 +429,12 @@ categories: [실거래분석]
   </tr>
 
   <tr>
+    <td><a href="/실거래가/2021/06/12/11680.html">서울특별시 강남구 청담동</a></td>
+    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=청담동 청담삼익아파트">청담삼익아파트</a></td>
+    <td>2894</td>
+  </tr>
+
+  <tr>
     <td><a href="/실거래가/2021/06/12/11650.html">서울특별시 서초구 잠원동</a></td>
     <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=잠원동 신반포27">신반포27</a></td>
     <td>2881</td>
@@ -450,12 +462,6 @@ categories: [실거래분석]
     <td><a href="/실거래가/2021/06/12/11680.html">서울특별시 강남구 삼성동</a></td>
     <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=삼성동 풍림(1차)">풍림(1차)</a></td>
     <td>2848</td>
-  </tr>
-
-  <tr>
-    <td><a href="/실거래가/2021/06/12/11680.html">서울특별시 강남구 청담동</a></td>
-    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=청담동 청담삼익아파트">청담삼익아파트</a></td>
-    <td>2842</td>
   </tr>
 
   <tr>
@@ -495,12 +501,6 @@ categories: [실거래분석]
   </tr>
 
   <tr>
-    <td><a href="/실거래가/2021/06/12/11590.html">서울특별시 동작구 흑석동</a></td>
-    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=흑석동 아크로리버하임">아크로리버하임</a></td>
-    <td>2737</td>
-  </tr>
-
-  <tr>
     <td><a href="/실거래가/2021/06/12/11650.html">서울특별시 서초구 서초동</a></td>
     <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=서초동 롯데캐슬클래식">롯데캐슬클래식</a></td>
     <td>2735</td>
@@ -534,6 +534,12 @@ categories: [실거래분석]
     <td><a href="/실거래가/2021/06/12/11680.html">서울특별시 강남구 삼성동</a></td>
     <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=삼성동 현대아파트 101동">현대아파트 101동</a></td>
     <td>2674</td>
+  </tr>
+
+  <tr>
+    <td><a href="/실거래가/2021/06/12/11590.html">서울특별시 동작구 흑석동</a></td>
+    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=흑석동 아크로리버하임">아크로리버하임</a></td>
+    <td>2666</td>
   </tr>
 
   <tr>
@@ -605,12 +611,6 @@ categories: [실거래분석]
   <tr>
     <td><a href="/실거래가/2021/06/12/11680.html">서울특별시 강남구 대치동</a></td>
     <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=대치동 래미안 대치 하이스턴">래미안 대치 하이스턴</a></td>
-    <td>2582</td>
-  </tr>
-
-  <tr>
-    <td><a href="/실거래가/2021/06/12/11680.html">서울특별시 강남구 도곡동</a></td>
-    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=도곡동 우성사원5">우성사원5</a></td>
     <td>2582</td>
   </tr>
 

@@ -74,6 +74,14 @@ categories: [실거래분석]
 
   <tr>
     <td><a href="/실거래가/2021/06/12/11650.html">서울특별시 서초구 반포동</a></td>
+    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=반포동 반포 주공1단지">반포 주공1단지</a></td>
+    <td>108.33</td>
+    <td>470,000</td>
+    <td>4339</td>
+  </tr>
+
+  <tr>
+    <td><a href="/실거래가/2021/06/12/11650.html">서울특별시 서초구 반포동</a></td>
     <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=반포동 아크로리버파크">아크로리버파크</a></td>
     <td>59.98</td>
     <td>260,000</td>
@@ -806,14 +814,6 @@ categories: [실거래분석]
     <td>53.88</td>
     <td>189,500</td>
     <td>3517</td>
-  </tr>
-
-  <tr>
-    <td><a href="/실거래가/2021/06/12/11650.html">서울특별시 서초구 잠원동</a></td>
-    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=잠원동 신반포8">신반포8</a></td>
-    <td>52.74</td>
-    <td>185,000</td>
-    <td>3508</td>
   </tr>
 
 </table>
