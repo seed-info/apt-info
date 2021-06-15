@@ -58,6 +58,14 @@ categories: [실거래분석]
 
   <tr>
     <td><a href="/실거래가/2021/06/16/11650.html">반포동</a></td>
+    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=반포동 아크로리버파크">아크로리버파크</a></td>
+    <td>84.95</td>
+    <td>375,000</td>
+    <td>4414</td>
+  </tr>
+
+  <tr>
+    <td><a href="/실거래가/2021/06/16/11650.html">반포동</a></td>
     <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=반포동 래미안퍼스티지">래미안퍼스티지</a></td>
     <td>59.96</td>
     <td>262,000</td>
@@ -86,6 +94,14 @@ categories: [실거래분석]
     <td>49.98</td>
     <td>215,000</td>
     <td>4302</td>
+  </tr>
+
+  <tr>
+    <td><a href="/실거래가/2021/06/16/11650.html">반포동</a></td>
+    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=반포동 반포 주공1단지">반포 주공1단지</a></td>
+    <td>107.47</td>
+    <td>459,000</td>
+    <td>4271</td>
   </tr>
 
   <tr>
@@ -798,22 +814,6 @@ categories: [실거래분석]
     <td>72.51</td>
     <td>255,000</td>
     <td>3517</td>
-  </tr>
-
-  <tr>
-    <td><a href="/실거래가/2021/06/16/11650.html">잠원동</a></td>
-    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=잠원동 신반포8">신반포8</a></td>
-    <td>52.74</td>
-    <td>185,000</td>
-    <td>3508</td>
-  </tr>
-
-  <tr>
-    <td><a href="/실거래가/2021/06/16/11650.html">잠원동</a></td>
-    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=잠원동 신반포8">신반포8</a></td>
-    <td>52.74</td>
-    <td>185,000</td>
-    <td>3508</td>
   </tr>
 
 </table>
