@@ -1,6 +1,5 @@
-resume_url: "Resume.pdf"
 author_name: "newish"
-url: johndoe.com
+url: seed-info.com
 
 plugins:
   # - jekyll-seo-tag
