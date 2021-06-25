@@ -17,86 +17,6 @@ categories: [실거래분석]
   </tr>
 
   <tr>
-    <td><a href="/실거래가/2021/06/25/11680.html">개포동</a></td>
-    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=개포동 개포주공 1단지">개포주공 1단지</a></td>
-    <td>56.57</td>
-    <td>309,500</td>
-    <td>5471</td>
-  </tr>
-
-  <tr>
-    <td><a href="/실거래가/2021/06/25/11680.html">개포동</a></td>
-    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=개포동 개포주공 1단지">개포주공 1단지</a></td>
-    <td>58.08</td>
-    <td>315,000</td>
-    <td>5424</td>
-  </tr>
-
-  <tr>
-    <td><a href="/실거래가/2021/06/25/11680.html">개포동</a></td>
-    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=개포동 개포주공 1단지">개포주공 1단지</a></td>
-    <td>50.38</td>
-    <td>264,000</td>
-    <td>5240</td>
-  </tr>
-
-  <tr>
-    <td><a href="/실거래가/2021/06/25/11680.html">개포동</a></td>
-    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=개포동 개포주공 1단지">개포주공 1단지</a></td>
-    <td>50.64</td>
-    <td>260,000</td>
-    <td>5134</td>
-  </tr>
-
-  <tr>
-    <td><a href="/실거래가/2021/06/25/11680.html">개포동</a></td>
-    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=개포동 개포주공 1단지">개포주공 1단지</a></td>
-    <td>41.98</td>
-    <td>203,000</td>
-    <td>4836</td>
-  </tr>
-
-  <tr>
-    <td><a href="/실거래가/2021/06/25/11680.html">개포동</a></td>
-    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=개포동 개포주공 1단지">개포주공 1단지</a></td>
-    <td>35.64</td>
-    <td>170,000</td>
-    <td>4770</td>
-  </tr>
-
-  <tr>
-    <td><a href="/실거래가/2021/06/25/11680.html">개포동</a></td>
-    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=개포동 개포주공 1단지">개포주공 1단지</a></td>
-    <td>42.55</td>
-    <td>202,000</td>
-    <td>4747</td>
-  </tr>
-
-  <tr>
-    <td><a href="/실거래가/2021/06/25/11680.html">개포동</a></td>
-    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=개포동 개포주공 1단지">개포주공 1단지</a></td>
-    <td>49.56</td>
-    <td>235,000</td>
-    <td>4742</td>
-  </tr>
-
-  <tr>
-    <td><a href="/실거래가/2021/06/25/11680.html">개포동</a></td>
-    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=개포동 개포주공 1단지">개포주공 1단지</a></td>
-    <td>35.87</td>
-    <td>163,000</td>
-    <td>4544</td>
-  </tr>
-
-  <tr>
-    <td><a href="/실거래가/2021/06/25/11680.html">개포동</a></td>
-    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=개포동 개포주공 1단지">개포주공 1단지</a></td>
-    <td>42.55</td>
-    <td>192,000</td>
-    <td>4512</td>
-  </tr>
-
-  <tr>
     <td><a href="/실거래가/2021/06/25/11650.html">반포동</a></td>
     <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=반포동 아크로리버파크">아크로리버파크</a></td>
     <td>59.97</td>
@@ -177,43 +97,11 @@ categories: [실거래분석]
   </tr>
 
   <tr>
-    <td><a href="/실거래가/2021/06/25/11680.html">개포동</a></td>
-    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=개포동 개포주공 1단지">개포주공 1단지</a></td>
-    <td>50.38</td>
-    <td>218,000</td>
-    <td>4327</td>
-  </tr>
-
-  <tr>
-    <td><a href="/실거래가/2021/06/25/11680.html">개포동</a></td>
-    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=개포동 개포주공 1단지">개포주공 1단지</a></td>
-    <td>42.55</td>
-    <td>184,000</td>
-    <td>4324</td>
-  </tr>
-
-  <tr>
     <td><a href="/실거래가/2021/06/25/11680.html">압구정동</a></td>
     <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=압구정동 한양1차(영동한양)">한양1차(영동한양)</a></td>
     <td>49.98</td>
     <td>215,000</td>
     <td>4302</td>
-  </tr>
-
-  <tr>
-    <td><a href="/실거래가/2021/06/25/11680.html">개포동</a></td>
-    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=개포동 개포주공 1단지">개포주공 1단지</a></td>
-    <td>41.98</td>
-    <td>180,000</td>
-    <td>4288</td>
-  </tr>
-
-  <tr>
-    <td><a href="/실거래가/2021/06/25/11680.html">개포동</a></td>
-    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=개포동 개포주공 1단지">개포주공 1단지</a></td>
-    <td>41.98</td>
-    <td>180,000</td>
-    <td>4288</td>
   </tr>
 
   <tr>
@@ -265,14 +153,6 @@ categories: [실거래분석]
   </tr>
 
   <tr>
-    <td><a href="/실거래가/2021/06/25/11680.html">개포동</a></td>
-    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=개포동 개포주공 1단지">개포주공 1단지</a></td>
-    <td>50.64</td>
-    <td>213,000</td>
-    <td>4206</td>
-  </tr>
-
-  <tr>
     <td><a href="/실거래가/2021/06/25/11680.html">청담동</a></td>
     <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=청담동 PH129">PH129</a></td>
     <td>273.96</td>
@@ -313,27 +193,11 @@ categories: [실거래분석]
   </tr>
 
   <tr>
-    <td><a href="/실거래가/2021/06/25/11680.html">개포동</a></td>
-    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=개포동 개포주공 1단지">개포주공 1단지</a></td>
-    <td>58.08</td>
-    <td>242,000</td>
-    <td>4167</td>
-  </tr>
-
-  <tr>
     <td><a href="/실거래가/2021/06/25/11650.html">반포동</a></td>
     <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=반포동 에이아이디차관주택">에이아이디차관주택</a></td>
     <td>72.51</td>
     <td>300,000</td>
     <td>4137</td>
-  </tr>
-
-  <tr>
-    <td><a href="/실거래가/2021/06/25/11680.html">개포동</a></td>
-    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=개포동 개포주공 1단지">개포주공 1단지</a></td>
-    <td>58.08</td>
-    <td>240,000</td>
-    <td>4132</td>
   </tr>
 
   <tr>
@@ -402,14 +266,6 @@ categories: [실거래분석]
 
   <tr>
     <td><a href="/실거래가/2021/06/25/11650.html">반포동</a></td>
-    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=반포동 아크로리버파크">아크로리버파크</a></td>
-    <td>84.95</td>
-    <td>337,000</td>
-    <td>3967</td>
-  </tr>
-
-  <tr>
-    <td><a href="/실거래가/2021/06/25/11650.html">반포동</a></td>
     <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=반포동 래미안퍼스티지">래미안퍼스티지</a></td>
     <td>84.93</td>
     <td>335,000</td>
@@ -421,14 +277,6 @@ categories: [실거래분석]
     <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=반포동 반포자이">반포자이</a></td>
     <td>59.98</td>
     <td>236,000</td>
-    <td>3935</td>
-  </tr>
-
-  <tr>
-    <td><a href="/실거래가/2021/06/25/11680.html">개포동</a></td>
-    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=개포동 개포주공 1단지">개포주공 1단지</a></td>
-    <td>49.56</td>
-    <td>195,000</td>
     <td>3935</td>
   </tr>
 
@@ -485,14 +333,6 @@ categories: [실거래분석]
     <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=성수동1가 트리마제">트리마제</a></td>
     <td>84.8213</td>
     <td>330,000</td>
-    <td>3891</td>
-  </tr>
-
-  <tr>
-    <td><a href="/실거래가/2021/06/25/11680.html">개포동</a></td>
-    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=개포동 개포주공 1단지">개포주공 1단지</a></td>
-    <td>58.08</td>
-    <td>226,000</td>
     <td>3891</td>
   </tr>
 
@@ -561,14 +401,6 @@ categories: [실거래분석]
   </tr>
 
   <tr>
-    <td><a href="/실거래가/2021/06/25/11650.html">반포동</a></td>
-    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=반포동 래미안퍼스티지">래미안퍼스티지</a></td>
-    <td>59.89</td>
-    <td>230,000</td>
-    <td>3840</td>
-  </tr>
-
-  <tr>
     <td><a href="/실거래가/2021/06/25/11680.html">도곡동</a></td>
     <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=도곡동 래미안도곡카운티">래미안도곡카운티</a></td>
     <td>59.98</td>
@@ -582,14 +414,6 @@ categories: [실거래분석]
     <td>112.93</td>
     <td>433,000</td>
     <td>3834</td>
-  </tr>
-
-  <tr>
-    <td><a href="/실거래가/2021/06/25/11680.html">개포동</a></td>
-    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=개포동 개포주공 1단지">개포주공 1단지</a></td>
-    <td>50.64</td>
-    <td>194,000</td>
-    <td>3831</td>
   </tr>
 
   <tr>
@@ -614,14 +438,6 @@ categories: [실거래분석]
     <td>31.402</td>
     <td>119,500</td>
     <td>3805</td>
-  </tr>
-
-  <tr>
-    <td><a href="/실거래가/2021/06/25/11680.html">개포동</a></td>
-    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=개포동 개포주공 1단지">개포주공 1단지</a></td>
-    <td>56.57</td>
-    <td>215,000</td>
-    <td>3801</td>
   </tr>
 
   <tr>
@@ -686,22 +502,6 @@ categories: [실거래분석]
     <td>140.33</td>
     <td>527,000</td>
     <td>3755</td>
-  </tr>
-
-  <tr>
-    <td><a href="/실거래가/2021/06/25/11680.html">개포동</a></td>
-    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=개포동 개포주공 1단지">개포주공 1단지</a></td>
-    <td>50.64</td>
-    <td>190,000</td>
-    <td>3752</td>
-  </tr>
-
-  <tr>
-    <td><a href="/실거래가/2021/06/25/11200.html">성수동1가</a></td>
-    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=성수동1가 트리마제">트리마제</a></td>
-    <td>25.3284</td>
-    <td>95,000</td>
-    <td>3751</td>
   </tr>
 
   <tr>
@@ -814,6 +614,206 @@ categories: [실거래분석]
     <td>59.48</td>
     <td>219,500</td>
     <td>3690</td>
+  </tr>
+
+  <tr>
+    <td><a href="/실거래가/2021/06/25/11680.html">개포동</a></td>
+    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=개포동 디에이치아너힐즈">디에이치아너힐즈</a></td>
+    <td>49.4013</td>
+    <td>182,000</td>
+    <td>3684</td>
+  </tr>
+
+  <tr>
+    <td><a href="/실거래가/2021/06/25/11680.html">청담동</a></td>
+    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=청담동 청담자이">청담자이</a></td>
+    <td>49.593</td>
+    <td>182,000</td>
+    <td>3670</td>
+  </tr>
+
+  <tr>
+    <td><a href="/실거래가/2021/06/25/11680.html">도곡동</a></td>
+    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=도곡동 도곡렉슬">도곡렉슬</a></td>
+    <td>59.9818</td>
+    <td>220,000</td>
+    <td>3668</td>
+  </tr>
+
+  <tr>
+    <td><a href="/실거래가/2021/06/25/11650.html">잠원동</a></td>
+    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=잠원동 래미안 신반포 리오센트">래미안 신반포 리오센트</a></td>
+    <td>59.95</td>
+    <td>219,000</td>
+    <td>3653</td>
+  </tr>
+
+  <tr>
+    <td><a href="/실거래가/2021/06/25/11650.html">반포동</a></td>
+    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=반포동 반포자이">반포자이</a></td>
+    <td>84.984</td>
+    <td>310,000</td>
+    <td>3648</td>
+  </tr>
+
+  <tr>
+    <td><a href="/실거래가/2021/06/25/11680.html">개포동</a></td>
+    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=개포동 디에이치아너힐즈">디에이치아너힐즈</a></td>
+    <td>59.8732</td>
+    <td>218,000</td>
+    <td>3641</td>
+  </tr>
+
+  <tr>
+    <td><a href="/실거래가/2021/06/25/11650.html">반포동</a></td>
+    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=반포동 반포 주공1단지">반포 주공1단지</a></td>
+    <td>140.13</td>
+    <td>510,000</td>
+    <td>3639</td>
+  </tr>
+
+  <tr>
+    <td><a href="/실거래가/2021/06/25/11650.html">잠원동</a></td>
+    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=잠원동 반포센트럴자이">반포센트럴자이</a></td>
+    <td>98.99</td>
+    <td>360,000</td>
+    <td>3637</td>
+  </tr>
+
+  <tr>
+    <td><a href="/실거래가/2021/06/25/11710.html">잠실동</a></td>
+    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=잠실동 리센츠">리센츠</a></td>
+    <td>27.68</td>
+    <td>100,000</td>
+    <td>3613</td>
+  </tr>
+
+  <tr>
+    <td><a href="/실거래가/2021/06/25/11680.html">개포동</a></td>
+    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=개포동 개포래미안포레스트">개포래미안포레스트</a></td>
+    <td>49.92</td>
+    <td>180,000</td>
+    <td>3606</td>
+  </tr>
+
+  <tr>
+    <td><a href="/실거래가/2021/06/25/11680.html">개포동</a></td>
+    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=개포동 래미안블레스티지">래미안블레스티지</a></td>
+    <td>99.979</td>
+    <td>360,000</td>
+    <td>3601</td>
+  </tr>
+
+  <tr>
+    <td><a href="/실거래가/2021/06/25/11680.html">개포동</a></td>
+    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=개포동 디에이치아너힐즈">디에이치아너힐즈</a></td>
+    <td>59.8072</td>
+    <td>215,000</td>
+    <td>3595</td>
+  </tr>
+
+  <tr>
+    <td><a href="/실거래가/2021/06/25/11650.html">잠원동</a></td>
+    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=잠원동 반포센트럴자이">반포센트럴자이</a></td>
+    <td>98.87</td>
+    <td>355,000</td>
+    <td>3591</td>
+  </tr>
+
+  <tr>
+    <td><a href="/실거래가/2021/06/25/11650.html">반포동</a></td>
+    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=반포동 반포자이">반포자이</a></td>
+    <td>84.943</td>
+    <td>305,000</td>
+    <td>3591</td>
+  </tr>
+
+  <tr>
+    <td><a href="/실거래가/2021/06/25/11710.html">잠실동</a></td>
+    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=잠실동 리센츠">리센츠</a></td>
+    <td>27.68</td>
+    <td>99,300</td>
+    <td>3587</td>
+  </tr>
+
+  <tr>
+    <td><a href="/실거래가/2021/06/25/11650.html">잠원동</a></td>
+    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=잠원동 신반포8">신반포8</a></td>
+    <td>52.74</td>
+    <td>189,000</td>
+    <td>3584</td>
+  </tr>
+
+  <tr>
+    <td><a href="/실거래가/2021/06/25/11650.html">반포동</a></td>
+    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=반포동 아크로리버파크">아크로리버파크</a></td>
+    <td>129.92</td>
+    <td>465,000</td>
+    <td>3579</td>
+  </tr>
+
+  <tr>
+    <td><a href="/실거래가/2021/06/25/11680.html">대치동</a></td>
+    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=대치동 래미안대치팰리스">래미안대치팰리스</a></td>
+    <td>84.98</td>
+    <td>304,000</td>
+    <td>3577</td>
+  </tr>
+
+  <tr>
+    <td><a href="/실거래가/2021/06/25/11680.html">대치동</a></td>
+    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=대치동 래미안대치팰리스">래미안대치팰리스</a></td>
+    <td>84.99</td>
+    <td>304,000</td>
+    <td>3577</td>
+  </tr>
+
+  <tr>
+    <td><a href="/실거래가/2021/06/25/11650.html">반포동</a></td>
+    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=반포동 반포자이">반포자이</a></td>
+    <td>84.982</td>
+    <td>304,000</td>
+    <td>3577</td>
+  </tr>
+
+  <tr>
+    <td><a href="/실거래가/2021/06/25/11680.html">대치동</a></td>
+    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=대치동 래미안대치팰리스">래미안대치팰리스</a></td>
+    <td>84.97</td>
+    <td>303,000</td>
+    <td>3566</td>
+  </tr>
+
+  <tr>
+    <td><a href="/실거래가/2021/06/25/11650.html">반포동</a></td>
+    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=반포동 에이아이디차관주택">에이아이디차관주택</a></td>
+    <td>72.51</td>
+    <td>258,000</td>
+    <td>3558</td>
+  </tr>
+
+  <tr>
+    <td><a href="/실거래가/2021/06/25/11680.html">개포동</a></td>
+    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=개포동 개포주공 7단지">개포주공 7단지</a></td>
+    <td>73.26</td>
+    <td>260,000</td>
+    <td>3549</td>
+  </tr>
+
+  <tr>
+    <td><a href="/실거래가/2021/06/25/11650.html">잠원동</a></td>
+    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=잠원동 신반포8">신반포8</a></td>
+    <td>52.74</td>
+    <td>187,000</td>
+    <td>3546</td>
+  </tr>
+
+  <tr>
+    <td><a href="/실거래가/2021/06/25/11680.html">대치동</a></td>
+    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=대치동 개포우성1">개포우성1</a></td>
+    <td>84.81</td>
+    <td>300,000</td>
+    <td>3537</td>
   </tr>
 
 </table>
