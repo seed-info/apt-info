@@ -8,7 +8,7 @@ pagetype: blog
 
 <script>
 
-    var update_date = '2021/06/26';
+    var update_date = '2021/06/27';
     console.log(new Date().format("yyyy/MM/dd"))
     function go(type, target, date) {
         return '/실거래분석/' + update_date + '/' + type + '-' + target + '-' + date + '.html'
@@ -35,23 +35,6 @@ pagetype: blog
         <li><h5><a href="#" onclick="location.href=go2('apt-top-pyung-dan-100-per-name');return false;">아파트별 매매 평단가(최근2개월) 탑 100 랭킹</a></h5></li>
         <li><h5><a href="#" onclick="location.href=go2('apt-avg-pyung-dan-per-region');return false;">지역별 매매 평단가(최근2개월) 랭킹</a></h5></li>
     </ul>
-
-    <h3>최근 2개월 거래 기준, 아파트 구매 추천 정보</h3>
-    <ul>
-        <li><h5><a href="#" onclick="location.href=go2('apt-rec-5');return false;">5억대 추천 아파트</a></h5></li>
-        <li><h5><a href="#" onclick="location.href=go2('apt-rec-8');return false;">8억대 추천 아파트</a></h5></li>
-        <li><h5><a href="#" onclick="location.href=go2('apt-rec-12');return false;">12억대 추천 아파트</a></h5></li>
-        <li><h5><a href="#" onclick="location.href=go2('apt-rec-15');return false;">15억대 추천 아파트</a></h5></li>
-        <li><h5><a href="#" onclick="location.href=go2('apt-rec-20');return false;">20억대 추천 아파트</a></h5></li>
-    </ul>
-
-    <h3>최근 2개월 거래 기준, 아파트 갭투자 추천 정보</h3>
-    <ul>
-        <li><h5><a href="#" onclick="location.href=go2('apt-gap-5');return false;">5천만원 이하 갭투자 추천 아파트</a></h5></li>
-        <li><h5><a href="#" onclick="location.href=go2('apt-gap-10');return false;">5천만원대 갭투자 추천 아파트</a></h5></li>
-        <li><h5><a href="#" onclick="location.href=go2('apt-gap-15');return false;">1억원대 갭투자 추천 아파트</a></h5></li>
-    </ul>
-
 
     <h3>오늘자 거래량 데이터</h3>
     <ul>
