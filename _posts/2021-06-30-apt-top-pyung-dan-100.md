@@ -20,6 +20,14 @@ permalink: /analysis/아파트 매매 평단가 탑 100 랭킹
   <tr>
     <td><a href="/apt/서울특별시 서초구 반포동">서울특별시 서초구 반포동</a></td>
     <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=반포동 아크로리버파크">아크로리버파크</a></td>
+    <td>84.95</td>
+    <td>398,000</td>
+    <td>4685</td>
+  </tr>
+
+  <tr>
+    <td><a href="/apt/서울특별시 서초구 반포동">서울특별시 서초구 반포동</a></td>
+    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=반포동 아크로리버파크">아크로리버파크</a></td>
     <td>59.97</td>
     <td>268,850</td>
     <td>4483</td>
@@ -303,6 +311,14 @@ permalink: /analysis/아파트 매매 평단가 탑 100 랭킹
     <td>27.68</td>
     <td>108,000</td>
     <td>3902</td>
+  </tr>
+
+  <tr>
+    <td><a href="/apt/서울특별시 강남구 삼성동">서울특별시 강남구 삼성동</a></td>
+    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=삼성동 삼성동힐스테이트 1단지">삼성동힐스테이트 1단지</a></td>
+    <td>31.402</td>
+    <td>122,500</td>
+    <td>3901</td>
   </tr>
 
   <tr>
@@ -738,6 +754,14 @@ permalink: /analysis/아파트 매매 평단가 탑 100 랭킹
   </tr>
 
   <tr>
+    <td><a href="/apt/서울특별시 서초구 반포동">서울특별시 서초구 반포동</a></td>
+    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=반포동 에이아이디차관주택">에이아이디차관주택</a></td>
+    <td>72.51</td>
+    <td>260,000</td>
+    <td>3586</td>
+  </tr>
+
+  <tr>
     <td><a href="/apt/서울특별시 서초구 잠원동">서울특별시 서초구 잠원동</a></td>
     <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=잠원동 신반포8">신반포8</a></td>
     <td>52.74</td>
@@ -791,30 +815,6 @@ permalink: /analysis/아파트 매매 평단가 탑 100 랭킹
     <td>84.97</td>
     <td>303,000</td>
     <td>3566</td>
-  </tr>
-
-  <tr>
-    <td><a href="/apt/서울특별시 서초구 반포동">서울특별시 서초구 반포동</a></td>
-    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=반포동 에이아이디차관주택">에이아이디차관주택</a></td>
-    <td>72.51</td>
-    <td>258,000</td>
-    <td>3558</td>
-  </tr>
-
-  <tr>
-    <td><a href="/apt/서울특별시 강남구 개포동">서울특별시 강남구 개포동</a></td>
-    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=개포동 개포주공 7단지">개포주공 7단지</a></td>
-    <td>73.26</td>
-    <td>260,000</td>
-    <td>3549</td>
-  </tr>
-
-  <tr>
-    <td><a href="/apt/서울특별시 서초구 잠원동">서울특별시 서초구 잠원동</a></td>
-    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=잠원동 신반포8">신반포8</a></td>
-    <td>52.74</td>
-    <td>187,000</td>
-    <td>3546</td>
   </tr>
 
 </table>
