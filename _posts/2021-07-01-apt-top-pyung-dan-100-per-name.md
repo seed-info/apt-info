@@ -178,6 +178,12 @@ permalink: /analysis/아파트별 매매 평단가 탑 100 랭킹
   </tr>
 
   <tr>
+    <td><a href="/apt/서울특별시 강남구 도곡동">서울특별시 강남구 도곡동</a></td>
+    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=도곡동 한신(개포)">한신(개포)</a></td>
+    <td>3323</td>
+  </tr>
+
+  <tr>
     <td><a href="/apt/서울특별시 강남구 압구정동">서울특별시 강남구 압구정동</a></td>
     <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=압구정동 신현대12차">신현대12차</a></td>
     <td>3302</td>
@@ -202,12 +208,6 @@ permalink: /analysis/아파트별 매매 평단가 탑 100 랭킹
   </tr>
 
   <tr>
-    <td><a href="/apt/서울특별시 강남구 도곡동">서울특별시 강남구 도곡동</a></td>
-    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=도곡동 래미안도곡카운티">래미안도곡카운티</a></td>
-    <td>3271</td>
-  </tr>
-
-  <tr>
     <td><a href="/apt/서울특별시 강남구 압구정동">서울특별시 강남구 압구정동</a></td>
     <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=압구정동 신현대9차">신현대9차</a></td>
     <td>3268</td>
@@ -222,7 +222,13 @@ permalink: /analysis/아파트별 매매 평단가 탑 100 랭킹
   <tr>
     <td><a href="/apt/서울특별시 강남구 개포동">서울특별시 강남구 개포동</a></td>
     <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=개포동 성원대치2단지아파트">성원대치2단지아파트</a></td>
-    <td>3240</td>
+    <td>3252</td>
+  </tr>
+
+  <tr>
+    <td><a href="/apt/서울특별시 강남구 도곡동">서울특별시 강남구 도곡동</a></td>
+    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=도곡동 래미안도곡카운티">래미안도곡카운티</a></td>
+    <td>3250</td>
   </tr>
 
   <tr>
@@ -298,27 +304,21 @@ permalink: /analysis/아파트별 매매 평단가 탑 100 랭킹
   </tr>
 
   <tr>
-    <td><a href="/apt/서울특별시 강남구 도곡동">서울특별시 강남구 도곡동</a></td>
-    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=도곡동 한신(개포)">한신(개포)</a></td>
-    <td>3116</td>
-  </tr>
-
-  <tr>
     <td><a href="/apt/서울특별시 서초구 반포동">서울특별시 서초구 반포동</a></td>
     <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=반포동 반포자이">반포자이</a></td>
     <td>3114</td>
   </tr>
 
   <tr>
-    <td><a href="/apt/서울특별시 서초구 반포동">서울특별시 서초구 반포동</a></td>
-    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=반포동 반포리체">반포리체</a></td>
-    <td>3085</td>
+    <td><a href="/apt/서울특별시 서초구 잠원동">서울특별시 서초구 잠원동</a></td>
+    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=잠원동 신반포16">신반포16</a></td>
+    <td>3090</td>
   </tr>
 
   <tr>
-    <td><a href="/apt/서울특별시 서초구 잠원동">서울특별시 서초구 잠원동</a></td>
-    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=잠원동 신반포16">신반포16</a></td>
-    <td>3076</td>
+    <td><a href="/apt/서울특별시 서초구 반포동">서울특별시 서초구 반포동</a></td>
+    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=반포동 반포리체">반포리체</a></td>
+    <td>3085</td>
   </tr>
 
   <tr>

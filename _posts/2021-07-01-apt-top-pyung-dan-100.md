@@ -258,6 +258,14 @@ permalink: /analysis/아파트 매매 평단가 탑 100 랭킹
   </tr>
 
   <tr>
+    <td><a href="/apt/서울특별시 강남구 도곡동">서울특별시 강남구 도곡동</a></td>
+    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=도곡동 한신(개포)">한신(개포)</a></td>
+    <td>52.73</td>
+    <td>208,000</td>
+    <td>3945</td>
+  </tr>
+
+  <tr>
     <td><a href="/apt/서울특별시 서초구 반포동">서울특별시 서초구 반포동</a></td>
     <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=반포동 래미안퍼스티지">래미안퍼스티지</a></td>
     <td>84.93</td>
@@ -807,14 +815,6 @@ permalink: /analysis/아파트 매매 평단가 탑 100 랭킹
     <td>84.97</td>
     <td>303,000</td>
     <td>3566</td>
-  </tr>
-
-  <tr>
-    <td><a href="/apt/서울특별시 서초구 반포동">서울특별시 서초구 반포동</a></td>
-    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=반포동 에이아이디차관주택">에이아이디차관주택</a></td>
-    <td>72.51</td>
-    <td>258,000</td>
-    <td>3558</td>
   </tr>
 
 </table>
