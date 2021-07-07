@@ -58,6 +58,12 @@ permalink: /analysis/아파트별 매매 평단가 탑 100 랭킹
   </tr>
 
   <tr>
+    <td><a href="/apt/서울특별시 강남구 개포동">서울특별시 강남구 개포동</a></td>
+    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=개포동 개포주공 7단지">개포주공 7단지</a></td>
+    <td>3724</td>
+  </tr>
+
+  <tr>
     <td><a href="/apt/서울특별시 강남구 압구정동">서울특별시 강남구 압구정동</a></td>
     <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=압구정동 한양1차(영동한양)">한양1차(영동한양)</a></td>
     <td>3720</td>
@@ -100,12 +106,6 @@ permalink: /analysis/아파트별 매매 평단가 탑 100 랭킹
   </tr>
 
   <tr>
-    <td><a href="/apt/서울특별시 강남구 개포동">서울특별시 강남구 개포동</a></td>
-    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=개포동 개포주공 7단지">개포주공 7단지</a></td>
-    <td>3563</td>
-  </tr>
-
-  <tr>
     <td><a href="/apt/서울특별시 서초구 반포동">서울특별시 서초구 반포동</a></td>
     <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=반포동 에이아이디차관주택">에이아이디차관주택</a></td>
     <td>3559</td>
@@ -130,6 +130,12 @@ permalink: /analysis/아파트별 매매 평단가 탑 100 랭킹
   </tr>
 
   <tr>
+    <td><a href="/apt/서울특별시 송파구 잠실동">서울특별시 송파구 잠실동</a></td>
+    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=잠실동 리센츠">리센츠</a></td>
+    <td>3451</td>
+  </tr>
+
+  <tr>
     <td><a href="/apt/서울특별시 강남구 대치동">서울특별시 강남구 대치동</a></td>
     <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=대치동 개포우성2">개포우성2</a></td>
     <td>3448</td>
@@ -139,12 +145,6 @@ permalink: /analysis/아파트별 매매 평단가 탑 100 랭킹
     <td><a href="/apt/서울특별시 성동구 성수동1가">서울특별시 성동구 성수동1가</a></td>
     <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=성수동1가 트리마제">트리마제</a></td>
     <td>3443</td>
-  </tr>
-
-  <tr>
-    <td><a href="/apt/서울특별시 송파구 잠실동">서울특별시 송파구 잠실동</a></td>
-    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=잠실동 리센츠">리센츠</a></td>
-    <td>3438</td>
   </tr>
 
   <tr>
@@ -169,6 +169,12 @@ permalink: /analysis/아파트별 매매 평단가 탑 100 랭킹
     <td><a href="/apt/서울특별시 서초구 잠원동">서울특별시 서초구 잠원동</a></td>
     <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=잠원동 신반포8">신반포8</a></td>
     <td>3367</td>
+  </tr>
+
+  <tr>
+    <td><a href="/apt/서울특별시 강남구 도곡동">서울특별시 강남구 도곡동</a></td>
+    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=도곡동 래미안도곡카운티">래미안도곡카운티</a></td>
+    <td>3357</td>
   </tr>
 
   <tr>
@@ -214,12 +220,6 @@ permalink: /analysis/아파트별 매매 평단가 탑 100 랭킹
   </tr>
 
   <tr>
-    <td><a href="/apt/서울특별시 강남구 도곡동">서울특별시 강남구 도곡동</a></td>
-    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=도곡동 래미안도곡카운티">래미안도곡카운티</a></td>
-    <td>3262</td>
-  </tr>
-
-  <tr>
     <td><a href="/apt/서울특별시 강남구 개포동">서울특별시 강남구 개포동</a></td>
     <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=개포동 성원대치2단지아파트">성원대치2단지아파트</a></td>
     <td>3260</td>
@@ -234,7 +234,7 @@ permalink: /analysis/아파트별 매매 평단가 탑 100 랭킹
   <tr>
     <td><a href="/apt/서울특별시 송파구 잠실동">서울특별시 송파구 잠실동</a></td>
     <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=잠실동 주공아파트 5단지">주공아파트 5단지</a></td>
-    <td>3241</td>
+    <td>3238</td>
   </tr>
 
   <tr>
@@ -256,12 +256,6 @@ permalink: /analysis/아파트별 매매 평단가 탑 100 랭킹
   </tr>
 
   <tr>
-    <td><a href="/apt/서울특별시 서초구 서초동">서울특별시 서초구 서초동</a></td>
-    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=서초동 래미안 리더스원">래미안 리더스원</a></td>
-    <td>3179</td>
-  </tr>
-
-  <tr>
     <td><a href="/apt/서울특별시 강남구 압구정동">서울특별시 강남구 압구정동</a></td>
     <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=압구정동 현대6차(78~81,83,84,86,87동)">현대6차(78~81,83,84,86,87동)</a></td>
     <td>3174</td>
@@ -277,6 +271,12 @@ permalink: /analysis/아파트별 매매 평단가 탑 100 랭킹
     <td><a href="/apt/서울특별시 강남구 일원동">서울특별시 강남구 일원동</a></td>
     <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=일원동 래미안 개포 루체하임">래미안 개포 루체하임</a></td>
     <td>3161</td>
+  </tr>
+
+  <tr>
+    <td><a href="/apt/서울특별시 서초구 서초동">서울특별시 서초구 서초동</a></td>
+    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=서초동 래미안 리더스원">래미안 리더스원</a></td>
+    <td>3160</td>
   </tr>
 
   <tr>
@@ -319,12 +319,6 @@ permalink: /analysis/아파트별 매매 평단가 탑 100 랭킹
     <td><a href="/apt/서울특별시 서초구 반포동">서울특별시 서초구 반포동</a></td>
     <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=반포동 반포리체">반포리체</a></td>
     <td>3085</td>
-  </tr>
-
-  <tr>
-    <td><a href="/apt/서울특별시 송파구 잠실동">서울특별시 송파구 잠실동</a></td>
-    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=잠실동 잠실엘스">잠실엘스</a></td>
-    <td>3066</td>
   </tr>
 
   <tr>
@@ -406,6 +400,12 @@ permalink: /analysis/아파트별 매매 평단가 탑 100 랭킹
   </tr>
 
   <tr>
+    <td><a href="/apt/서울특별시 송파구 잠실동">서울특별시 송파구 잠실동</a></td>
+    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=잠실동 잠실엘스">잠실엘스</a></td>
+    <td>2924</td>
+  </tr>
+
+  <tr>
     <td><a href="/apt/서울특별시 서초구 반포동">서울특별시 서초구 반포동</a></td>
     <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=반포동 반포써밋">반포써밋</a></td>
     <td>2920</td>
@@ -454,6 +454,12 @@ permalink: /analysis/아파트별 매매 평단가 탑 100 랭킹
   </tr>
 
   <tr>
+    <td><a href="/apt/서울특별시 서초구 잠원동">서울특별시 서초구 잠원동</a></td>
+    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=잠원동 한신타워">한신타워</a></td>
+    <td>2843</td>
+  </tr>
+
+  <tr>
     <td><a href="/apt/서울특별시 강남구 대치동">서울특별시 강남구 대치동</a></td>
     <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=대치동 대치현대">대치현대</a></td>
     <td>2842</td>
@@ -466,8 +472,8 @@ permalink: /analysis/아파트별 매매 평단가 탑 100 랭킹
   </tr>
 
   <tr>
-    <td><a href="/apt/서울특별시 서초구 잠원동">서울특별시 서초구 잠원동</a></td>
-    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=잠원동 한신타워">한신타워</a></td>
+    <td><a href="/apt/서울특별시 양천구 목동">서울특별시 양천구 목동</a></td>
+    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=목동 목동신시가지7">목동신시가지7</a></td>
     <td>2816</td>
   </tr>
 
@@ -492,19 +498,13 @@ permalink: /analysis/아파트별 매매 평단가 탑 100 랭킹
   <tr>
     <td><a href="/apt/서울특별시 강남구 역삼동">서울특별시 강남구 역삼동</a></td>
     <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=역삼동 역삼 I'PARK">역삼 I'PARK</a></td>
-    <td>2786</td>
+    <td>2794</td>
   </tr>
 
   <tr>
     <td><a href="/apt/서울특별시 서초구 반포동">서울특별시 서초구 반포동</a></td>
     <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=반포동 반포미도">반포미도</a></td>
     <td>2775</td>
-  </tr>
-
-  <tr>
-    <td><a href="/apt/서울특별시 양천구 목동">서울특별시 양천구 목동</a></td>
-    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=목동 목동신시가지7">목동신시가지7</a></td>
-    <td>2771</td>
   </tr>
 
   <tr>
@@ -580,6 +580,12 @@ permalink: /analysis/아파트별 매매 평단가 탑 100 랭킹
   </tr>
 
   <tr>
+    <td><a href="/apt/서울특별시 양천구 목동">서울특별시 양천구 목동</a></td>
+    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=목동 목동신시가지6">목동신시가지6</a></td>
+    <td>2632</td>
+  </tr>
+
+  <tr>
     <td><a href="/apt/서울특별시 송파구 송파동">서울특별시 송파구 송파동</a></td>
     <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=송파동 래미안송파파인탑">래미안송파파인탑</a></td>
     <td>2631</td>
@@ -594,7 +600,7 @@ permalink: /analysis/아파트별 매매 평단가 탑 100 랭킹
   <tr>
     <td><a href="/apt/서울특별시 송파구 잠실동">서울특별시 송파구 잠실동</a></td>
     <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=잠실동 트리지움">트리지움</a></td>
-    <td>2593</td>
+    <td>2601</td>
   </tr>
 
   <tr>
@@ -607,12 +613,6 @@ permalink: /analysis/아파트별 매매 평단가 탑 100 랭킹
     <td><a href="/apt/서울특별시 강남구 역삼동">서울특별시 강남구 역삼동</a></td>
     <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=역삼동 래미안그레이튼">래미안그레이튼</a></td>
     <td>2588</td>
-  </tr>
-
-  <tr>
-    <td><a href="/apt/서울특별시 송파구 가락동">서울특별시 송파구 가락동</a></td>
-    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=가락동 헬리오시티">헬리오시티</a></td>
-    <td>2587</td>
   </tr>
 
 </table>

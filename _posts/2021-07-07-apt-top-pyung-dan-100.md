@@ -154,6 +154,14 @@ permalink: /analysis/아파트 매매 평단가 탑 100 랭킹
   </tr>
 
   <tr>
+    <td><a href="/apt/서울특별시 강남구 개포동">서울특별시 강남구 개포동</a></td>
+    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=개포동 개포주공 7단지">개포주공 7단지</a></td>
+    <td>53.46</td>
+    <td>225,000</td>
+    <td>4209</td>
+  </tr>
+
+  <tr>
     <td><a href="/apt/서울특별시 강남구 청담동">서울특별시 강남구 청담동</a></td>
     <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=청담동 PH129">PH129</a></td>
     <td>273.96</td>
@@ -442,6 +450,14 @@ permalink: /analysis/아파트 매매 평단가 탑 100 랭킹
   </tr>
 
   <tr>
+    <td><a href="/apt/서울특별시 강남구 도곡동">서울특별시 강남구 도곡동</a></td>
+    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=도곡동 래미안도곡카운티">래미안도곡카운티</a></td>
+    <td>59.98</td>
+    <td>230,000</td>
+    <td>3835</td>
+  </tr>
+
+  <tr>
     <td><a href="/apt/서울특별시 서초구 반포동">서울특별시 서초구 반포동</a></td>
     <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=반포동 아크로리버파크">아크로리버파크</a></td>
     <td>112.93</td>
@@ -682,6 +698,14 @@ permalink: /analysis/아파트 매매 평단가 탑 100 랭킹
   </tr>
 
   <tr>
+    <td><a href="/apt/서울특별시 송파구 잠실동">서울특별시 송파구 잠실동</a></td>
+    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=잠실동 리센츠">리센츠</a></td>
+    <td>27.68</td>
+    <td>101,000</td>
+    <td>3649</td>
+  </tr>
+
+  <tr>
     <td><a href="/apt/서울특별시 서초구 반포동">서울특별시 서초구 반포동</a></td>
     <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=반포동 반포자이">반포자이</a></td>
     <td>84.984</td>
@@ -791,30 +815,6 @@ permalink: /analysis/아파트 매매 평단가 탑 100 랭킹
     <td>52.74</td>
     <td>189,000</td>
     <td>3584</td>
-  </tr>
-
-  <tr>
-    <td><a href="/apt/서울특별시 서초구 반포동">서울특별시 서초구 반포동</a></td>
-    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=반포동 아크로리버파크">아크로리버파크</a></td>
-    <td>129.92</td>
-    <td>465,000</td>
-    <td>3579</td>
-  </tr>
-
-  <tr>
-    <td><a href="/apt/서울특별시 강남구 대치동">서울특별시 강남구 대치동</a></td>
-    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=대치동 래미안대치팰리스">래미안대치팰리스</a></td>
-    <td>84.98</td>
-    <td>304,000</td>
-    <td>3577</td>
-  </tr>
-
-  <tr>
-    <td><a href="/apt/서울특별시 강남구 대치동">서울특별시 강남구 대치동</a></td>
-    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=대치동 래미안대치팰리스">래미안대치팰리스</a></td>
-    <td>84.99</td>
-    <td>304,000</td>
-    <td>3577</td>
   </tr>
 
 </table>
