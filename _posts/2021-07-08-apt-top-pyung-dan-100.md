@@ -658,6 +658,14 @@ permalink: /analysis/아파트 매매 평단가 탑 100 랭킹
   </tr>
 
   <tr>
+    <td><a href="/apt/서울특별시 강남구 대치동">서울특별시 강남구 대치동</a></td>
+    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=대치동 래미안대치팰리스">래미안대치팰리스</a></td>
+    <td>84.97</td>
+    <td>312,000</td>
+    <td>3672</td>
+  </tr>
+
+  <tr>
     <td><a href="/apt/서울특별시 강남구 청담동">서울특별시 강남구 청담동</a></td>
     <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=청담동 청담자이">청담자이</a></td>
     <td>49.593</td>
@@ -807,14 +815,6 @@ permalink: /analysis/아파트 매매 평단가 탑 100 랭킹
     <td>52.74</td>
     <td>189,000</td>
     <td>3584</td>
-  </tr>
-
-  <tr>
-    <td><a href="/apt/서울특별시 서초구 반포동">서울특별시 서초구 반포동</a></td>
-    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=반포동 아크로리버파크">아크로리버파크</a></td>
-    <td>129.92</td>
-    <td>465,000</td>
-    <td>3579</td>
   </tr>
 
 </table>
