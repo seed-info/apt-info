@@ -89,14 +89,14 @@ permalink: /analysis/지난일주일 전월세 거래량 상위 50 지역
 
   <tr>
     <td>13위</td>
-    <td>225</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시 서초구 ">서울특별시 서초구 </a></td>
+    <td>232</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도 용인시 기흥구 ">경기도 용인시 기흥구 </a></td>
   </tr>
 
   <tr>
     <td>14위</td>
-    <td>220</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도 용인시 기흥구 ">경기도 용인시 기흥구 </a></td>
+    <td>225</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시 서초구 ">서울특별시 서초구 </a></td>
   </tr>
 
   <tr>

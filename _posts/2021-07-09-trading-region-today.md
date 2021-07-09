@@ -126,193 +126,193 @@ permalink: /analysis/오늘 매매 거래량 상위 50 지역
   <tr>
     <td>19위</td>
     <td>28</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도 남양주시 ">경기도 남양주시 </a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도 용인시 기흥구 ">경기도 용인시 기흥구 </a></td>
   </tr>
 
   <tr>
     <td>20위</td>
     <td>28</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도 의정부시 ">경기도 의정부시 </a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도 남양주시 ">경기도 남양주시 </a></td>
   </tr>
 
   <tr>
     <td>21위</td>
     <td>28</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/울산광역시 남구 ">울산광역시 남구 </a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도 의정부시 ">경기도 의정부시 </a></td>
   </tr>
 
   <tr>
     <td>22위</td>
     <td>28</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/인천광역시 미추홀구 ">인천광역시 미추홀구 </a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/울산광역시 남구 ">울산광역시 남구 </a></td>
   </tr>
 
   <tr>
     <td>23위</td>
+    <td>28</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/인천광역시 미추홀구 ">인천광역시 미추홀구 </a></td>
+  </tr>
+
+  <tr>
+    <td>24위</td>
     <td>27</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/전라북도 군산시 ">전라북도 군산시 </a></td>
   </tr>
 
   <tr>
-    <td>24위</td>
+    <td>25위</td>
     <td>26</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/광주광역시 광산구 ">광주광역시 광산구 </a></td>
   </tr>
 
   <tr>
-    <td>25위</td>
+    <td>26위</td>
     <td>25</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도 화성시 ">경기도 화성시 </a></td>
   </tr>
 
   <tr>
-    <td>26위</td>
+    <td>27위</td>
     <td>25</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도 안성시 ">경기도 안성시 </a></td>
   </tr>
 
   <tr>
-    <td>27위</td>
+    <td>28위</td>
     <td>25</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도 시흥시 ">경기도 시흥시 </a></td>
   </tr>
 
   <tr>
-    <td>28위</td>
+    <td>29위</td>
     <td>25</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시 노원구 ">서울특별시 노원구 </a></td>
   </tr>
 
   <tr>
-    <td>29위</td>
+    <td>30위</td>
     <td>24</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/충청남도 서산시 ">충청남도 서산시 </a></td>
   </tr>
 
   <tr>
-    <td>30위</td>
+    <td>31위</td>
     <td>24</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도 안양시 동안구 ">경기도 안양시 동안구 </a></td>
   </tr>
 
   <tr>
-    <td>31위</td>
+    <td>32위</td>
     <td>24</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/울산광역시 울주군 ">울산광역시 울주군 </a></td>
   </tr>
 
   <tr>
-    <td>32위</td>
+    <td>33위</td>
     <td>24</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/광주광역시 북구 ">광주광역시 북구 </a></td>
   </tr>
 
   <tr>
-    <td>33위</td>
+    <td>34위</td>
     <td>22</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/경상북도 칠곡군 ">경상북도 칠곡군 </a></td>
   </tr>
 
   <tr>
-    <td>34위</td>
+    <td>35위</td>
     <td>22</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/전라북도 전주시 덕진구 ">전라북도 전주시 덕진구 </a></td>
   </tr>
 
   <tr>
-    <td>35위</td>
+    <td>36위</td>
     <td>22</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/충청남도 당진시 ">충청남도 당진시 </a></td>
   </tr>
 
   <tr>
-    <td>36위</td>
+    <td>37위</td>
     <td>22</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/충청남도 천안시 동남구 ">충청남도 천안시 동남구 </a></td>
   </tr>
 
   <tr>
-    <td>37위</td>
+    <td>38위</td>
     <td>22</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도 김포시 ">경기도 김포시 </a></td>
   </tr>
 
   <tr>
-    <td>38위</td>
+    <td>39위</td>
     <td>22</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도 이천시 ">경기도 이천시 </a></td>
   </tr>
 
   <tr>
-    <td>39위</td>
+    <td>40위</td>
     <td>22</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도 수원시 권선구 ">경기도 수원시 권선구 </a></td>
   </tr>
 
   <tr>
-    <td>40위</td>
+    <td>41위</td>
     <td>21</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/경상남도 창원시 성산구 ">경상남도 창원시 성산구 </a></td>
   </tr>
 
   <tr>
-    <td>41위</td>
+    <td>42위</td>
     <td>21</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/경상북도 구미시 ">경상북도 구미시 </a></td>
   </tr>
 
   <tr>
-    <td>42위</td>
+    <td>43위</td>
     <td>21</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/전라남도 목포시 ">전라남도 목포시 </a></td>
   </tr>
 
   <tr>
-    <td>43위</td>
+    <td>44위</td>
     <td>21</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/강원도 춘천시 ">강원도 춘천시 </a></td>
   </tr>
 
   <tr>
-    <td>44위</td>
+    <td>45위</td>
     <td>21</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도 용인시 수지구 ">경기도 용인시 수지구 </a></td>
   </tr>
 
   <tr>
-    <td>45위</td>
+    <td>46위</td>
     <td>21</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/울산광역시 북구 ">울산광역시 북구 </a></td>
   </tr>
 
   <tr>
-    <td>46위</td>
+    <td>47위</td>
     <td>21</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/울산광역시 동구 ">울산광역시 동구 </a></td>
   </tr>
 
   <tr>
-    <td>47위</td>
+    <td>48위</td>
     <td>21</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/대구광역시 북구 ">대구광역시 북구 </a></td>
   </tr>
 
   <tr>
-    <td>48위</td>
+    <td>49위</td>
     <td>20</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/경상남도 진주시 ">경상남도 진주시 </a></td>
   </tr>
 
   <tr>
-    <td>49위</td>
-    <td>20</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/전라북도 익산시 ">전라북도 익산시 </a></td>
-  </tr>
-
-  <tr>
     <td>50위</td>
     <td>20</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도 고양시 일산서구 ">경기도 고양시 일산서구 </a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/전라북도 익산시 ">전라북도 익산시 </a></td>
   </tr>
 
 </table>

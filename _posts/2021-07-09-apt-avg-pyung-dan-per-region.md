@@ -269,13 +269,13 @@ permalink: /analysis/지역별 매매 평단가 랭킹
 
   <tr>
     <td>43위</td>
-    <td><a href="/apt/경기도 부천시 {dong}">경기도 부천시</a></td>
-    <td>647</td>
+    <td><a href="/apt/경기도 용인시 기흥구 {dong}">경기도 용인시 기흥구</a></td>
+    <td>649</td>
   </tr>
 
   <tr>
     <td>44위</td>
-    <td><a href="/apt/경기도 용인시 기흥구 {dong}">경기도 용인시 기흥구</a></td>
+    <td><a href="/apt/경기도 부천시 {dong}">경기도 부천시</a></td>
     <td>647</td>
   </tr>
 

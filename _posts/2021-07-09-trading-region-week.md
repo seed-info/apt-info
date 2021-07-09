@@ -185,32 +185,32 @@ permalink: /analysis/지난일주일 매매 거래량 상위 50 지역
 
   <tr>
     <td>29위</td>
+    <td>138</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도 용인시 기흥구 ">경기도 용인시 기흥구 </a></td>
+  </tr>
+
+  <tr>
+    <td>30위</td>
     <td>136</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/충청북도 청주시 서원구 ">충청북도 청주시 서원구 </a></td>
   </tr>
 
   <tr>
-    <td>30위</td>
+    <td>31위</td>
     <td>134</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도 고양시 일산서구 ">경기도 고양시 일산서구 </a></td>
   </tr>
 
   <tr>
-    <td>31위</td>
+    <td>32위</td>
     <td>134</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/인천광역시 남동구 ">인천광역시 남동구 </a></td>
   </tr>
 
   <tr>
-    <td>32위</td>
-    <td>129</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/전라남도 광양시 ">전라남도 광양시 </a></td>
-  </tr>
-
-  <tr>
     <td>33위</td>
     <td>129</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도 용인시 기흥구 ">경기도 용인시 기흥구 </a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/전라남도 광양시 ">전라남도 광양시 </a></td>
   </tr>
 
   <tr>

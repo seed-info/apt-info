@@ -138,145 +138,145 @@ permalink: /analysis/오늘 전월세 거래량 상위 50 지역
   <tr>
     <td>21위</td>
     <td>39</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시 송파구 ">서울특별시 송파구 </a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도 용인시 기흥구 ">경기도 용인시 기흥구 </a></td>
   </tr>
 
   <tr>
     <td>22위</td>
+    <td>39</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시 송파구 ">서울특별시 송파구 </a></td>
+  </tr>
+
+  <tr>
+    <td>23위</td>
     <td>37</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시 서초구 ">서울특별시 서초구 </a></td>
   </tr>
 
   <tr>
-    <td>23위</td>
+    <td>24위</td>
     <td>36</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/인천광역시 계양구 ">인천광역시 계양구 </a></td>
   </tr>
 
   <tr>
-    <td>24위</td>
+    <td>25위</td>
     <td>36</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시 양천구 ">서울특별시 양천구 </a></td>
   </tr>
 
   <tr>
-    <td>25위</td>
+    <td>26위</td>
     <td>35</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도 의정부시 ">경기도 의정부시 </a></td>
   </tr>
 
   <tr>
-    <td>26위</td>
+    <td>27위</td>
     <td>35</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/부산광역시 기장군 ">부산광역시 기장군 </a></td>
   </tr>
 
   <tr>
-    <td>27위</td>
+    <td>28위</td>
     <td>34</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/충청북도 진천군 ">충청북도 진천군 </a></td>
   </tr>
 
   <tr>
-    <td>28위</td>
+    <td>29위</td>
     <td>34</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도 하남시 ">경기도 하남시 </a></td>
   </tr>
 
   <tr>
-    <td>29위</td>
+    <td>30위</td>
     <td>33</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/경상북도 경산시 ">경상북도 경산시 </a></td>
   </tr>
 
   <tr>
-    <td>30위</td>
+    <td>31위</td>
     <td>33</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시 마포구 ">서울특별시 마포구 </a></td>
   </tr>
 
   <tr>
-    <td>31위</td>
+    <td>32위</td>
     <td>32</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도 시흥시 ">경기도 시흥시 </a></td>
   </tr>
 
   <tr>
-    <td>32위</td>
+    <td>33위</td>
     <td>32</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/대구광역시 달서구 ">대구광역시 달서구 </a></td>
   </tr>
 
   <tr>
-    <td>33위</td>
+    <td>34위</td>
     <td>30</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/경상북도 구미시 ">경상북도 구미시 </a></td>
   </tr>
 
   <tr>
-    <td>34위</td>
+    <td>35위</td>
     <td>30</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/강원도 원주시 ">강원도 원주시 </a></td>
   </tr>
 
   <tr>
-    <td>35위</td>
+    <td>36위</td>
     <td>30</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도 김포시 ">경기도 김포시 </a></td>
   </tr>
 
   <tr>
-    <td>36위</td>
+    <td>37위</td>
     <td>29</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/전라남도 순천시 ">전라남도 순천시 </a></td>
   </tr>
 
   <tr>
-    <td>37위</td>
+    <td>38위</td>
     <td>29</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도 광명시 ">경기도 광명시 </a></td>
   </tr>
 
   <tr>
-    <td>38위</td>
+    <td>39위</td>
     <td>29</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/대구광역시 달성군 ">대구광역시 달성군 </a></td>
   </tr>
 
   <tr>
-    <td>39위</td>
+    <td>40위</td>
     <td>29</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시 강동구 ">서울특별시 강동구 </a></td>
   </tr>
 
   <tr>
-    <td>40위</td>
+    <td>41위</td>
     <td>28</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/충청남도 서산시 ">충청남도 서산시 </a></td>
   </tr>
 
   <tr>
-    <td>41위</td>
+    <td>42위</td>
     <td>28</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시 은평구 ">서울특별시 은평구 </a></td>
   </tr>
 
   <tr>
-    <td>42위</td>
+    <td>43위</td>
     <td>28</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시 성동구 ">서울특별시 성동구 </a></td>
   </tr>
 
   <tr>
-    <td>43위</td>
-    <td>27</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/경상남도 진주시 ">경상남도 진주시 </a></td>
-  </tr>
-
-  <tr>
     <td>44위</td>
     <td>27</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도 용인시 기흥구 ">경기도 용인시 기흥구 </a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/경상남도 진주시 ">경상남도 진주시 </a></td>
   </tr>
 
   <tr>

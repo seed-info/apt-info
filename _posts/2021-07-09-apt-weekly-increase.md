@@ -1189,8 +1189,8 @@ permalink: /weekly/주간 시세 변화율 랭킹
     <td>147</td>
     <td><a href="/apt/경기도 용인시 기흥구">경기도 용인시 기흥구</a></td>
     <td>63,970</td>
-    <td>62,893</td>
-    <td>-1.68%</td>
+    <td>62,977</td>
+    <td>-1.55%</td>
   </tr>
 
   <tr class="item">
