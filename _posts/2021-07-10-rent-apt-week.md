@@ -53,16 +53,16 @@ permalink: /analysis/지난일주일 전월세 거래량 상위 50 아파트
 
   <tr>
     <td>6위</td>
-    <td>51</td>
-    <td><a href="/apt/서울특별시 노원구 월계동">서울특별시 노원구 월계동</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=월계동 주공2">주공2</a></td>
+    <td>50</td>
+    <td><a href="/apt/충청남도 천안시 서북구 불당동">충청남도 천안시 서북구 불당동</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=불당동 천안불당엘에이치1단지">천안불당엘에이치1단지</a></td>
   </tr>
 
   <tr>
     <td>7위</td>
     <td>50</td>
-    <td><a href="/apt/충청남도 천안시 서북구 불당동">충청남도 천안시 서북구 불당동</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=불당동 천안불당엘에이치1단지">천안불당엘에이치1단지</a></td>
+    <td><a href="/apt/서울특별시 노원구 월계동">서울특별시 노원구 월계동</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=월계동 주공2">주공2</a></td>
   </tr>
 
   <tr>
@@ -144,16 +144,16 @@ permalink: /analysis/지난일주일 전월세 거래량 상위 50 아파트
 
   <tr>
     <td>19위</td>
-    <td>32</td>
-    <td><a href="/apt/서울특별시 강동구 명일동">서울특별시 강동구 명일동</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=명일동 래미안솔베뉴">래미안솔베뉴</a></td>
+    <td>31</td>
+    <td><a href="/apt/서울특별시 성동구 금호동1가">서울특별시 성동구 금호동1가</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=금호동1가 벽산">벽산</a></td>
   </tr>
 
   <tr>
     <td>20위</td>
     <td>31</td>
-    <td><a href="/apt/서울특별시 성동구 금호동1가">서울특별시 성동구 금호동1가</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=금호동1가 벽산">벽산</a></td>
+    <td><a href="/apt/서울특별시 강동구 명일동">서울특별시 강동구 명일동</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=명일동 래미안솔베뉴">래미안솔베뉴</a></td>
   </tr>
 
   <tr>
@@ -313,57 +313,57 @@ permalink: /analysis/지난일주일 전월세 거래량 상위 50 아파트
   <tr>
     <td>43위</td>
     <td>21</td>
-    <td><a href="/apt/서울특별시 강서구 염창동">서울특별시 강서구 염창동</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=염창동 현대1">현대1</a></td>
-  </tr>
-
-  <tr>
-    <td>44위</td>
-    <td>21</td>
     <td><a href="/apt/강원도 강릉시 교동">강원도 강릉시 교동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=교동 부영2차">부영2차</a></td>
   </tr>
 
   <tr>
-    <td>45위</td>
+    <td>44위</td>
     <td>21</td>
     <td><a href="/apt/서울특별시 성북구 종암동">서울특별시 성북구 종암동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=종암동 극동">극동</a></td>
   </tr>
 
   <tr>
-    <td>46위</td>
+    <td>45위</td>
     <td>20</td>
     <td><a href="/apt/경상남도 창원시 의창구 대원동">경상남도 창원시 의창구 대원동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=대원동 포레나대원">포레나대원</a></td>
   </tr>
 
   <tr>
-    <td>47위</td>
+    <td>46위</td>
     <td>20</td>
     <td><a href="/apt/경기도 광명시 하안동">경기도 광명시 하안동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=하안동 주공6">주공6</a></td>
   </tr>
 
   <tr>
-    <td>48위</td>
+    <td>47위</td>
     <td>20</td>
     <td><a href="/apt/서울특별시 송파구 잠실동">서울특별시 송파구 잠실동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=잠실동 잠실엘스">잠실엘스</a></td>
   </tr>
 
   <tr>
-    <td>49위</td>
+    <td>48위</td>
     <td>20</td>
     <td><a href="/apt/경기도 평택시 비전동">경기도 평택시 비전동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=비전동 엘에이치이곡마을3단지">엘에이치이곡마을3단지</a></td>
   </tr>
 
   <tr>
-    <td>50위</td>
+    <td>49위</td>
     <td>20</td>
     <td><a href="/apt/서울특별시 중구 신당동">서울특별시 중구 신당동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=신당동 남산타운(임대)">남산타운(임대)</a></td>
+  </tr>
+
+  <tr>
+    <td>50위</td>
+    <td>20</td>
+    <td><a href="/apt/광주광역시 북구 신용동">광주광역시 북구 신용동</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=신용동 광주첨단2지구사랑으로부영">광주첨단2지구사랑으로부영</a></td>
   </tr>
 
 </table>

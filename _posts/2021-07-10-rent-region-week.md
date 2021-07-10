@@ -17,7 +17,7 @@ permalink: /analysis/지난일주일 전월세 거래량 상위 50 지역
 
   <tr>
     <td>1위</td>
-    <td>458</td>
+    <td>457</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도 화성시 ">경기도 화성시 </a></td>
   </tr>
 
@@ -36,25 +36,25 @@ permalink: /analysis/지난일주일 전월세 거래량 상위 50 지역
   <tr>
     <td>4위</td>
     <td>298</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도 성남시 분당구 ">경기도 성남시 분당구 </a></td>
-  </tr>
-
-  <tr>
-    <td>5위</td>
-    <td>298</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시 강남구 ">서울특별시 강남구 </a></td>
   </tr>
 
   <tr>
-    <td>6위</td>
+    <td>5위</td>
     <td>297</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/경상남도 창원시 성산구 ">경상남도 창원시 성산구 </a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도 성남시 분당구 ">경기도 성남시 분당구 </a></td>
+  </tr>
+
+  <tr>
+    <td>6위</td>
+    <td>296</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시 송파구 ">서울특별시 송파구 </a></td>
   </tr>
 
   <tr>
     <td>7위</td>
-    <td>297</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시 송파구 ">서울특별시 송파구 </a></td>
+    <td>295</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/경상남도 창원시 성산구 ">경상남도 창원시 성산구 </a></td>
   </tr>
 
   <tr>
@@ -65,13 +65,13 @@ permalink: /analysis/지난일주일 전월세 거래량 상위 50 지역
 
   <tr>
     <td>9위</td>
-    <td>274</td>
+    <td>272</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도 고양시 덕양구 ">경기도 고양시 덕양구 </a></td>
   </tr>
 
   <tr>
     <td>10위</td>
-    <td>257</td>
+    <td>256</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/세종특별자치시 ">세종특별자치시 </a></td>
   </tr>
 
@@ -83,7 +83,7 @@ permalink: /analysis/지난일주일 전월세 거래량 상위 50 지역
 
   <tr>
     <td>12위</td>
-    <td>238</td>
+    <td>237</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도 용인시 기흥구 ">경기도 용인시 기흥구 </a></td>
   </tr>
 
@@ -95,13 +95,13 @@ permalink: /analysis/지난일주일 전월세 거래량 상위 50 지역
 
   <tr>
     <td>14위</td>
-    <td>219</td>
+    <td>218</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시 양천구 ">서울특별시 양천구 </a></td>
   </tr>
 
   <tr>
     <td>15위</td>
-    <td>212</td>
+    <td>210</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도 시흥시 ">경기도 시흥시 </a></td>
   </tr>
 
@@ -113,13 +113,13 @@ permalink: /analysis/지난일주일 전월세 거래량 상위 50 지역
 
   <tr>
     <td>17위</td>
-    <td>203</td>
+    <td>202</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도 수원시 영통구 ">경기도 수원시 영통구 </a></td>
   </tr>
 
   <tr>
     <td>18위</td>
-    <td>200</td>
+    <td>199</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/인천광역시 연수구 ">인천광역시 연수구 </a></td>
   </tr>
 
@@ -132,18 +132,18 @@ permalink: /analysis/지난일주일 전월세 거래량 상위 50 지역
   <tr>
     <td>20위</td>
     <td>194</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도 고양시 일산서구 ">경기도 고양시 일산서구 </a></td>
-  </tr>
-
-  <tr>
-    <td>21위</td>
-    <td>194</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도 부천시 ">경기도 부천시 </a></td>
   </tr>
 
   <tr>
+    <td>21위</td>
+    <td>193</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도 고양시 일산서구 ">경기도 고양시 일산서구 </a></td>
+  </tr>
+
+  <tr>
     <td>22위</td>
-    <td>189</td>
+    <td>188</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시 강동구 ">서울특별시 강동구 </a></td>
   </tr>
 
@@ -168,13 +168,13 @@ permalink: /analysis/지난일주일 전월세 거래량 상위 50 지역
   <tr>
     <td>26위</td>
     <td>174</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/경상북도 구미시 ">경상북도 구미시 </a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시 마포구 ">서울특별시 마포구 </a></td>
   </tr>
 
   <tr>
     <td>27위</td>
-    <td>174</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시 마포구 ">서울특별시 마포구 </a></td>
+    <td>173</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/경상북도 구미시 ">경상북도 구미시 </a></td>
   </tr>
 
   <tr>
@@ -191,13 +191,13 @@ permalink: /analysis/지난일주일 전월세 거래량 상위 50 지역
 
   <tr>
     <td>30위</td>
-    <td>159</td>
+    <td>158</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/강원도 원주시 ">강원도 원주시 </a></td>
   </tr>
 
   <tr>
     <td>31위</td>
-    <td>159</td>
+    <td>157</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도 파주시 ">경기도 파주시 </a></td>
   </tr>
 
@@ -263,55 +263,55 @@ permalink: /analysis/지난일주일 전월세 거래량 상위 50 지역
 
   <tr>
     <td>42위</td>
-    <td>135</td>
+    <td>134</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도 고양시 일산동구 ">경기도 고양시 일산동구 </a></td>
   </tr>
 
   <tr>
     <td>43위</td>
     <td>134</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시 동작구 ">서울특별시 동작구 </a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시 구로구 ">서울특별시 구로구 </a></td>
   </tr>
 
   <tr>
     <td>44위</td>
     <td>134</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시 구로구 ">서울특별시 구로구 </a></td>
-  </tr>
-
-  <tr>
-    <td>45위</td>
-    <td>134</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시 은평구 ">서울특별시 은평구 </a></td>
   </tr>
 
   <tr>
-    <td>46위</td>
-    <td>128</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/부산광역시 강서구 ">부산광역시 강서구 </a></td>
+    <td>45위</td>
+    <td>133</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시 동작구 ">서울특별시 동작구 </a></td>
   </tr>
 
   <tr>
-    <td>47위</td>
+    <td>46위</td>
     <td>127</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도 수원시 권선구 ">경기도 수원시 권선구 </a></td>
   </tr>
 
   <tr>
-    <td>48위</td>
+    <td>47위</td>
     <td>127</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/대전광역시 유성구 ">대전광역시 유성구 </a></td>
   </tr>
 
   <tr>
-    <td>49위</td>
+    <td>48위</td>
     <td>127</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/광주광역시 북구 ">광주광역시 북구 </a></td>
   </tr>
 
   <tr>
+    <td>49위</td>
+    <td>127</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/부산광역시 강서구 ">부산광역시 강서구 </a></td>
+  </tr>
+
+  <tr>
     <td>50위</td>
-    <td>124</td>
+    <td>123</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도 안산시 단원구 ">경기도 안산시 단원구 </a></td>
   </tr>
 
