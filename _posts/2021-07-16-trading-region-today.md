@@ -1,12 +1,12 @@
 ---
 layout: post
 comments: true
-title: 오늘 매매 거래량 상위 50 지역
+title: 오늘매매거래량상위50지역
 categories: [실거래분석]
-permalink: /analysis/오늘 매매 거래량 상위 50 지역
+permalink: /analysis/오늘매매거래량상위50지역
 ---
 
-오늘 매매 거래량 상위 50 지역 실거래 분석
+오늘매매거래량상위50지역 실거래 분석
 
 <table>
   <tr>

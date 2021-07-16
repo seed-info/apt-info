@@ -2218,7 +2218,7 @@ pagetype: blog
         for (var idx in code_table) {
             var item = code_table[idx];
             if(item.name.indexOf(value) != -1)  {
-                options += "<a class='search_item' href='/apt/" + item.name + "'>".concat(item.name, "</a>\n");
+                options += "<a class='search_item' href='/apt/" + item.name.replace(' ', '') + "'>".concat(item.name, "</a>\n");
             }
         }
 

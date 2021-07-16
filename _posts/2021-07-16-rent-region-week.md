@@ -1,12 +1,12 @@
 ---
 layout: post
 comments: true
-title: 지난일주일 전월세 거래량 상위 50 지역
+title: 지난일주일전월세거래량상위50지역
 categories: [실거래분석]
-permalink: /analysis/지난일주일 전월세 거래량 상위 50 지역
+permalink: /analysis/지난일주일전월세거래량상위50지역
 ---
 
-지난일주일 전월세 거래량 상위 50 지역 실거래 분석
+지난일주일전월세거래량상위50지역 실거래 분석
 
 <table>
   <tr>
