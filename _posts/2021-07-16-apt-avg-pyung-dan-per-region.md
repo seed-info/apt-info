@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: 지역별 평균 평단가 랭킹
 categories: [실거래분석]
-permalink: /analysis/지역별 매매 평단가 랭킹
+permalink: /analysis/지역별매매평단가랭킹
 ---
 
 지역별 평균 평단가 랭킹

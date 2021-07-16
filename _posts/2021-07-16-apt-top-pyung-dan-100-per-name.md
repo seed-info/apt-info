@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: 아파트별 매매 평단가 탑 100 랭킹
 categories: [실거래분석]
-permalink: /analysis/아파트별 매매 평단가 탑 100 랭킹
+permalink: /analysis/아파트별매매평단가탑100랭킹
 ---
 
 아파트별 매매 평단가 탑 100 랭킹

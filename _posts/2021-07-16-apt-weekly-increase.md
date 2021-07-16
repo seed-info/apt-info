@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: 주간 시세 변화율 랭킹
 categories: [주간분석]
-permalink: /weekly/주간 시세 변화율 랭킹
+permalink: /weekly/주간시세변화율랭킹
 ---
 
 20210702~20210716 주간 상승률 랭킹
