@@ -46,7 +46,7 @@ permalink: /analysis/오늘전매거래량상위50아파트
 
   <tr>
     <td>5위</td>
-    <td>651</td>
+    <td>650</td>
     <td><a href="/apt/경상북도포항시북구흥해읍 이인리">경상북도포항시북구 흥해읍 이인리</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=흥해읍 이인리 한화 포레나 포항">한화 포레나 포항</a></td>
   </tr>
@@ -81,7 +81,7 @@ permalink: /analysis/오늘전매거래량상위50아파트
 
   <tr>
     <td>10위</td>
-    <td>558</td>
+    <td>557</td>
     <td><a href="/apt/충청남도당진시수청동">충청남도당진시 수청동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=수청동 당진 센트레빌 르네블루">당진 센트레빌 르네블루</a></td>
   </tr>
@@ -116,7 +116,7 @@ permalink: /analysis/오늘전매거래량상위50아파트
 
   <tr>
     <td>15위</td>
-    <td>489</td>
+    <td>488</td>
     <td><a href="/apt/강원도원주시명륜동">강원도원주시 명륜동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=명륜동 원주 더샵 센트럴파크 2단지">원주 더샵 센트럴파크 2단지</a></td>
   </tr>
@@ -186,7 +186,7 @@ permalink: /analysis/오늘전매거래량상위50아파트
 
   <tr>
     <td>25위</td>
-    <td>438</td>
+    <td>437</td>
     <td><a href="/apt/경상북도포항시북구흥해읍 이인리">경상북도포항시북구 흥해읍 이인리</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=흥해읍 이인리 KTX포항역 삼구 트리니엔">KTX포항역 삼구 트리니엔</a></td>
   </tr>
@@ -270,7 +270,7 @@ permalink: /analysis/오늘전매거래량상위50아파트
 
   <tr>
     <td>37위</td>
-    <td>389</td>
+    <td>388</td>
     <td><a href="/apt/인천광역시미추홀구주안동">인천광역시미추홀구 주안동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=주안동 힐스테이트푸르지오 주안">힐스테이트푸르지오 주안</a></td>
   </tr>
@@ -291,7 +291,7 @@ permalink: /analysis/오늘전매거래량상위50아파트
 
   <tr>
     <td>40위</td>
-    <td>370</td>
+    <td>369</td>
     <td><a href="/apt/경상남도김해시안동">경상남도김해시 안동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=안동 김해 푸르지오 하이엔드 2차">김해 푸르지오 하이엔드 2차</a></td>
   </tr>
@@ -319,7 +319,7 @@ permalink: /analysis/오늘전매거래량상위50아파트
 
   <tr>
     <td>44위</td>
-    <td>358</td>
+    <td>357</td>
     <td><a href="/apt/인천광역시미추홀구주안동">인천광역시미추홀구 주안동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=주안동 주안 캐슬앤더샵 에듀포레">주안 캐슬앤더샵 에듀포레</a></td>
   </tr>
@@ -334,15 +334,15 @@ permalink: /analysis/오늘전매거래량상위50아파트
   <tr>
     <td>46위</td>
     <td>353</td>
-    <td><a href="/apt/충청남도천안시동남구풍세면 보성리">충청남도천안시동남구 풍세면 보성리</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=풍세면 보성리 천안 한양수자인 에코시티">천안 한양수자인 에코시티</a></td>
+    <td><a href="/apt/대전광역시동구신흥동">대전광역시동구 신흥동</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=신흥동 신흥 SK VIEW">신흥 SK VIEW</a></td>
   </tr>
 
   <tr>
     <td>47위</td>
-    <td>353</td>
-    <td><a href="/apt/대전광역시동구신흥동">대전광역시동구 신흥동</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=신흥동 신흥 SK VIEW">신흥 SK VIEW</a></td>
+    <td>350</td>
+    <td><a href="/apt/충청남도천안시동남구풍세면 보성리">충청남도천안시동남구 풍세면 보성리</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=풍세면 보성리 천안 한양수자인 에코시티">천안 한양수자인 에코시티</a></td>
   </tr>
 
   <tr>
@@ -354,16 +354,16 @@ permalink: /analysis/오늘전매거래량상위50아파트
 
   <tr>
     <td>49위</td>
-    <td>345</td>
-    <td><a href="/apt/경상남도김해시신문동">경상남도김해시 신문동</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=신문동 김해율하 더스카이시티 제니스앤프라우">김해율하 더스카이시티 제니스앤프라우</a></td>
+    <td>344</td>
+    <td><a href="/apt/경상북도포항시북구장성동">경상북도포항시북구 장성동</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=장성동 장성 푸르지오">장성 푸르지오</a></td>
   </tr>
 
   <tr>
     <td>50위</td>
-    <td>344</td>
-    <td><a href="/apt/경상북도포항시북구장성동">경상북도포항시북구 장성동</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=장성동 장성 푸르지오">장성 푸르지오</a></td>
+    <td>343</td>
+    <td><a href="/apt/경상남도김해시신문동">경상남도김해시 신문동</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=신문동 김해율하 더스카이시티 제니스앤프라우">김해율하 더스카이시티 제니스앤프라우</a></td>
   </tr>
 
 </table>
