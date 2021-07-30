@@ -23,13 +23,13 @@ permalink: /analysis/오늘전매거래량상위50지역
 
   <tr>
     <td>2위</td>
-    <td>3388</td>
+    <td>3391</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/인천광역시연수구">인천광역시연수구 </a></td>
   </tr>
 
   <tr>
     <td>3위</td>
-    <td>3310</td>
+    <td>3329</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/경상남도김해시">경상남도김해시 </a></td>
   </tr>
 
@@ -41,13 +41,13 @@ permalink: /analysis/오늘전매거래량상위50지역
 
   <tr>
     <td>5위</td>
-    <td>2690</td>
+    <td>2692</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/강원도원주시">강원도원주시 </a></td>
   </tr>
 
   <tr>
     <td>6위</td>
-    <td>2685</td>
+    <td>2692</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/인천광역시서구">인천광역시서구 </a></td>
   </tr>
 
@@ -65,7 +65,7 @@ permalink: /analysis/오늘전매거래량상위50지역
 
   <tr>
     <td>9위</td>
-    <td>2164</td>
+    <td>2166</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/충청북도청주시상당구">충청북도청주시상당구 </a></td>
   </tr>
 
@@ -77,13 +77,13 @@ permalink: /analysis/오늘전매거래량상위50지역
 
   <tr>
     <td>11위</td>
-    <td>1996</td>
+    <td>2005</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/경상북도포항시북구">경상북도포항시북구 </a></td>
   </tr>
 
   <tr>
     <td>12위</td>
-    <td>1917</td>
+    <td>1919</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/대구광역시달서구">대구광역시달서구 </a></td>
   </tr>
 
@@ -95,7 +95,7 @@ permalink: /analysis/오늘전매거래량상위50지역
 
   <tr>
     <td>14위</td>
-    <td>1880</td>
+    <td>1882</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/경상남도양산시">경상남도양산시 </a></td>
   </tr>
 
@@ -107,37 +107,37 @@ permalink: /analysis/오늘전매거래량상위50지역
 
   <tr>
     <td>16위</td>
-    <td>1718</td>
+    <td>1720</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도남양주시">경기도남양주시 </a></td>
   </tr>
 
   <tr>
     <td>17위</td>
-    <td>1668</td>
+    <td>1674</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/충청남도천안시동남구">충청남도천안시동남구 </a></td>
   </tr>
 
   <tr>
     <td>18위</td>
-    <td>1655</td>
+    <td>1656</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/경상북도경산시">경상북도경산시 </a></td>
   </tr>
 
   <tr>
     <td>19위</td>
-    <td>1593</td>
+    <td>1595</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/대구광역시달성군">대구광역시달성군 </a></td>
   </tr>
 
   <tr>
     <td>20위</td>
-    <td>1540</td>
+    <td>1542</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/강원도춘천시">강원도춘천시 </a></td>
   </tr>
 
   <tr>
     <td>21위</td>
-    <td>1506</td>
+    <td>1520</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/경상남도거제시">경상남도거제시 </a></td>
   </tr>
 
@@ -149,13 +149,13 @@ permalink: /analysis/오늘전매거래량상위50지역
 
   <tr>
     <td>23위</td>
-    <td>1474</td>
+    <td>1477</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도화성시">경기도화성시 </a></td>
   </tr>
 
   <tr>
     <td>24위</td>
-    <td>1446</td>
+    <td>1448</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/전라북도전주시완산구">전라북도전주시완산구 </a></td>
   </tr>
 
@@ -167,13 +167,13 @@ permalink: /analysis/오늘전매거래량상위50지역
 
   <tr>
     <td>26위</td>
-    <td>1436</td>
+    <td>1438</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/전라남도순천시">전라남도순천시 </a></td>
   </tr>
 
   <tr>
     <td>27위</td>
-    <td>1422</td>
+    <td>1425</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/강원도속초시">강원도속초시 </a></td>
   </tr>
 
@@ -185,7 +185,7 @@ permalink: /analysis/오늘전매거래량상위50지역
 
   <tr>
     <td>29위</td>
-    <td>1364</td>
+    <td>1369</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/충청남도아산시">충청남도아산시 </a></td>
   </tr>
 
@@ -203,7 +203,7 @@ permalink: /analysis/오늘전매거래량상위50지역
 
   <tr>
     <td>32위</td>
-    <td>1260</td>
+    <td>1264</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/인천광역시부평구">인천광역시부평구 </a></td>
   </tr>
 
@@ -221,7 +221,7 @@ permalink: /analysis/오늘전매거래량상위50지역
 
   <tr>
     <td>35위</td>
-    <td>1177</td>
+    <td>1178</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도의정부시">경기도의정부시 </a></td>
   </tr>
 
@@ -233,19 +233,19 @@ permalink: /analysis/오늘전매거래량상위50지역
 
   <tr>
     <td>37위</td>
+    <td>1050</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/충청남도당진시">충청남도당진시 </a></td>
+  </tr>
+
+  <tr>
+    <td>38위</td>
     <td>1041</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/광주광역시동구">광주광역시동구 </a></td>
   </tr>
 
   <tr>
-    <td>38위</td>
-    <td>1040</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/충청남도당진시">충청남도당진시 </a></td>
-  </tr>
-
-  <tr>
     <td>39위</td>
-    <td>964</td>
+    <td>965</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/부산광역시해운대구">부산광역시해운대구 </a></td>
   </tr>
 
@@ -269,7 +269,7 @@ permalink: /analysis/오늘전매거래량상위50지역
 
   <tr>
     <td>43위</td>
-    <td>880</td>
+    <td>881</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/대전광역시유성구">대전광역시유성구 </a></td>
   </tr>
 
@@ -281,7 +281,7 @@ permalink: /analysis/오늘전매거래량상위50지역
 
   <tr>
     <td>45위</td>
-    <td>864</td>
+    <td>865</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/부산광역시서구">부산광역시서구 </a></td>
   </tr>
 
@@ -293,25 +293,25 @@ permalink: /analysis/오늘전매거래량상위50지역
 
   <tr>
     <td>47위</td>
-    <td>846</td>
+    <td>848</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/전라북도군산시">전라북도군산시 </a></td>
   </tr>
 
   <tr>
     <td>48위</td>
-    <td>830</td>
+    <td>833</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/부산광역시북구">부산광역시북구 </a></td>
   </tr>
 
   <tr>
     <td>49위</td>
-    <td>819</td>
+    <td>820</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도광주시">경기도광주시 </a></td>
   </tr>
 
   <tr>
     <td>50위</td>
-    <td>804</td>
+    <td>805</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도양주시">경기도양주시 </a></td>
   </tr>
 

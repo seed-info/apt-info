@@ -32,7 +32,7 @@ permalink: /analysis/오늘전매거래량상위50아파트
 
   <tr>
     <td>3위</td>
-    <td>814</td>
+    <td>815</td>
     <td><a href="/apt/경상남도김해시안동">경상남도김해시 안동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=안동 김해 푸르지오 하이엔드">김해 푸르지오 하이엔드</a></td>
   </tr>
@@ -46,7 +46,7 @@ permalink: /analysis/오늘전매거래량상위50아파트
 
   <tr>
     <td>5위</td>
-    <td>663</td>
+    <td>670</td>
     <td><a href="/apt/경상북도포항시북구흥해읍 이인리">경상북도포항시북구 흥해읍 이인리</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=흥해읍 이인리 한화 포레나 포항">한화 포레나 포항</a></td>
   </tr>
@@ -109,7 +109,7 @@ permalink: /analysis/오늘전매거래량상위50아파트
 
   <tr>
     <td>14위</td>
-    <td>494</td>
+    <td>495</td>
     <td><a href="/apt/인천광역시서구원당동">인천광역시서구 원당동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=원당동 인천검단 AB15-2블록 호반베르디움">인천검단 AB15-2블록 호반베르디움</a></td>
   </tr>
@@ -123,7 +123,7 @@ permalink: /analysis/오늘전매거래량상위50아파트
 
   <tr>
     <td>16위</td>
-    <td>481</td>
+    <td>482</td>
     <td><a href="/apt/대전광역시대덕구신탄진동">대전광역시대덕구 신탄진동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=신탄진동 대전 동일스위트리버스카이">대전 동일스위트리버스카이</a></td>
   </tr>
@@ -158,7 +158,7 @@ permalink: /analysis/오늘전매거래량상위50아파트
 
   <tr>
     <td>21위</td>
-    <td>459</td>
+    <td>461</td>
     <td><a href="/apt/강원도원주시무실동">강원도원주시 무실동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=무실동 원주 더샵 센트럴파크 1단지">원주 더샵 센트럴파크 1단지</a></td>
   </tr>
@@ -179,16 +179,16 @@ permalink: /analysis/오늘전매거래량상위50아파트
 
   <tr>
     <td>24위</td>
-    <td>442</td>
-    <td><a href="/apt/충청남도천안시서북구두정동">충청남도천안시서북구 두정동</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=두정동 두정역 효성해링턴 플레이스">두정역 효성해링턴 플레이스</a></td>
+    <td>443</td>
+    <td><a href="/apt/경상북도포항시북구흥해읍 이인리">경상북도포항시북구 흥해읍 이인리</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=흥해읍 이인리 KTX포항역 삼구 트리니엔">KTX포항역 삼구 트리니엔</a></td>
   </tr>
 
   <tr>
     <td>25위</td>
-    <td>441</td>
-    <td><a href="/apt/경상북도포항시북구흥해읍 이인리">경상북도포항시북구 흥해읍 이인리</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=흥해읍 이인리 KTX포항역 삼구 트리니엔">KTX포항역 삼구 트리니엔</a></td>
+    <td>442</td>
+    <td><a href="/apt/충청남도천안시서북구두정동">충청남도천안시서북구 두정동</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=두정동 두정역 효성해링턴 플레이스">두정역 효성해링턴 플레이스</a></td>
   </tr>
 
   <tr>
@@ -214,7 +214,7 @@ permalink: /analysis/오늘전매거래량상위50아파트
 
   <tr>
     <td>29위</td>
-    <td>417</td>
+    <td>418</td>
     <td><a href="/apt/인천광역시서구백석동">인천광역시서구 백석동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=백석동 검암역 로열파크씨티 푸르지오 2단지">검암역 로열파크씨티 푸르지오 2단지</a></td>
   </tr>
@@ -228,7 +228,7 @@ permalink: /analysis/오늘전매거래량상위50아파트
 
   <tr>
     <td>31위</td>
-    <td>412</td>
+    <td>413</td>
     <td><a href="/apt/충청북도청주시서원구모충동">충청북도청주시서원구 모충동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=모충동 청주모충 LH트릴로채 공공분양">청주모충 LH트릴로채 공공분양</a></td>
   </tr>
@@ -256,7 +256,7 @@ permalink: /analysis/오늘전매거래량상위50아파트
 
   <tr>
     <td>35위</td>
-    <td>400</td>
+    <td>401</td>
     <td><a href="/apt/경상남도거제시고현동">경상남도거제시 고현동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=고현동 e편한세상 거제 유로스카이">e편한세상 거제 유로스카이</a></td>
   </tr>
@@ -264,22 +264,22 @@ permalink: /analysis/오늘전매거래량상위50아파트
   <tr>
     <td>36위</td>
     <td>398</td>
+    <td><a href="/apt/경상남도김해시안동">경상남도김해시 안동</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=안동 김해 푸르지오 하이엔드 2차">김해 푸르지오 하이엔드 2차</a></td>
+  </tr>
+
+  <tr>
+    <td>37위</td>
+    <td>398</td>
     <td><a href="/apt/경상북도경주시용강동">경상북도경주시 용강동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=용강동 경주 뉴센트로 에일린의 뜰">경주 뉴센트로 에일린의 뜰</a></td>
   </tr>
 
   <tr>
-    <td>37위</td>
+    <td>38위</td>
     <td>388</td>
     <td><a href="/apt/인천광역시미추홀구주안동">인천광역시미추홀구 주안동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=주안동 힐스테이트푸르지오 주안">힐스테이트푸르지오 주안</a></td>
-  </tr>
-
-  <tr>
-    <td>38위</td>
-    <td>383</td>
-    <td><a href="/apt/경상남도김해시안동">경상남도김해시 안동</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=안동 김해 푸르지오 하이엔드 2차">김해 푸르지오 하이엔드 2차</a></td>
   </tr>
 
   <tr>
@@ -298,23 +298,23 @@ permalink: /analysis/오늘전매거래량상위50아파트
 
   <tr>
     <td>41위</td>
-    <td>372</td>
+    <td>373</td>
     <td><a href="/apt/전라남도광양시성황동">전라남도광양시 성황동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=성황동 광양 푸르지오 더 퍼스트">광양 푸르지오 더 퍼스트</a></td>
   </tr>
 
   <tr>
     <td>42위</td>
-    <td>366</td>
-    <td><a href="/apt/광주광역시동구계림동">광주광역시동구 계림동</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=계림동 광주 그랜드센트럴">광주 그랜드센트럴</a></td>
+    <td>371</td>
+    <td><a href="/apt/충청남도천안시동남구풍세면 보성리">충청남도천안시동남구 풍세면 보성리</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=풍세면 보성리 천안 한양수자인 에코시티">천안 한양수자인 에코시티</a></td>
   </tr>
 
   <tr>
     <td>43위</td>
-    <td>365</td>
-    <td><a href="/apt/충청남도천안시동남구풍세면 보성리">충청남도천안시동남구 풍세면 보성리</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=풍세면 보성리 천안 한양수자인 에코시티">천안 한양수자인 에코시티</a></td>
+    <td>366</td>
+    <td><a href="/apt/광주광역시동구계림동">광주광역시동구 계림동</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=계림동 광주 그랜드센트럴">광주 그랜드센트럴</a></td>
   </tr>
 
   <tr>
@@ -347,14 +347,14 @@ permalink: /analysis/오늘전매거래량상위50아파트
 
   <tr>
     <td>48위</td>
-    <td>347</td>
+    <td>348</td>
     <td><a href="/apt/인천광역시연수구송도동">인천광역시연수구 송도동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=송도동 송도국제도시 M2블록 호반써밋">송도국제도시 M2블록 호반써밋</a></td>
   </tr>
 
   <tr>
     <td>49위</td>
-    <td>345</td>
+    <td>346</td>
     <td><a href="/apt/경상남도김해시신문동">경상남도김해시 신문동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=신문동 김해율하 더스카이시티 제니스앤프라우">김해율하 더스카이시티 제니스앤프라우</a></td>
   </tr>
