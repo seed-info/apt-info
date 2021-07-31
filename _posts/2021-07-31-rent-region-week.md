@@ -41,20 +41,20 @@ permalink: /analysis/지난일주일전월세거래량상위50지역
 
   <tr>
     <td>5위</td>
+    <td>836</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시강남구">서울특별시강남구 </a></td>
+  </tr>
+
+  <tr>
+    <td>6위</td>
     <td>828</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시노원구">서울특별시노원구 </a></td>
   </tr>
 
   <tr>
-    <td>6위</td>
+    <td>7위</td>
     <td>823</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시강동구">서울특별시강동구 </a></td>
-  </tr>
-
-  <tr>
-    <td>7위</td>
-    <td>813</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시강남구">서울특별시강남구 </a></td>
   </tr>
 
   <tr>
@@ -107,20 +107,20 @@ permalink: /analysis/지난일주일전월세거래량상위50지역
 
   <tr>
     <td>16위</td>
+    <td>582</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시서초구">서울특별시서초구 </a></td>
+  </tr>
+
+  <tr>
+    <td>17위</td>
     <td>568</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도파주시">경기도파주시 </a></td>
   </tr>
 
   <tr>
-    <td>17위</td>
+    <td>18위</td>
     <td>565</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시양천구">서울특별시양천구 </a></td>
-  </tr>
-
-  <tr>
-    <td>18위</td>
-    <td>552</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시서초구">서울특별시서초구 </a></td>
   </tr>
 
   <tr>

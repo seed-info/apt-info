@@ -565,7 +565,7 @@ permalink: /weekly/주간시세변화율랭킹
     <td>69</td>
     <td><a href="/apt/서울특별시서초구">서울특별시서초구</a></td>
     <td>284,763</td>
-    <td>289,630</td>
+    <td>289,634</td>
     <td>1.71%</td>
   </tr>
 
@@ -1756,9 +1756,9 @@ permalink: /weekly/주간시세변화율랭킹
   <tr class="item">
     <td>218</td>
     <td><a href="/apt/서울특별시강남구">서울특별시강남구</a></td>
-    <td>170,271</td>
-    <td>130,377</td>
-    <td>-23.43%</td>
+    <td>199,135</td>
+    <td>157,019</td>
+    <td>-21.15%</td>
   </tr>
 
   <tr class="item">

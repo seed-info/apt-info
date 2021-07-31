@@ -41,14 +41,14 @@ permalink: /analysis/오늘전월세거래량상위50지역
 
   <tr>
     <td>5위</td>
-    <td>700</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시노원구">서울특별시노원구 </a></td>
+    <td>703</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시강남구">서울특별시강남구 </a></td>
   </tr>
 
   <tr>
     <td>6위</td>
-    <td>680</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시강남구">서울특별시강남구 </a></td>
+    <td>700</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시노원구">서울특별시노원구 </a></td>
   </tr>
 
   <tr>
@@ -113,26 +113,26 @@ permalink: /analysis/오늘전월세거래량상위50지역
 
   <tr>
     <td>17위</td>
+    <td>471</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시서초구">서울특별시서초구 </a></td>
+  </tr>
+
+  <tr>
+    <td>18위</td>
     <td>457</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/강원도원주시">강원도원주시 </a></td>
   </tr>
 
   <tr>
-    <td>18위</td>
+    <td>19위</td>
     <td>452</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시양천구">서울특별시양천구 </a></td>
   </tr>
 
   <tr>
-    <td>19위</td>
+    <td>20위</td>
     <td>451</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/광주광역시광산구">광주광역시광산구 </a></td>
-  </tr>
-
-  <tr>
-    <td>20위</td>
-    <td>441</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시서초구">서울특별시서초구 </a></td>
   </tr>
 
   <tr>

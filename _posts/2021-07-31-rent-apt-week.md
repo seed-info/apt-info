@@ -26,8 +26,8 @@ permalink: /analysis/지난일주일전월세거래량상위50아파트
   <tr>
     <td>2위</td>
     <td>380</td>
-    <td><a href="/apt/강원도원주시문막읍 동화리">강원도원주시 문막읍 동화리</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=문막읍 동화리 부영">부영</a></td>
+    <td><a href="/apt/경기도하남시창우동">경기도하남시 창우동</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=창우동 부영">부영</a></td>
   </tr>
 
   <tr>
@@ -40,8 +40,8 @@ permalink: /analysis/지난일주일전월세거래량상위50아파트
   <tr>
     <td>4위</td>
     <td>158</td>
-    <td><a href="/apt/대전광역시대덕구읍내동">대전광역시대덕구 읍내동</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=읍내동 현대">현대</a></td>
+    <td><a href="/apt/서울특별시중구신당동">서울특별시중구 신당동</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=신당동 현대">현대</a></td>
   </tr>
 
   <tr>
@@ -68,8 +68,8 @@ permalink: /analysis/지난일주일전월세거래량상위50아파트
   <tr>
     <td>8위</td>
     <td>124</td>
-    <td><a href="/apt/강원도강릉시교동">강원도강릉시 교동</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=교동 부영2차">부영2차</a></td>
+    <td><a href="/apt/광주광역시광산구산월동">광주광역시광산구 산월동</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=산월동 부영2차">부영2차</a></td>
   </tr>
 
   <tr>
@@ -82,8 +82,8 @@ permalink: /analysis/지난일주일전월세거래량상위50아파트
   <tr>
     <td>10위</td>
     <td>122</td>
-    <td><a href="/apt/경상남도창원시성산구상남동">경상남도창원시성산구 상남동</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=상남동 성원">성원</a></td>
+    <td><a href="/apt/서울특별시동작구대방동">서울특별시동작구 대방동</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=대방동 성원">성원</a></td>
   </tr>
 
   <tr>
@@ -117,8 +117,8 @@ permalink: /analysis/지난일주일전월세거래량상위50아파트
   <tr>
     <td>15위</td>
     <td>107</td>
-    <td><a href="/apt/경기도광명시하안동">경기도광명시 하안동</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=하안동 주공3">주공3</a></td>
+    <td><a href="/apt/서울특별시강서구등촌동">서울특별시강서구 등촌동</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=등촌동 주공3">주공3</a></td>
   </tr>
 
   <tr>
@@ -131,8 +131,8 @@ permalink: /analysis/지난일주일전월세거래량상위50아파트
   <tr>
     <td>17위</td>
     <td>105</td>
-    <td><a href="/apt/경기도안산시상록구월피동">경기도안산시상록구 월피동</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=월피동 주공2">주공2</a></td>
+    <td><a href="/apt/경기도구리시인창동">경기도구리시 인창동</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=인창동 주공2">주공2</a></td>
   </tr>
 
   <tr>
@@ -180,8 +180,8 @@ permalink: /analysis/지난일주일전월세거래량상위50아파트
   <tr>
     <td>24위</td>
     <td>94</td>
-    <td><a href="/apt/전라남도화순군화순읍 만연리">전라남도화순군 화순읍 만연리</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=화순읍 만연리 부영3">부영3</a></td>
+    <td><a href="/apt/광주광역시광산구산월동">광주광역시광산구 산월동</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=산월동 부영3">부영3</a></td>
   </tr>
 
   <tr>
@@ -201,8 +201,8 @@ permalink: /analysis/지난일주일전월세거래량상위50아파트
   <tr>
     <td>27위</td>
     <td>91</td>
-    <td><a href="/apt/서울특별시강남구수서동">서울특별시강남구 수서동</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=수서동 신동아">신동아</a></td>
+    <td><a href="/apt/서울특별시용산구서빙고동">서울특별시용산구 서빙고동</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=서빙고동 신동아">신동아</a></td>
   </tr>
 
   <tr>
@@ -215,8 +215,8 @@ permalink: /analysis/지난일주일전월세거래량상위50아파트
   <tr>
     <td>29위</td>
     <td>89</td>
-    <td><a href="/apt/경기도광명시하안동">경기도광명시 하안동</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=하안동 주공1">주공1</a></td>
+    <td><a href="/apt/서울특별시구로구구로동">서울특별시구로구 구로동</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=구로동 주공1">주공1</a></td>
   </tr>
 
   <tr>
@@ -229,8 +229,8 @@ permalink: /analysis/지난일주일전월세거래량상위50아파트
   <tr>
     <td>31위</td>
     <td>88</td>
-    <td><a href="/apt/전라남도순천시연향동">전라남도순천시 연향동</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=연향동 부영1">부영1</a></td>
+    <td><a href="/apt/경상북도구미시구평동">경상북도구미시 구평동</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=구평동 부영1">부영1</a></td>
   </tr>
 
   <tr>
@@ -243,8 +243,8 @@ permalink: /analysis/지난일주일전월세거래량상위50아파트
   <tr>
     <td>33위</td>
     <td>87</td>
-    <td><a href="/apt/충청북도제천시청전동">충청북도제천시 청전동</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=청전동 주공">주공</a></td>
+    <td><a href="/apt/경기도수원시영통구원천동">경기도수원시영통구 원천동</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=원천동 주공">주공</a></td>
   </tr>
 
   <tr>
@@ -306,8 +306,8 @@ permalink: /analysis/지난일주일전월세거래량상위50아파트
   <tr>
     <td>42위</td>
     <td>76</td>
-    <td><a href="/apt/서울특별시마포구도화동">서울특별시마포구 도화동</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=도화동 삼성">삼성</a></td>
+    <td><a href="/apt/서울특별시성동구옥수동">서울특별시성동구 옥수동</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=옥수동 삼성">삼성</a></td>
   </tr>
 
   <tr>
@@ -341,8 +341,8 @@ permalink: /analysis/지난일주일전월세거래량상위50아파트
   <tr>
     <td>47위</td>
     <td>72</td>
-    <td><a href="/apt/서울특별시노원구중계동">서울특별시노원구 중계동</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=중계동 주공6">주공6</a></td>
+    <td><a href="/apt/강원도춘천시후평동">강원도춘천시 후평동</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=후평동 주공6">주공6</a></td>
   </tr>
 
   <tr>
@@ -355,8 +355,8 @@ permalink: /analysis/지난일주일전월세거래량상위50아파트
   <tr>
     <td>49위</td>
     <td>71</td>
-    <td><a href="/apt/대전광역시중구선화동">대전광역시중구 선화동</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=선화동 참좋은">참좋은</a></td>
+    <td><a href="/apt/대전광역시동구판암동">대전광역시동구 판암동</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=판암동 참좋은">참좋은</a></td>
   </tr>
 
   <tr>
