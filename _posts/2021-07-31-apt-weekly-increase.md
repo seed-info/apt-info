@@ -171,14 +171,6 @@ permalink: /weekly/주간시세변화율랭킹
 
   <tr class="item">
     <td>20</td>
-    <td><a href="/apt/경기도군포시">경기도군포시</a></td>
-    <td>59,587</td>
-    <td>65,013</td>
-    <td>9.11%</td>
-  </tr>
-
-  <tr class="item">
-    <td>21</td>
     <td><a href="/apt/충청남도홍성군">충청남도홍성군</a></td>
     <td>25,125</td>
     <td>27,625</td>
@@ -186,11 +178,19 @@ permalink: /weekly/주간시세변화율랭킹
   </tr>
 
   <tr class="item">
-    <td>22</td>
+    <td>21</td>
     <td><a href="/apt/전라남도순천시">전라남도순천시</a></td>
     <td>33,329</td>
     <td>36,610</td>
     <td>9.84%</td>
+  </tr>
+
+  <tr class="item">
+    <td>22</td>
+    <td><a href="/apt/경기도군포시">경기도군포시</a></td>
+    <td>59,587</td>
+    <td>64,620</td>
+    <td>8.45%</td>
   </tr>
 
   <tr class="item">
@@ -357,8 +357,8 @@ permalink: /weekly/주간시세변화율랭킹
     <td>43</td>
     <td><a href="/apt/충청북도청주시서원구">충청북도청주시서원구</a></td>
     <td>28,433</td>
-    <td>29,802</td>
-    <td>4.81%</td>
+    <td>29,760</td>
+    <td>4.67%</td>
   </tr>
 
   <tr class="item">
@@ -980,9 +980,9 @@ permalink: /weekly/주간시세변화율랭킹
   <tr class="item">
     <td>121</td>
     <td><a href="/apt/충청남도당진시">충청남도당진시</a></td>
-    <td>29,261</td>
-    <td>29,157</td>
-    <td>-0.36%</td>
+    <td>29,258</td>
+    <td>29,158</td>
+    <td>-0.34%</td>
   </tr>
 
   <tr class="item">

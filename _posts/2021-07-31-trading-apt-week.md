@@ -25,9 +25,9 @@ permalink: /analysis/지난일주일매매거래량상위50아파트
 
   <tr>
     <td>2위</td>
-    <td>49</td>
-    <td><a href="/apt/서울특별시중랑구신내동">서울특별시중랑구 신내동</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=신내동 성원">성원</a></td>
+    <td>50</td>
+    <td><a href="/apt/경상남도창원시성산구상남동">경상남도창원시성산구 상남동</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=상남동 성원">성원</a></td>
   </tr>
 
   <tr>
@@ -39,9 +39,9 @@ permalink: /analysis/지난일주일매매거래량상위50아파트
 
   <tr>
     <td>4위</td>
-    <td>37</td>
-    <td><a href="/apt/대전광역시대덕구신대동">대전광역시대덕구 신대동</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=신대동 주공">주공</a></td>
+    <td>38</td>
+    <td><a href="/apt/충청북도제천시청전동">충청북도제천시 청전동</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=청전동 주공">주공</a></td>
   </tr>
 
   <tr>
@@ -341,29 +341,29 @@ permalink: /analysis/지난일주일매매거래량상위50아파트
   <tr>
     <td>47위</td>
     <td>15</td>
+    <td><a href="/apt/경상북도구미시구평동">경상북도구미시 구평동</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=구평동 부영1">부영1</a></td>
+  </tr>
+
+  <tr>
+    <td>48위</td>
+    <td>15</td>
     <td><a href="/apt/경기도안산시단원구원곡동">경기도안산시단원구 원곡동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=원곡동 벽산블루밍">벽산블루밍</a></td>
   </tr>
 
   <tr>
-    <td>48위</td>
+    <td>49위</td>
     <td>15</td>
     <td><a href="/apt/인천광역시연수구송도동">인천광역시연수구 송도동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=송도동 e편한세상 송도">e편한세상 송도</a></td>
   </tr>
 
   <tr>
-    <td>49위</td>
+    <td>50위</td>
     <td>14</td>
     <td><a href="/apt/인천광역시부평구산곡동">인천광역시부평구 산곡동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=산곡동 현대1차">현대1차</a></td>
-  </tr>
-
-  <tr>
-    <td>50위</td>
-    <td>14</td>
-    <td><a href="/apt/부산광역시북구덕천동">부산광역시북구 덕천동</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=덕천동 한성">한성</a></td>
   </tr>
 
 </table>

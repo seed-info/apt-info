@@ -17,7 +17,7 @@ permalink: /analysis/지난일주일전매거래량상위50지역
 
   <tr>
     <td>1위</td>
-    <td>3940</td>
+    <td>3941</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도평택시">경기도평택시 </a></td>
   </tr>
 
@@ -77,7 +77,7 @@ permalink: /analysis/지난일주일전매거래량상위50지역
 
   <tr>
     <td>11위</td>
-    <td>2039</td>
+    <td>2040</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/경상북도포항시북구">경상북도포항시북구 </a></td>
   </tr>
 
@@ -180,13 +180,13 @@ permalink: /analysis/지난일주일전매거래량상위50지역
   <tr>
     <td>28위</td>
     <td>1385</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도시흥시">경기도시흥시 </a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/충청남도아산시">충청남도아산시 </a></td>
   </tr>
 
   <tr>
     <td>29위</td>
-    <td>1383</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/충청남도아산시">충청남도아산시 </a></td>
+    <td>1385</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도시흥시">경기도시흥시 </a></td>
   </tr>
 
   <tr>

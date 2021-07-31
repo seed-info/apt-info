@@ -25,7 +25,7 @@ permalink: /analysis/오늘전매거래량상위50아파트
 
   <tr>
     <td>2위</td>
-    <td>1061</td>
+    <td>1062</td>
     <td><a href="/apt/경기도평택시합정동">경기도평택시 합정동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=합정동 평택 뉴비전 엘크루">평택 뉴비전 엘크루</a></td>
   </tr>
@@ -186,7 +186,7 @@ permalink: /analysis/오늘전매거래량상위50아파트
 
   <tr>
     <td>25위</td>
-    <td>441</td>
+    <td>442</td>
     <td><a href="/apt/경상북도포항시북구흥해읍 이인리">경상북도포항시북구 흥해읍 이인리</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=흥해읍 이인리 KTX포항역 삼구 트리니엔">KTX포항역 삼구 트리니엔</a></td>
   </tr>

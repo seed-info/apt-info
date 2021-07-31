@@ -366,7 +366,7 @@ permalink: /analysis/지역별매매평단가랭킹
   <tr>
     <td>59위</td>
     <td><a href="/apt/경기도광주시{dong}">경기도광주시</a></td>
-    <td>520</td>
+    <td>519</td>
   </tr>
 
   <tr>
@@ -864,7 +864,7 @@ permalink: /analysis/지역별매매평단가랭킹
   <tr>
     <td>142위</td>
     <td><a href="/apt/충청북도청주시서원구{dong}">충청북도청주시서원구</a></td>
-    <td>242</td>
+    <td>243</td>
   </tr>
 
   <tr>
@@ -990,7 +990,7 @@ permalink: /analysis/지역별매매평단가랭킹
   <tr>
     <td>163위</td>
     <td><a href="/apt/충청북도청주시상당구{dong}">충청북도청주시상당구</a></td>
-    <td>224</td>
+    <td>223</td>
   </tr>
 
   <tr>

@@ -23,19 +23,19 @@ permalink: /analysis/지난일주일매매거래량상위50지역
 
   <tr>
     <td>2위</td>
-    <td>330</td>
+    <td>331</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도화성시">경기도화성시 </a></td>
   </tr>
 
   <tr>
     <td>3위</td>
-    <td>250</td>
+    <td>251</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/충청남도천안시서북구">충청남도천안시서북구 </a></td>
   </tr>
 
   <tr>
     <td>4위</td>
-    <td>244</td>
+    <td>245</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/경상남도김해시">경상남도김해시 </a></td>
   </tr>
 
@@ -77,7 +77,7 @@ permalink: /analysis/지난일주일매매거래량상위50지역
 
   <tr>
     <td>11위</td>
-    <td>179</td>
+    <td>180</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/경상북도구미시">경상북도구미시 </a></td>
   </tr>
 
@@ -125,7 +125,7 @@ permalink: /analysis/지난일주일매매거래량상위50지역
 
   <tr>
     <td>19위</td>
-    <td>141</td>
+    <td>143</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/경상남도창원시성산구">경상남도창원시성산구 </a></td>
   </tr>
 
@@ -174,18 +174,18 @@ permalink: /analysis/지난일주일매매거래량상위50지역
   <tr>
     <td>27위</td>
     <td>131</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/인천광역시연수구">인천광역시연수구 </a></td>
-  </tr>
-
-  <tr>
-    <td>28위</td>
-    <td>130</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/전라북도익산시">전라북도익산시 </a></td>
   </tr>
 
   <tr>
+    <td>28위</td>
+    <td>131</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/인천광역시연수구">인천광역시연수구 </a></td>
+  </tr>
+
+  <tr>
     <td>29위</td>
-    <td>129</td>
+    <td>130</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도안성시">경기도안성시 </a></td>
   </tr>
 
@@ -198,19 +198,19 @@ permalink: /analysis/지난일주일매매거래량상위50지역
   <tr>
     <td>31위</td>
     <td>128</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도김포시">경기도김포시 </a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/충청북도충주시">충청북도충주시 </a></td>
   </tr>
 
   <tr>
     <td>32위</td>
     <td>128</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/부산광역시북구">부산광역시북구 </a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도김포시">경기도김포시 </a></td>
   </tr>
 
   <tr>
     <td>33위</td>
-    <td>127</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/충청북도충주시">충청북도충주시 </a></td>
+    <td>128</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/부산광역시북구">부산광역시북구 </a></td>
   </tr>
 
   <tr>
@@ -245,7 +245,7 @@ permalink: /analysis/지난일주일매매거래량상위50지역
 
   <tr>
     <td>39위</td>
-    <td>120</td>
+    <td>121</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도고양시덕양구">경기도고양시덕양구 </a></td>
   </tr>
 
