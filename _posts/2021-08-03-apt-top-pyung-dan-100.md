@@ -706,18 +706,18 @@ permalink: /analysis/아파트매매평단가탑100랭킹
   </tr>
 
   <tr>
-    <td><a href="/apt/서울특별시서초구반포동">서울특별시서초구 반포동</a></td>
-    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=반포동 반포자이">반포자이</a></td>
-    <td>84.982</td>
-    <td>304,000</td>
-    <td>3577</td>
-  </tr>
-
-  <tr>
     <td><a href="/apt/서울특별시송파구잠실동">서울특별시송파구 잠실동</a></td>
     <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=잠실동 리센츠">리센츠</a></td>
     <td>27.68</td>
     <td>99,000</td>
+    <td>3577</td>
+  </tr>
+
+  <tr>
+    <td><a href="/apt/서울특별시서초구반포동">서울특별시서초구 반포동</a></td>
+    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=반포동 반포자이">반포자이</a></td>
+    <td>84.982</td>
+    <td>304,000</td>
     <td>3577</td>
   </tr>
 
