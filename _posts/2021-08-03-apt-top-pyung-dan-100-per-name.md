@@ -178,15 +178,15 @@ permalink: /analysis/아파트별매매평단가탑100랭킹
   </tr>
 
   <tr>
-    <td><a href="/apt/서울특별시서초구잠원동">서울특별시서초구 잠원동</a></td>
-    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=잠원동 래미안신반포팰리스">래미안신반포팰리스</a></td>
-    <td>3384</td>
+    <td><a href="/apt/서울특별시강남구개포동">서울특별시강남구 개포동</a></td>
+    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=개포동 성원대치2단지아파트">성원대치2단지아파트</a></td>
+    <td>3387</td>
   </tr>
 
   <tr>
-    <td><a href="/apt/서울특별시강남구개포동">서울특별시강남구 개포동</a></td>
-    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=개포동 성원대치2단지아파트">성원대치2단지아파트</a></td>
-    <td>3375</td>
+    <td><a href="/apt/서울특별시서초구잠원동">서울특별시서초구 잠원동</a></td>
+    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=잠원동 래미안신반포팰리스">래미안신반포팰리스</a></td>
+    <td>3384</td>
   </tr>
 
   <tr>
@@ -550,12 +550,6 @@ permalink: /analysis/아파트별매매평단가탑100랭킹
   </tr>
 
   <tr>
-    <td><a href="/apt/서울특별시강남구대치동">서울특별시강남구 대치동</a></td>
-    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=대치동 은마">은마</a></td>
-    <td>2632</td>
-  </tr>
-
-  <tr>
     <td><a href="/apt/서울특별시양천구목동">서울특별시양천구 목동</a></td>
     <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=목동 목동신시가지6">목동신시가지6</a></td>
     <td>2597</td>
@@ -598,15 +592,21 @@ permalink: /analysis/아파트별매매평단가탑100랭킹
   </tr>
 
   <tr>
-    <td><a href="/apt/서울특별시양천구신정동">서울특별시양천구 신정동</a></td>
-    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=신정동 까치마을">까치마을</a></td>
-    <td>2577</td>
-  </tr>
-
-  <tr>
     <td><a href="/apt/서울특별시송파구방이동">서울특별시송파구 방이동</a></td>
     <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=방이동 올림픽선수기자촌3단지">올림픽선수기자촌3단지</a></td>
     <td>2568</td>
+  </tr>
+
+  <tr>
+    <td><a href="/apt/서울특별시양천구신정동">서울특별시양천구 신정동</a></td>
+    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=신정동 까치마을">까치마을</a></td>
+    <td>2557</td>
+  </tr>
+
+  <tr>
+    <td><a href="/apt/서울특별시강남구대치동">서울특별시강남구 대치동</a></td>
+    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=대치동 은마">은마</a></td>
+    <td>2553</td>
   </tr>
 
   <tr>
