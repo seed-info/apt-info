@@ -25,7 +25,7 @@ permalink: /analysis/오늘전매거래량상위50아파트
 
   <tr>
     <td>2위</td>
-    <td>1061</td>
+    <td>1063</td>
     <td><a href="/apt/경기도평택시합정동">경기도평택시 합정동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=합정동 평택 뉴비전 엘크루">평택 뉴비전 엘크루</a></td>
   </tr>
@@ -39,16 +39,16 @@ permalink: /analysis/오늘전매거래량상위50아파트
 
   <tr>
     <td>4위</td>
-    <td>713</td>
-    <td><a href="/apt/충청북도청주시상당구탑동">충청북도청주시상당구 탑동</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=탑동 탑동 힐데스하임">탑동 힐데스하임</a></td>
+    <td>724</td>
+    <td><a href="/apt/경상북도포항시북구흥해읍 이인리">경상북도포항시북구 흥해읍 이인리</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=흥해읍 이인리 한화 포레나 포항">한화 포레나 포항</a></td>
   </tr>
 
   <tr>
     <td>5위</td>
-    <td>668</td>
-    <td><a href="/apt/경상북도포항시북구흥해읍 이인리">경상북도포항시북구 흥해읍 이인리</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=흥해읍 이인리 한화 포레나 포항">한화 포레나 포항</a></td>
+    <td>714</td>
+    <td><a href="/apt/충청북도청주시상당구탑동">충청북도청주시상당구 탑동</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=탑동 탑동 힐데스하임">탑동 힐데스하임</a></td>
   </tr>
 
   <tr>
@@ -123,7 +123,7 @@ permalink: /analysis/오늘전매거래량상위50아파트
 
   <tr>
     <td>16위</td>
-    <td>481</td>
+    <td>482</td>
     <td><a href="/apt/대전광역시대덕구신탄진동">대전광역시대덕구 신탄진동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=신탄진동 대전 동일스위트리버스카이">대전 동일스위트리버스카이</a></td>
   </tr>
@@ -166,29 +166,29 @@ permalink: /analysis/오늘전매거래량상위50아파트
   <tr>
     <td>22위</td>
     <td>446</td>
-    <td><a href="/apt/경기도안산시상록구사동">경기도안산시상록구 사동</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=사동 그랑시티자이2차">그랑시티자이2차</a></td>
-  </tr>
-
-  <tr>
-    <td>23위</td>
-    <td>445</td>
     <td><a href="/apt/광주광역시북구우산동">광주광역시북구 우산동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=우산동 무등산자이앤어울림 1단지">무등산자이앤어울림 1단지</a></td>
   </tr>
 
   <tr>
+    <td>23위</td>
+    <td>446</td>
+    <td><a href="/apt/경기도안산시상록구사동">경기도안산시상록구 사동</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=사동 그랑시티자이2차">그랑시티자이2차</a></td>
+  </tr>
+
+  <tr>
     <td>24위</td>
-    <td>442</td>
-    <td><a href="/apt/충청남도천안시서북구두정동">충청남도천안시서북구 두정동</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=두정동 두정역 효성해링턴 플레이스">두정역 효성해링턴 플레이스</a></td>
+    <td>445</td>
+    <td><a href="/apt/경상북도포항시북구흥해읍 이인리">경상북도포항시북구 흥해읍 이인리</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=흥해읍 이인리 KTX포항역 삼구 트리니엔">KTX포항역 삼구 트리니엔</a></td>
   </tr>
 
   <tr>
     <td>25위</td>
-    <td>440</td>
-    <td><a href="/apt/경상북도포항시북구흥해읍 이인리">경상북도포항시북구 흥해읍 이인리</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=흥해읍 이인리 KTX포항역 삼구 트리니엔">KTX포항역 삼구 트리니엔</a></td>
+    <td>442</td>
+    <td><a href="/apt/충청남도천안시서북구두정동">충청남도천안시서북구 두정동</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=두정동 두정역 효성해링턴 플레이스">두정역 효성해링턴 플레이스</a></td>
   </tr>
 
   <tr>
@@ -228,16 +228,16 @@ permalink: /analysis/오늘전매거래량상위50아파트
 
   <tr>
     <td>31위</td>
-    <td>411</td>
-    <td><a href="/apt/충청북도청주시서원구모충동">충청북도청주시서원구 모충동</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=모충동 청주모충 LH트릴로채 공공분양">청주모충 LH트릴로채 공공분양</a></td>
+    <td>412</td>
+    <td><a href="/apt/충청남도천안시서북구와촌동">충청남도천안시서북구 와촌동</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=와촌동 천안역사 동아 라이크 텐">천안역사 동아 라이크 텐</a></td>
   </tr>
 
   <tr>
     <td>32위</td>
     <td>411</td>
-    <td><a href="/apt/충청남도천안시서북구와촌동">충청남도천안시서북구 와촌동</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=와촌동 천안역사 동아 라이크 텐">천안역사 동아 라이크 텐</a></td>
+    <td><a href="/apt/충청북도청주시서원구모충동">충청북도청주시서원구 모충동</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=모충동 청주모충 LH트릴로채 공공분양">청주모충 LH트릴로채 공공분양</a></td>
   </tr>
 
   <tr>
@@ -249,7 +249,7 @@ permalink: /analysis/오늘전매거래량상위50아파트
 
   <tr>
     <td>34위</td>
-    <td>405</td>
+    <td>407</td>
     <td><a href="/apt/강원도속초시동명동">강원도속초시 동명동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=동명동 속초디오션자이">속초디오션자이</a></td>
   </tr>
@@ -263,30 +263,30 @@ permalink: /analysis/오늘전매거래량상위50아파트
 
   <tr>
     <td>36위</td>
-    <td>396</td>
+    <td>398</td>
     <td><a href="/apt/경상북도경주시용강동">경상북도경주시 용강동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=용강동 경주 뉴센트로 에일린의 뜰">경주 뉴센트로 에일린의 뜰</a></td>
   </tr>
 
   <tr>
     <td>37위</td>
+    <td>392</td>
+    <td><a href="/apt/경상남도김해시안동">경상남도김해시 안동</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=안동 김해 푸르지오 하이엔드 2차">김해 푸르지오 하이엔드 2차</a></td>
+  </tr>
+
+  <tr>
+    <td>38위</td>
     <td>388</td>
     <td><a href="/apt/인천광역시미추홀구주안동">인천광역시미추홀구 주안동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=주안동 힐스테이트푸르지오 주안">힐스테이트푸르지오 주안</a></td>
   </tr>
 
   <tr>
-    <td>38위</td>
-    <td>383</td>
+    <td>39위</td>
+    <td>384</td>
     <td><a href="/apt/전라북도군산시나운동">전라북도군산시 나운동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=나운동 나운 금호어울림 센트럴">나운 금호어울림 센트럴</a></td>
-  </tr>
-
-  <tr>
-    <td>39위</td>
-    <td>383</td>
-    <td><a href="/apt/경상남도김해시안동">경상남도김해시 안동</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=안동 김해 푸르지오 하이엔드 2차">김해 푸르지오 하이엔드 2차</a></td>
   </tr>
 
   <tr>
@@ -298,23 +298,23 @@ permalink: /analysis/오늘전매거래량상위50아파트
 
   <tr>
     <td>41위</td>
-    <td>370</td>
+    <td>376</td>
+    <td><a href="/apt/충청남도천안시동남구풍세면 보성리">충청남도천안시동남구 풍세면 보성리</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=풍세면 보성리 천안 한양수자인 에코시티">천안 한양수자인 에코시티</a></td>
+  </tr>
+
+  <tr>
+    <td>42위</td>
+    <td>375</td>
     <td><a href="/apt/전라남도광양시성황동">전라남도광양시 성황동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=성황동 광양 푸르지오 더 퍼스트">광양 푸르지오 더 퍼스트</a></td>
   </tr>
 
   <tr>
-    <td>42위</td>
+    <td>43위</td>
     <td>366</td>
     <td><a href="/apt/광주광역시동구계림동">광주광역시동구 계림동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=계림동 광주 그랜드센트럴">광주 그랜드센트럴</a></td>
-  </tr>
-
-  <tr>
-    <td>43위</td>
-    <td>362</td>
-    <td><a href="/apt/충청남도천안시동남구풍세면 보성리">충청남도천안시동남구 풍세면 보성리</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=풍세면 보성리 천안 한양수자인 에코시티">천안 한양수자인 에코시티</a></td>
   </tr>
 
   <tr>
@@ -347,16 +347,16 @@ permalink: /analysis/오늘전매거래량상위50아파트
 
   <tr>
     <td>48위</td>
-    <td>347</td>
-    <td><a href="/apt/인천광역시연수구송도동">인천광역시연수구 송도동</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=송도동 송도국제도시 M2블록 호반써밋">송도국제도시 M2블록 호반써밋</a></td>
+    <td>349</td>
+    <td><a href="/apt/경상남도김해시신문동">경상남도김해시 신문동</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=신문동 김해율하 더스카이시티 제니스앤프라우">김해율하 더스카이시티 제니스앤프라우</a></td>
   </tr>
 
   <tr>
     <td>49위</td>
-    <td>346</td>
-    <td><a href="/apt/경상남도김해시신문동">경상남도김해시 신문동</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=신문동 김해율하 더스카이시티 제니스앤프라우">김해율하 더스카이시티 제니스앤프라우</a></td>
+    <td>348</td>
+    <td><a href="/apt/인천광역시연수구송도동">인천광역시연수구 송도동</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=송도동 송도국제도시 M2블록 호반써밋">송도국제도시 M2블록 호반써밋</a></td>
   </tr>
 
   <tr>
