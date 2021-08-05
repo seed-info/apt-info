@@ -65,14 +65,14 @@ permalink: /analysis/아파트별매매평단가탑100랭킹
 
   <tr>
     <td><a href="/apt/서울특별시서초구반포동">서울특별시서초구 반포동</a></td>
-    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=반포동 반포리체">반포리체</a></td>
-    <td>3805</td>
+    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=반포동 래미안퍼스티지">래미안퍼스티지</a></td>
+    <td>3830</td>
   </tr>
 
   <tr>
     <td><a href="/apt/서울특별시서초구반포동">서울특별시서초구 반포동</a></td>
-    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=반포동 래미안퍼스티지">래미안퍼스티지</a></td>
-    <td>3772</td>
+    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=반포동 반포리체">반포리체</a></td>
+    <td>3812</td>
   </tr>
 
   <tr>
@@ -448,15 +448,15 @@ permalink: /analysis/아파트별매매평단가탑100랭킹
   </tr>
 
   <tr>
-    <td><a href="/apt/서울특별시양천구목동">서울특별시양천구 목동</a></td>
-    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=목동 목동신시가지4">목동신시가지4</a></td>
+    <td><a href="/apt/서울특별시서초구잠원동">서울특별시서초구 잠원동</a></td>
+    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=잠원동 신반포4">신반포4</a></td>
     <td>2752</td>
   </tr>
 
   <tr>
-    <td><a href="/apt/서울특별시서초구잠원동">서울특별시서초구 잠원동</a></td>
-    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=잠원동 신반포4">신반포4</a></td>
-    <td>2734</td>
+    <td><a href="/apt/서울특별시양천구목동">서울특별시양천구 목동</a></td>
+    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=목동 목동신시가지4">목동신시가지4</a></td>
+    <td>2752</td>
   </tr>
 
   <tr>

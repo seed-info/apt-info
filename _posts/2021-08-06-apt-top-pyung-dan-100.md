@@ -147,6 +147,14 @@ permalink: /analysis/아파트매매평단가탑100랭킹
 
   <tr>
     <td><a href="/apt/서울특별시서초구반포동">서울특별시서초구 반포동</a></td>
+    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=반포동 래미안퍼스티지">래미안퍼스티지</a></td>
+    <td>84.93</td>
+    <td>360,000</td>
+    <td>4239</td>
+  </tr>
+
+  <tr>
+    <td><a href="/apt/서울특별시서초구반포동">서울특별시서초구 반포동</a></td>
     <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=반포동 아크로리버파크">아크로리버파크</a></td>
     <td>84.95</td>
     <td>360,000</td>
@@ -431,6 +439,14 @@ permalink: /analysis/아파트매매평단가탑100랭킹
     <td>59.98</td>
     <td>230,000</td>
     <td>3835</td>
+  </tr>
+
+  <tr>
+    <td><a href="/apt/서울특별시서초구반포동">서울특별시서초구 반포동</a></td>
+    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=반포동 반포리체">반포리체</a></td>
+    <td>59.993</td>
+    <td>230,000</td>
+    <td>3834</td>
   </tr>
 
   <tr>
@@ -799,22 +815,6 @@ permalink: /analysis/아파트매매평단가탑100랭킹
     <td>105.31</td>
     <td>370,000</td>
     <td>3513</td>
-  </tr>
-
-  <tr>
-    <td><a href="/apt/서울특별시강남구개포동">서울특별시강남구 개포동</a></td>
-    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=개포동 개포래미안포레스트">개포래미안포레스트</a></td>
-    <td>59.92</td>
-    <td>210,000</td>
-    <td>3505</td>
-  </tr>
-
-  <tr>
-    <td><a href="/apt/서울특별시강남구역삼동">서울특별시강남구 역삼동</a></td>
-    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=역삼동 e-편한세상">e-편한세상</a></td>
-    <td>59.606</td>
-    <td>207,500</td>
-    <td>3481</td>
   </tr>
 
 </table>

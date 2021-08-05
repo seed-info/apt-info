@@ -17,301 +17,301 @@ permalink: /analysis/지난일주일전월세거래량상위50지역
 
   <tr>
     <td>1위</td>
-    <td>1189</td>
+    <td>1218</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도화성시">경기도화성시 </a></td>
   </tr>
 
   <tr>
     <td>2위</td>
-    <td>998</td>
+    <td>1014</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도남양주시">경기도남양주시 </a></td>
   </tr>
 
   <tr>
     <td>3위</td>
-    <td>750</td>
+    <td>762</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도성남시분당구">경기도성남시분당구 </a></td>
   </tr>
 
   <tr>
     <td>4위</td>
-    <td>728</td>
+    <td>745</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/세종특별자치시">세종특별자치시 </a></td>
   </tr>
 
   <tr>
     <td>5위</td>
-    <td>717</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시강동구">서울특별시강동구 </a></td>
-  </tr>
-
-  <tr>
-    <td>6위</td>
-    <td>716</td>
+    <td>729</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도김포시">경기도김포시 </a></td>
   </tr>
 
   <tr>
-    <td>7위</td>
-    <td>707</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시노원구">서울특별시노원구 </a></td>
+    <td>6위</td>
+    <td>727</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시강동구">서울특별시강동구 </a></td>
   </tr>
 
   <tr>
-    <td>8위</td>
-    <td>699</td>
+    <td>7위</td>
+    <td>716</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시송파구">서울특별시송파구 </a></td>
   </tr>
 
   <tr>
+    <td>8위</td>
+    <td>716</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시노원구">서울특별시노원구 </a></td>
+  </tr>
+
+  <tr>
     <td>9위</td>
-    <td>652</td>
+    <td>663</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/충청남도천안시서북구">충청남도천안시서북구 </a></td>
   </tr>
 
   <tr>
     <td>10위</td>
-    <td>613</td>
+    <td>629</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시강남구">서울특별시강남구 </a></td>
   </tr>
 
   <tr>
     <td>11위</td>
-    <td>612</td>
+    <td>616</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도고양시덕양구">경기도고양시덕양구 </a></td>
   </tr>
 
   <tr>
     <td>12위</td>
-    <td>557</td>
+    <td>560</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시강서구">서울특별시강서구 </a></td>
   </tr>
 
   <tr>
     <td>13위</td>
-    <td>545</td>
+    <td>559</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도평택시">경기도평택시 </a></td>
   </tr>
 
   <tr>
     <td>14위</td>
-    <td>541</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도파주시">경기도파주시 </a></td>
-  </tr>
-
-  <tr>
-    <td>15위</td>
-    <td>538</td>
+    <td>548</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시서초구">서울특별시서초구 </a></td>
   </tr>
 
   <tr>
+    <td>15위</td>
+    <td>545</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도파주시">경기도파주시 </a></td>
+  </tr>
+
+  <tr>
     <td>16위</td>
-    <td>519</td>
+    <td>526</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도용인시수지구">경기도용인시수지구 </a></td>
   </tr>
 
   <tr>
     <td>17위</td>
-    <td>510</td>
+    <td>520</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/충청남도아산시">충청남도아산시 </a></td>
   </tr>
 
   <tr>
     <td>18위</td>
-    <td>495</td>
+    <td>505</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도수원시영통구">경기도수원시영통구 </a></td>
   </tr>
 
   <tr>
     <td>19위</td>
-    <td>493</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시금천구">서울특별시금천구 </a></td>
-  </tr>
-
-  <tr>
-    <td>20위</td>
-    <td>492</td>
+    <td>497</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도부천시">경기도부천시 </a></td>
   </tr>
 
   <tr>
-    <td>21위</td>
-    <td>484</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/경상남도김해시">경상남도김해시 </a></td>
+    <td>20위</td>
+    <td>496</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시금천구">서울특별시금천구 </a></td>
   </tr>
 
   <tr>
-    <td>22위</td>
-    <td>482</td>
+    <td>21위</td>
+    <td>492</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/인천광역시남동구">인천광역시남동구 </a></td>
   </tr>
 
   <tr>
+    <td>22위</td>
+    <td>488</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/경상남도김해시">경상남도김해시 </a></td>
+  </tr>
+
+  <tr>
     <td>23위</td>
-    <td>479</td>
+    <td>487</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도의정부시">경기도의정부시 </a></td>
   </tr>
 
   <tr>
     <td>24위</td>
-    <td>478</td>
+    <td>483</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도용인시기흥구">경기도용인시기흥구 </a></td>
   </tr>
 
   <tr>
     <td>25위</td>
-    <td>477</td>
+    <td>482</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도안양시동안구">경기도안양시동안구 </a></td>
   </tr>
 
   <tr>
     <td>26위</td>
-    <td>477</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/인천광역시서구">인천광역시서구 </a></td>
-  </tr>
-
-  <tr>
-    <td>27위</td>
-    <td>472</td>
+    <td>482</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/광주광역시광산구">광주광역시광산구 </a></td>
   </tr>
 
   <tr>
+    <td>27위</td>
+    <td>482</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/인천광역시서구">인천광역시서구 </a></td>
+  </tr>
+
+  <tr>
     <td>28위</td>
-    <td>470</td>
+    <td>476</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/인천광역시연수구">인천광역시연수구 </a></td>
   </tr>
 
   <tr>
     <td>29위</td>
-    <td>462</td>
+    <td>471</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/강원도원주시">강원도원주시 </a></td>
   </tr>
 
   <tr>
     <td>30위</td>
-    <td>455</td>
+    <td>460</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시양천구">서울특별시양천구 </a></td>
   </tr>
 
   <tr>
     <td>31위</td>
-    <td>444</td>
+    <td>448</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도고양시일산서구">경기도고양시일산서구 </a></td>
   </tr>
 
   <tr>
     <td>32위</td>
-    <td>435</td>
+    <td>442</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도하남시">경기도하남시 </a></td>
   </tr>
 
   <tr>
     <td>33위</td>
-    <td>429</td>
+    <td>436</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시마포구">서울특별시마포구 </a></td>
   </tr>
 
   <tr>
     <td>34위</td>
-    <td>415</td>
+    <td>420</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도시흥시">경기도시흥시 </a></td>
   </tr>
 
   <tr>
     <td>35위</td>
-    <td>410</td>
+    <td>420</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/부산광역시해운대구">부산광역시해운대구 </a></td>
   </tr>
 
   <tr>
     <td>36위</td>
-    <td>395</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/부산광역시강서구">부산광역시강서구 </a></td>
-  </tr>
-
-  <tr>
-    <td>37위</td>
-    <td>393</td>
+    <td>401</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/대전광역시유성구">대전광역시유성구 </a></td>
   </tr>
 
   <tr>
-    <td>38위</td>
-    <td>376</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/대전광역시서구">대전광역시서구 </a></td>
+    <td>37위</td>
+    <td>398</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/부산광역시강서구">부산광역시강서구 </a></td>
   </tr>
 
   <tr>
-    <td>39위</td>
-    <td>376</td>
+    <td>38위</td>
+    <td>386</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시성동구">서울특별시성동구 </a></td>
   </tr>
 
   <tr>
+    <td>39위</td>
+    <td>383</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시영등포구">서울특별시영등포구 </a></td>
+  </tr>
+
+  <tr>
     <td>40위</td>
-    <td>375</td>
+    <td>382</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/부산광역시부산진구">부산광역시부산진구 </a></td>
   </tr>
 
   <tr>
     <td>41위</td>
-    <td>375</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시영등포구">서울특별시영등포구 </a></td>
-  </tr>
-
-  <tr>
-    <td>42위</td>
-    <td>374</td>
+    <td>379</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도광명시">경기도광명시 </a></td>
   </tr>
 
   <tr>
+    <td>42위</td>
+    <td>379</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/대전광역시서구">대전광역시서구 </a></td>
+  </tr>
+
+  <tr>
     <td>43위</td>
-    <td>370</td>
+    <td>376</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도안산시단원구">경기도안산시단원구 </a></td>
   </tr>
 
   <tr>
     <td>44위</td>
-    <td>368</td>
+    <td>373</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/경상북도구미시">경상북도구미시 </a></td>
   </tr>
 
   <tr>
     <td>45위</td>
-    <td>363</td>
+    <td>369</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/광주광역시북구">광주광역시북구 </a></td>
   </tr>
 
   <tr>
     <td>46위</td>
-    <td>344</td>
+    <td>348</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시성북구">서울특별시성북구 </a></td>
   </tr>
 
   <tr>
     <td>47위</td>
-    <td>335</td>
+    <td>341</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/인천광역시부평구">인천광역시부평구 </a></td>
   </tr>
 
   <tr>
     <td>48위</td>
-    <td>331</td>
+    <td>336</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시동작구">서울특별시동작구 </a></td>
   </tr>
 
   <tr>
     <td>49위</td>
-    <td>326</td>
+    <td>331</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/전라남도여수시">전라남도여수시 </a></td>
   </tr>
 
   <tr>
     <td>50위</td>
-    <td>324</td>
+    <td>328</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/경상남도양산시">경상남도양산시 </a></td>
   </tr>
 
