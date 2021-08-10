@@ -677,8 +677,8 @@ permalink: /weekly/주간시세변화율랭킹
     <td>83</td>
     <td><a href="/apt/서울특별시강남구">서울특별시강남구</a></td>
     <td>229,293</td>
-    <td>229,607</td>
-    <td>0.14%</td>
+    <td>231,371</td>
+    <td>0.91%</td>
   </tr>
 
   <tr class="item">

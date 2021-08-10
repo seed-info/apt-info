@@ -23,7 +23,7 @@ permalink: /analysis/오늘전월세거래량상위50지역
 
   <tr>
     <td>2위</td>
-    <td>227</td>
+    <td>242</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시강남구">서울특별시강남구 </a></td>
   </tr>
 
@@ -71,32 +71,32 @@ permalink: /analysis/오늘전월세거래량상위50지역
 
   <tr>
     <td>10위</td>
+    <td>114</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시서초구">서울특별시서초구 </a></td>
+  </tr>
+
+  <tr>
+    <td>11위</td>
     <td>109</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시송파구">서울특별시송파구 </a></td>
   </tr>
 
   <tr>
-    <td>11위</td>
+    <td>12위</td>
     <td>105</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/울산광역시중구">울산광역시중구 </a></td>
   </tr>
 
   <tr>
-    <td>12위</td>
+    <td>13위</td>
     <td>94</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시은평구">서울특별시은평구 </a></td>
   </tr>
 
   <tr>
-    <td>13위</td>
+    <td>14위</td>
     <td>91</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시강서구">서울특별시강서구 </a></td>
-  </tr>
-
-  <tr>
-    <td>14위</td>
-    <td>87</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시서초구">서울특별시서초구 </a></td>
   </tr>
 
   <tr>

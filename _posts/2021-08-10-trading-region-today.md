@@ -77,26 +77,26 @@ permalink: /analysis/오늘매매거래량상위50지역
 
   <tr>
     <td>11위</td>
+    <td>69</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시강남구">서울특별시강남구 </a></td>
+  </tr>
+
+  <tr>
+    <td>12위</td>
     <td>68</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/충청남도천안시서북구">충청남도천안시서북구 </a></td>
   </tr>
 
   <tr>
-    <td>12위</td>
+    <td>13위</td>
     <td>67</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/인천광역시서구">인천광역시서구 </a></td>
   </tr>
 
   <tr>
-    <td>13위</td>
-    <td>66</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/경상남도창원시마산합포구">경상남도창원시마산합포구 </a></td>
-  </tr>
-
-  <tr>
     <td>14위</td>
     <td>66</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시강남구">서울특별시강남구 </a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/경상남도창원시마산합포구">경상남도창원시마산합포구 </a></td>
   </tr>
 
   <tr>

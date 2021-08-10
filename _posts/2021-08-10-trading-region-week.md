@@ -245,7 +245,7 @@ permalink: /analysis/지난일주일매매거래량상위50지역
 
   <tr>
     <td>39위</td>
-    <td>127</td>
+    <td>130</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시강남구">서울특별시강남구 </a></td>
   </tr>
 

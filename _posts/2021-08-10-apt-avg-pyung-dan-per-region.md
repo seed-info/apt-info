@@ -18,7 +18,7 @@ permalink: /analysis/지역별매매평단가랭킹
   <tr>
     <td>1위</td>
     <td><a href="/apt/서울특별시서초구{dong}">서울특별시서초구</a></td>
-    <td>2293</td>
+    <td>2290</td>
   </tr>
 
   <tr>
