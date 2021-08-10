@@ -274,6 +274,14 @@ permalink: /analysis/아파트매매평단가탑100랭킹
   </tr>
 
   <tr>
+    <td><a href="/apt/서울특별시강남구압구정동">서울특별시강남구 압구정동</a></td>
+    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=압구정동 한양1차(영동한양)">한양1차(영동한양)</a></td>
+    <td>63.87</td>
+    <td>261,000</td>
+    <td>4086</td>
+  </tr>
+
+  <tr>
     <td><a href="/apt/서울특별시서초구반포동">서울특별시서초구 반포동</a></td>
     <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=반포동 아크로리버파크">아크로리버파크</a></td>
     <td>84.97</td>
@@ -330,6 +338,14 @@ permalink: /analysis/아파트매매평단가탑100랭킹
   </tr>
 
   <tr>
+    <td><a href="/apt/서울특별시강남구삼성동">서울특별시강남구 삼성동</a></td>
+    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=삼성동 삼성동힐스테이트 1단지">삼성동힐스테이트 1단지</a></td>
+    <td>31.402</td>
+    <td>127,000</td>
+    <td>4044</td>
+  </tr>
+
+  <tr>
     <td><a href="/apt/서울특별시서초구반포동">서울특별시서초구 반포동</a></td>
     <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=반포동 에이아이디차관주택">에이아이디차관주택</a></td>
     <td>72.51</td>
@@ -359,6 +375,14 @@ permalink: /analysis/아파트매매평단가탑100랭킹
     <td>27.68</td>
     <td>110,000</td>
     <td>3974</td>
+  </tr>
+
+  <tr>
+    <td><a href="/apt/서울특별시강남구삼성동">서울특별시강남구 삼성동</a></td>
+    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=삼성동 삼성동힐스테이트 1단지">삼성동힐스테이트 1단지</a></td>
+    <td>31.402</td>
+    <td>124,500</td>
+    <td>3965</td>
   </tr>
 
   <tr>
@@ -399,6 +423,14 @@ permalink: /analysis/아파트매매평단가탑100랭킹
     <td>59.993</td>
     <td>235,000</td>
     <td>3917</td>
+  </tr>
+
+  <tr>
+    <td><a href="/apt/서울특별시강남구대치동">서울특별시강남구 대치동</a></td>
+    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=대치동 래미안대치팰리스">래미안대치팰리스</a></td>
+    <td>94.5</td>
+    <td>369,000</td>
+    <td>3905</td>
   </tr>
 
   <tr>
@@ -666,6 +698,14 @@ permalink: /analysis/아파트매매평단가탑100랭킹
   </tr>
 
   <tr>
+    <td><a href="/apt/서울특별시강남구청담동">서울특별시강남구 청담동</a></td>
+    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=청담동 PH129">PH129</a></td>
+    <td>273.96</td>
+    <td>1,000,000</td>
+    <td>3650</td>
+  </tr>
+
+  <tr>
     <td><a href="/apt/서울특별시송파구잠실동">서울특별시송파구 잠실동</a></td>
     <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=잠실동 리센츠">리센츠</a></td>
     <td>27.68</td>
@@ -679,6 +719,14 @@ permalink: /analysis/아파트매매평단가탑100랭킹
     <td>59.9818</td>
     <td>218,000</td>
     <td>3634</td>
+  </tr>
+
+  <tr>
+    <td><a href="/apt/서울특별시강남구개포동">서울특별시강남구 개포동</a></td>
+    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=개포동 성원대치2단지아파트">성원대치2단지아파트</a></td>
+    <td>33.18</td>
+    <td>120,000</td>
+    <td>3617</td>
   </tr>
 
   <tr>
@@ -767,54 +815,6 @@ permalink: /analysis/아파트매매평단가탑100랭킹
     <td>27.68</td>
     <td>99,000</td>
     <td>3577</td>
-  </tr>
-
-  <tr>
-    <td><a href="/apt/서울특별시강남구개포동">서울특별시강남구 개포동</a></td>
-    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=개포동 개포주공 7단지">개포주공 7단지</a></td>
-    <td>73.26</td>
-    <td>260,000</td>
-    <td>3549</td>
-  </tr>
-
-  <tr>
-    <td><a href="/apt/서울특별시서초구반포동">서울특별시서초구 반포동</a></td>
-    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=반포동 반포자이">반포자이</a></td>
-    <td>84.943</td>
-    <td>300,000</td>
-    <td>3532</td>
-  </tr>
-
-  <tr>
-    <td><a href="/apt/서울특별시서초구반포동">서울특별시서초구 반포동</a></td>
-    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=반포동 반포자이">반포자이</a></td>
-    <td>84.982</td>
-    <td>300,000</td>
-    <td>3530</td>
-  </tr>
-
-  <tr>
-    <td><a href="/apt/서울특별시용산구한남동">서울특별시용산구 한남동</a></td>
-    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=한남동 나인원 한남">나인원 한남</a></td>
-    <td>206.8953</td>
-    <td>728,000</td>
-    <td>3519</td>
-  </tr>
-
-  <tr>
-    <td><a href="/apt/서울특별시서초구반포동">서울특별시서초구 반포동</a></td>
-    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=반포동 에이아이디차관주택">에이아이디차관주택</a></td>
-    <td>72.51</td>
-    <td>255,000</td>
-    <td>3517</td>
-  </tr>
-
-  <tr>
-    <td><a href="/apt/서울특별시강남구개포동">서울특별시강남구 개포동</a></td>
-    <td style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=개포동 성원대치2단지아파트">성원대치2단지아파트</a></td>
-    <td>39.53</td>
-    <td>139,000</td>
-    <td>3516</td>
   </tr>
 
 </table>

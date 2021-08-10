@@ -214,23 +214,23 @@ permalink: /analysis/오늘전매거래량상위50아파트
 
   <tr>
     <td>29위</td>
+    <td>418</td>
+    <td><a href="/apt/인천광역시서구백석동">인천광역시서구 백석동</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=백석동 검암역 로열파크씨티 푸르지오 2단지">검암역 로열파크씨티 푸르지오 2단지</a></td>
+  </tr>
+
+  <tr>
+    <td>30위</td>
     <td>416</td>
     <td><a href="/apt/경기도김포시걸포동">경기도김포시 걸포동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=걸포동 한강메트로자이2단지">한강메트로자이2단지</a></td>
   </tr>
 
   <tr>
-    <td>30위</td>
+    <td>31위</td>
     <td>415</td>
     <td><a href="/apt/충청북도청주시서원구모충동">충청북도청주시서원구 모충동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=모충동 청주모충 LH트릴로채 공공분양">청주모충 LH트릴로채 공공분양</a></td>
-  </tr>
-
-  <tr>
-    <td>31위</td>
-    <td>415</td>
-    <td><a href="/apt/인천광역시서구백석동">인천광역시서구 백석동</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=백석동 검암역 로열파크씨티 푸르지오 2단지">검암역 로열파크씨티 푸르지오 2단지</a></td>
   </tr>
 
   <tr>

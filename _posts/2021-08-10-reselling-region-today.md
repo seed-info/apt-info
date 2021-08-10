@@ -41,14 +41,14 @@ permalink: /analysis/오늘전매거래량상위50지역
 
   <tr>
     <td>5위</td>
-    <td>2690</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/강원도원주시">강원도원주시 </a></td>
+    <td>2713</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/인천광역시서구">인천광역시서구 </a></td>
   </tr>
 
   <tr>
     <td>6위</td>
-    <td>2683</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/인천광역시서구">인천광역시서구 </a></td>
+    <td>2690</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/강원도원주시">강원도원주시 </a></td>
   </tr>
 
   <tr>
