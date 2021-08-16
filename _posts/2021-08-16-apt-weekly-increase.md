@@ -417,6 +417,22 @@ permalink: /weekly/주간시세변화율랭킹
     <td>5.1%</td>
   </tr>
 
+  <tr>
+    <td colspan="5">
+      <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3485438051770037"
+          crossorigin="anonymous"></script>
+      <ins class="adsbygoogle"
+          style="display:block; text-align:center;"
+          data-ad-layout="in-article"
+          data-ad-format="fluid"
+          data-ad-client="ca-pub-3485438051770037"
+          data-ad-slot="2046582130"></ins>
+      <script>
+          (adsbygoogle = window.adsbygoogle || []).push({});
+      </script>
+    </td>
+  </tr>            
+            
   <tr class="item">
     <td>51</td>
     <td><a href="/apt/충청남도천안시서북구">충청남도천안시서북구</a></td>
@@ -817,6 +833,22 @@ permalink: /weekly/주간시세변화율랭킹
     <td>-0.67%</td>
   </tr>
 
+  <tr>
+    <td colspan="5">
+      <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3485438051770037"
+          crossorigin="anonymous"></script>
+      <ins class="adsbygoogle"
+          style="display:block; text-align:center;"
+          data-ad-layout="in-article"
+          data-ad-format="fluid"
+          data-ad-client="ca-pub-3485438051770037"
+          data-ad-slot="2046582130"></ins>
+      <script>
+          (adsbygoogle = window.adsbygoogle || []).push({});
+      </script>
+    </td>
+  </tr>            
+            
   <tr class="item">
     <td>101</td>
     <td><a href="/apt/부산광역시금정구">부산광역시금정구</a></td>
@@ -1217,6 +1249,22 @@ permalink: /weekly/주간시세변화율랭킹
     <td>-3.79%</td>
   </tr>
 
+  <tr>
+    <td colspan="5">
+      <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3485438051770037"
+          crossorigin="anonymous"></script>
+      <ins class="adsbygoogle"
+          style="display:block; text-align:center;"
+          data-ad-layout="in-article"
+          data-ad-format="fluid"
+          data-ad-client="ca-pub-3485438051770037"
+          data-ad-slot="2046582130"></ins>
+      <script>
+          (adsbygoogle = window.adsbygoogle || []).push({});
+      </script>
+    </td>
+  </tr>            
+            
   <tr class="item">
     <td>151</td>
     <td><a href="/apt/서울특별시동작구">서울특별시동작구</a></td>
