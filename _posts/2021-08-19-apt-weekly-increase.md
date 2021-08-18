@@ -6,7 +6,6 @@ categories: [주간분석]
 permalink: /weekly/주간시세변화율랭킹
 ---
 
-
 20210805 ~ 20210819 주 동안의 아파트 매매가 상승률 랭킹입니다.
 
 <table class="sortable">
