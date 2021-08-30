@@ -1,10 +1,10 @@
-author_name: "newish"
+author_name: "seed-info"
 url: seed-info.com
 
 plugins:
   # - jekyll-seo-tag
   - jekyll-feed
-  - jekyll-sitemap
+  # - jekyll-sitemap
   - jekyll-paginate-v2
   - jekyll-minifier
   - jekyll-assets
@@ -20,7 +20,7 @@ pagination:
   enabled: true
 
   # Set to 'true' to enable pagination debugging. This can be enabled in the site config or only for individual pagination pages
-  debug: true
+  debug: false
 
   # The default document collection to paginate if nothing is specified ('posts' is default)
   collection: "posts"
