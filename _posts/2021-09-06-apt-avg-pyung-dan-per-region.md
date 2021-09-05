@@ -42,7 +42,7 @@ permalink: /analysis/지역별매매평단가랭킹
   <tr>
     <td>5위</td>
     <td><a href="/apt/서울특별시용산구{dong}">서울특별시용산구</a></td>
-    <td>1916</td>
+    <td>1920</td>
   </tr>
 
   <tr>
@@ -90,7 +90,7 @@ permalink: /analysis/지역별매매평단가랭킹
   <tr>
     <td>13위</td>
     <td><a href="/apt/경기도성남시수정구{dong}">경기도성남시수정구</a></td>
-    <td>1354</td>
+    <td>1358</td>
   </tr>
 
   <tr>
@@ -330,7 +330,7 @@ permalink: /analysis/지역별매매평단가랭킹
   <tr>
     <td>53위</td>
     <td><a href="/apt/부산광역시해운대구{dong}">부산광역시해운대구</a></td>
-    <td>621</td>
+    <td>622</td>
   </tr>
 
   <tr>
@@ -402,7 +402,7 @@ permalink: /analysis/지역별매매평단가랭킹
   <tr>
     <td>65위</td>
     <td><a href="/apt/경기도안산시상록구{dong}">경기도안산시상록구</a></td>
-    <td>526</td>
+    <td>525</td>
   </tr>
 
   <tr>
@@ -437,14 +437,14 @@ permalink: /analysis/지역별매매평단가랭킹
 
   <tr>
     <td>71위</td>
-    <td><a href="/apt/인천광역시중구{dong}">인천광역시중구</a></td>
+    <td><a href="/apt/제주특별자치도제주시{dong}">제주특별자치도제주시</a></td>
     <td>468</td>
   </tr>
 
   <tr>
     <td>72위</td>
-    <td><a href="/apt/제주특별자치도제주시{dong}">제주특별자치도제주시</a></td>
-    <td>466</td>
+    <td><a href="/apt/인천광역시중구{dong}">인천광역시중구</a></td>
+    <td>468</td>
   </tr>
 
   <tr>
@@ -479,14 +479,14 @@ permalink: /analysis/지역별매매평단가랭킹
 
   <tr>
     <td>78위</td>
-    <td><a href="/apt/경기도파주시{dong}">경기도파주시</a></td>
+    <td><a href="/apt/부산광역시금정구{dong}">부산광역시금정구</a></td>
     <td>436</td>
   </tr>
 
   <tr>
     <td>79위</td>
-    <td><a href="/apt/부산광역시금정구{dong}">부산광역시금정구</a></td>
-    <td>435</td>
+    <td><a href="/apt/경기도파주시{dong}">경기도파주시</a></td>
+    <td>436</td>
   </tr>
 
   <tr>
@@ -510,7 +510,7 @@ permalink: /analysis/지역별매매평단가랭킹
   <tr>
     <td>83위</td>
     <td><a href="/apt/대구광역시서구{dong}">대구광역시서구</a></td>
-    <td>423</td>
+    <td>422</td>
   </tr>
 
   <tr>
@@ -833,13 +833,13 @@ permalink: /analysis/지역별매매평단가랭킹
 
   <tr>
     <td>137위</td>
-    <td><a href="/apt/경상북도경산시{dong}">경상북도경산시</a></td>
+    <td><a href="/apt/충청남도홍성군{dong}">충청남도홍성군</a></td>
     <td>255</td>
   </tr>
 
   <tr>
     <td>138위</td>
-    <td><a href="/apt/충청남도홍성군{dong}">충청남도홍성군</a></td>
+    <td><a href="/apt/경상북도경산시{dong}">경상북도경산시</a></td>
     <td>255</td>
   </tr>
 

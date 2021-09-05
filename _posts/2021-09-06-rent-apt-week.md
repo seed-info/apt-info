@@ -298,51 +298,51 @@ permalink: /analysis/지난일주일전월세거래량상위50아파트
 
   <tr>
     <td>41위</td>
+    <td>19</td>
+    <td><a href="/apt/경기도성남시수정구고등동">경기도성남시수정구 고등동</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=고등동 고등마을">고등마을</a></td>
+  </tr>
+
+  <tr>
+    <td>42위</td>
     <td>18</td>
     <td><a href="/apt/충청북도충주시호암동">충청북도충주시 호암동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=호암동 충주호암1단지">충주호암1단지</a></td>
   </tr>
 
   <tr>
-    <td>42위</td>
+    <td>43위</td>
     <td>18</td>
     <td><a href="/apt/경기도화성시장지동">경기도화성시 장지동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=장지동 엔에이치에프엘크루">엔에이치에프엘크루</a></td>
   </tr>
 
   <tr>
-    <td>43위</td>
+    <td>44위</td>
     <td>18</td>
     <td><a href="/apt/서울특별시성동구성수동1가">서울특별시성동구 성수동1가</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=성수동1가 쌍용">쌍용</a></td>
   </tr>
 
   <tr>
-    <td>44위</td>
+    <td>45위</td>
     <td>18</td>
     <td><a href="/apt/서울특별시서초구방배동">서울특별시서초구 방배동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=방배동 삼익">삼익</a></td>
   </tr>
 
   <tr>
-    <td>45위</td>
+    <td>46위</td>
     <td>18</td>
     <td><a href="/apt/서울특별시성동구금호동1가">서울특별시성동구 금호동1가</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=금호동1가 벽산">벽산</a></td>
   </tr>
 
   <tr>
-    <td>46위</td>
+    <td>47위</td>
     <td>18</td>
     <td><a href="/apt/서울특별시용산구이촌동">서울특별시용산구 이촌동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=이촌동 대림">대림</a></td>
-  </tr>
-
-  <tr>
-    <td>47위</td>
-    <td>18</td>
-    <td><a href="/apt/경기도성남시수정구고등동">경기도성남시수정구 고등동</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=고등동 고등마을">고등마을</a></td>
   </tr>
 
   <tr>

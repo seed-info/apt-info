@@ -18,14 +18,14 @@ permalink: /analysis/지난일주일매매거래량상위50아파트
 
   <tr>
     <td>1위</td>
-    <td>85</td>
+    <td>88</td>
     <td><a href="/apt/부산광역시해운대구좌동">부산광역시해운대구 좌동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=좌동 현대">현대</a></td>
   </tr>
 
   <tr>
     <td>2위</td>
-    <td>50</td>
+    <td>51</td>
     <td><a href="/apt/대구광역시북구태전동">대구광역시북구 태전동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=태전동 삼성">삼성</a></td>
   </tr>
@@ -46,7 +46,7 @@ permalink: /analysis/지난일주일매매거래량상위50아파트
 
   <tr>
     <td>5위</td>
-    <td>38</td>
+    <td>39</td>
     <td><a href="/apt/서울특별시강서구염창동">서울특별시강서구 염창동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="https://search.naver.com/search.naver?query=염창동 동아">동아</a></td>
   </tr>

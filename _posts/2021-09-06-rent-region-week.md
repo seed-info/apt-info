@@ -23,13 +23,13 @@ permalink: /analysis/지난일주일전월세거래량상위50지역
 
   <tr>
     <td>2위</td>
-    <td>397</td>
+    <td>398</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도화성시">경기도화성시 </a></td>
   </tr>
 
   <tr>
     <td>3위</td>
-    <td>294</td>
+    <td>295</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도평택시">경기도평택시 </a></td>
   </tr>
 
@@ -258,13 +258,13 @@ permalink: /analysis/지난일주일전월세거래량상위50지역
   <tr>
     <td>41위</td>
     <td>121</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/광주광역시북구">광주광역시북구 </a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도수원시권선구">경기도수원시권선구 </a></td>
   </tr>
 
   <tr>
     <td>42위</td>
-    <td>119</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도수원시권선구">경기도수원시권선구 </a></td>
+    <td>121</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/광주광역시북구">광주광역시북구 </a></td>
   </tr>
 
   <tr>

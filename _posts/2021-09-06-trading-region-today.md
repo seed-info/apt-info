@@ -15,4 +15,94 @@ permalink: /analysis/오늘매매거래량상위50지역
     <td>지역</td>
   </tr>
 
+  <tr>
+    <td>1위</td>
+    <td>12</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/전라남도목포시">전라남도목포시 </a></td>
+  </tr>
+
+  <tr>
+    <td>2위</td>
+    <td>8</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/경상남도양산시">경상남도양산시 </a></td>
+  </tr>
+
+  <tr>
+    <td>3위</td>
+    <td>6</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/경상남도창원시의창구">경상남도창원시의창구 </a></td>
+  </tr>
+
+  <tr>
+    <td>4위</td>
+    <td>6</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도안산시상록구">경기도안산시상록구 </a></td>
+  </tr>
+
+  <tr>
+    <td>5위</td>
+    <td>6</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/부산광역시금정구">부산광역시금정구 </a></td>
+  </tr>
+
+  <tr>
+    <td>6위</td>
+    <td>5</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/제주특별자치도제주시">제주특별자치도제주시 </a></td>
+  </tr>
+
+  <tr>
+    <td>7위</td>
+    <td>5</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/경상남도창원시마산회원구">경상남도창원시마산회원구 </a></td>
+  </tr>
+
+  <tr>
+    <td>8위</td>
+    <td>5</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/충청북도제천시">충청북도제천시 </a></td>
+  </tr>
+
+  <tr>
+    <td>9위</td>
+    <td>5</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/부산광역시해운대구">부산광역시해운대구 </a></td>
+  </tr>
+
+  <tr>
+    <td>10위</td>
+    <td>4</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/울산광역시동구">울산광역시동구 </a></td>
+  </tr>
+
+  <tr>
+    <td>11위</td>
+    <td>2</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/충청남도홍성군">충청남도홍성군 </a></td>
+  </tr>
+
+  <tr>
+    <td>12위</td>
+    <td>1</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도파주시">경기도파주시 </a></td>
+  </tr>
+
+  <tr>
+    <td>13위</td>
+    <td>1</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도성남시수정구">경기도성남시수정구 </a></td>
+  </tr>
+
+  <tr>
+    <td>14위</td>
+    <td>1</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/대구광역시서구">대구광역시서구 </a></td>
+  </tr>
+
+  <tr>
+    <td>15위</td>
+    <td>1</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시용산구">서울특별시용산구 </a></td>
+  </tr>
+
 </table>

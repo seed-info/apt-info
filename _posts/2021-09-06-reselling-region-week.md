@@ -96,25 +96,25 @@ permalink: /analysis/지난일주일전매거래량상위50지역
   <tr>
     <td>14위</td>
     <td>15</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/인천광역시미추홀구">인천광역시미추홀구 </a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/전라남도목포시">전라남도목포시 </a></td>
   </tr>
 
   <tr>
     <td>15위</td>
     <td>15</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/대구광역시달성군">대구광역시달성군 </a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/인천광역시미추홀구">인천광역시미추홀구 </a></td>
   </tr>
 
   <tr>
     <td>16위</td>
-    <td>14</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/경상북도경산시">경상북도경산시 </a></td>
+    <td>15</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/대구광역시달성군">대구광역시달성군 </a></td>
   </tr>
 
   <tr>
     <td>17위</td>
     <td>14</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/전라남도목포시">전라남도목포시 </a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/경상북도경산시">경상북도경산시 </a></td>
   </tr>
 
   <tr>
