@@ -1,6 +1,8 @@
 author_name: "seed-info"
 url: seed-info.com
 
+future: true
+
 plugins:
   # - jekyll-seo-tag
   - jekyll-feed
@@ -111,7 +113,7 @@ assets:
     integrity:
       { css, img, js }: false
   caching:
-    enabled: true
+    enabled: false
     path: ".jekyll-cache/assets"
     type: file
   # --
