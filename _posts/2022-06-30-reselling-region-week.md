@@ -71,26 +71,26 @@ permalink: /analysis/지난일주일전매거래량상위50지역
 
   <tr>
     <td>10위</td>
-    <td>9</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/부산광역시영도구">부산광역시영도구 </a></td>
-  </tr>
-
-  <tr>
-    <td>11위</td>
     <td>8</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/경상북도안동시">경상북도안동시 </a></td>
   </tr>
 
   <tr>
-    <td>12위</td>
+    <td>11위</td>
     <td>8</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/충청남도천안시동남구">충청남도천안시동남구 </a></td>
   </tr>
 
   <tr>
-    <td>13위</td>
+    <td>12위</td>
     <td>8</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/대구광역시달성군">대구광역시달성군 </a></td>
+  </tr>
+
+  <tr>
+    <td>13위</td>
+    <td>8</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/부산광역시영도구">부산광역시영도구 </a></td>
   </tr>
 
   <tr>
