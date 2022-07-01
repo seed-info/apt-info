@@ -33,8 +33,8 @@ permalink: /analysis/지난일주일전매거래량상위50아파트
   <tr>
     <td>3위</td>
     <td>22</td>
-    <td><a href="/apt/충청북도충주시주덕읍 화곡리">충청북도충주시 주덕읍 화곡리</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/충청북도충주시주덕읍 화곡리서충주푸르지오더퍼스트">서충주 푸르지오 더 퍼스트</a></td>
+    <td><a href="/apt/충청북도충주시주덕읍화곡리">충청북도충주시 주덕읍화곡리</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/충청북도충주시주덕읍화곡리서충주푸르지오더퍼스트">서충주 푸르지오 더 퍼스트</a></td>
   </tr>
 
   <tr>
@@ -75,22 +75,22 @@ permalink: /analysis/지난일주일전매거래량상위50아파트
   <tr>
     <td>9위</td>
     <td>6</td>
-    <td><a href="/apt/충청남도천안시동남구풍세면 보성리">충청남도천안시동남구 풍세면 보성리</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/충청남도천안시동남구풍세면 보성리천안한양수자인에코시티">천안 한양수자인 에코시티</a></td>
+    <td><a href="/apt/충청남도천안시동남구풍세면보성리">충청남도천안시동남구 풍세면보성리</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/충청남도천안시동남구풍세면보성리천안한양수자인에코시티">천안 한양수자인 에코시티</a></td>
   </tr>
 
   <tr>
     <td>10위</td>
     <td>6</td>
-    <td><a href="/apt/전라남도나주시금천면 석전리">전라남도나주시 금천면 석전리</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/전라남도나주시금천면 석전리빛가람코오롱하늘채">빛가람 코오롱하늘채</a></td>
+    <td><a href="/apt/전라남도나주시금천면석전리">전라남도나주시 금천면석전리</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/전라남도나주시금천면석전리빛가람코오롱하늘채">빛가람 코오롱하늘채</a></td>
   </tr>
 
   <tr>
     <td>11위</td>
     <td>5</td>
-    <td><a href="/apt/경상북도포항시북구흥해읍 이인리">경상북도포항시북구 흥해읍 이인리</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/경상북도포항시북구흥해읍 이인리한화포레나포항">한화 포레나 포항</a></td>
+    <td><a href="/apt/경상북도포항시북구흥해읍이인리">경상북도포항시북구 흥해읍이인리</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/경상북도포항시북구흥해읍이인리한화포레나포항">한화 포레나 포항</a></td>
   </tr>
 
   <tr>
@@ -103,15 +103,15 @@ permalink: /analysis/지난일주일전매거래량상위50아파트
   <tr>
     <td>13위</td>
     <td>5</td>
-    <td><a href="/apt/경기도파주시파주읍 연풍리">경기도파주시 파주읍 연풍리</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도파주시파주읍 연풍리파주연풍양우내안애에코하임">파주연풍 양우내안애 에코하임</a></td>
+    <td><a href="/apt/경기도파주시파주읍연풍리">경기도파주시 파주읍연풍리</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도파주시파주읍연풍리파주연풍양우내안애에코하임">파주연풍 양우내안애 에코하임</a></td>
   </tr>
 
   <tr>
     <td>14위</td>
     <td>5</td>
-    <td><a href="/apt/전라북도완주군삼례읍 수계리">전라북도완주군 삼례읍 수계리</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/전라북도완주군삼례읍 수계리완주삼봉A2신혼희망타운공공분양">완주삼봉A2 신혼희망타운 공공분양</a></td>
+    <td><a href="/apt/전라북도완주군삼례읍수계리">전라북도완주군 삼례읍수계리</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/전라북도완주군삼례읍수계리완주삼봉A2신혼희망타운공공분양">완주삼봉A2 신혼희망타운 공공분양</a></td>
   </tr>
 
   <tr>
@@ -138,22 +138,22 @@ permalink: /analysis/지난일주일전매거래량상위50아파트
   <tr>
     <td>18위</td>
     <td>5</td>
-    <td><a href="/apt/충청남도당진시송산면 유곡리">충청남도당진시 송산면 유곡리</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/충청남도당진시송산면 유곡리당진효성해링턴플레이스">당진 효성 해링턴플레이스</a></td>
+    <td><a href="/apt/충청남도당진시송산면유곡리">충청남도당진시 송산면유곡리</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/충청남도당진시송산면유곡리당진효성해링턴플레이스">당진 효성 해링턴플레이스</a></td>
   </tr>
 
   <tr>
     <td>19위</td>
     <td>4</td>
-    <td><a href="/apt/대구광역시달성군다사읍 매곡리">대구광역시달성군 다사읍 매곡리</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/대구광역시달성군다사읍 매곡리힐스테이트다사역">힐스테이트다사역</a></td>
+    <td><a href="/apt/대구광역시달성군다사읍매곡리">대구광역시달성군 다사읍매곡리</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/대구광역시달성군다사읍매곡리힐스테이트다사역">힐스테이트다사역</a></td>
   </tr>
 
   <tr>
     <td>20위</td>
     <td>4</td>
-    <td><a href="/apt/경상북도포항시북구흥해읍 초곡리">경상북도포항시북구 흥해읍 초곡리</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/경상북도포항시북구흥해읍 초곡리힐스테이트초곡">힐스테이트 초곡</a></td>
+    <td><a href="/apt/경상북도포항시북구흥해읍초곡리">경상북도포항시북구 흥해읍초곡리</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/경상북도포항시북구흥해읍초곡리힐스테이트초곡">힐스테이트 초곡</a></td>
   </tr>
 
   <tr>
@@ -166,8 +166,8 @@ permalink: /analysis/지난일주일전매거래량상위50아파트
   <tr>
     <td>22위</td>
     <td>4</td>
-    <td><a href="/apt/충청남도예산군삽교읍 목리">충청남도예산군 삽교읍 목리</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/충청남도예산군삽교읍 목리충남내포신도시RM7-2EGthe1">충남내포신도시RM7-2 EG the 1</a></td>
+    <td><a href="/apt/충청남도예산군삽교읍목리">충청남도예산군 삽교읍목리</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/충청남도예산군삽교읍목리충남내포신도시RM7-2EGthe1">충남내포신도시RM7-2 EG the 1</a></td>
   </tr>
 
   <tr>
@@ -187,8 +187,8 @@ permalink: /analysis/지난일주일전매거래량상위50아파트
   <tr>
     <td>25위</td>
     <td>4</td>
-    <td><a href="/apt/강원도강릉시주문진읍 교항리">강원도강릉시 주문진읍 교항리</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/강원도강릉시주문진읍 교항리주문진삼부르네상스오션포레">주문진 삼부르네상스 오션포레</a></td>
+    <td><a href="/apt/강원도강릉시주문진읍교항리">강원도강릉시 주문진읍교항리</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/강원도강릉시주문진읍교항리주문진삼부르네상스오션포레">주문진 삼부르네상스 오션포레</a></td>
   </tr>
 
   <tr>
@@ -201,8 +201,8 @@ permalink: /analysis/지난일주일전매거래량상위50아파트
   <tr>
     <td>27위</td>
     <td>4</td>
-    <td><a href="/apt/경기도이천시부발읍 신원리">경기도이천시 부발읍 신원리</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도이천시부발읍 신원리이안퍼스티엄이천부발">이안 퍼스티엄 이천부발</a></td>
+    <td><a href="/apt/경기도이천시부발읍신원리">경기도이천시 부발읍신원리</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도이천시부발읍신원리이안퍼스티엄이천부발">이안 퍼스티엄 이천부발</a></td>
   </tr>
 
   <tr>
@@ -215,8 +215,8 @@ permalink: /analysis/지난일주일전매거래량상위50아파트
   <tr>
     <td>29위</td>
     <td>4</td>
-    <td><a href="/apt/전라북도부안군부안읍 서외리">전라북도부안군 부안읍 서외리</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/전라북도부안군부안읍 서외리부안오투그란데2차하이스트">부안 오투그란데 2차 하이스트</a></td>
+    <td><a href="/apt/전라북도부안군부안읍서외리">전라북도부안군 부안읍서외리</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/전라북도부안군부안읍서외리부안오투그란데2차하이스트">부안 오투그란데 2차 하이스트</a></td>
   </tr>
 
   <tr>
@@ -236,8 +236,8 @@ permalink: /analysis/지난일주일전매거래량상위50아파트
   <tr>
     <td>32위</td>
     <td>4</td>
-    <td><a href="/apt/전라남도광양시광양읍 덕례리">전라남도광양시 광양읍 덕례리</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/전라남도광양시광양읍 덕례리광양세미존서희스타힐스">광양 세미존서희스타힐스</a></td>
+    <td><a href="/apt/전라남도광양시광양읍덕례리">전라남도광양시 광양읍덕례리</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/전라남도광양시광양읍덕례리광양세미존서희스타힐스">광양 세미존서희스타힐스</a></td>
   </tr>
 
   <tr>
@@ -250,8 +250,8 @@ permalink: /analysis/지난일주일전매거래량상위50아파트
   <tr>
     <td>34위</td>
     <td>3</td>
-    <td><a href="/apt/경기도가평군가평읍 읍내리">경기도가평군 가평읍 읍내리</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도가평군가평읍 읍내리힐스테이트가평더뉴클래스">힐스테이트 가평 더뉴클래스</a></td>
+    <td><a href="/apt/경기도가평군가평읍읍내리">경기도가평군 가평읍읍내리</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도가평군가평읍읍내리힐스테이트가평더뉴클래스">힐스테이트 가평 더뉴클래스</a></td>
   </tr>
 
   <tr>
@@ -264,29 +264,29 @@ permalink: /analysis/지난일주일전매거래량상위50아파트
   <tr>
     <td>36위</td>
     <td>3</td>
-    <td><a href="/apt/충청남도예산군삽교읍 목리">충청남도예산군 삽교읍 목리</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/충청남도예산군삽교읍 목리충남내포신도시1차대방엘리움더퍼스티지(RM9블록)">충남내포신도시1차 대방 엘리움 더 퍼스티지(RM9블록)</a></td>
+    <td><a href="/apt/충청남도예산군삽교읍목리">충청남도예산군 삽교읍목리</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/충청남도예산군삽교읍목리충남내포신도시1차대방엘리움더퍼스티지(RM9블록)">충남내포신도시1차 대방 엘리움 더 퍼스티지(RM9블록)</a></td>
   </tr>
 
   <tr>
     <td>37위</td>
     <td>3</td>
-    <td><a href="/apt/충청북도진천군진천읍 교성리">충청북도진천군 진천읍 교성리</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/충청북도진천군진천읍 교성리진천교성지구풍림아이원트리니움">진천 교성지구 풍림아이원 트리니움</a></td>
+    <td><a href="/apt/충청북도진천군진천읍교성리">충청북도진천군 진천읍교성리</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/충청북도진천군진천읍교성리진천교성지구풍림아이원트리니움">진천 교성지구 풍림아이원 트리니움</a></td>
   </tr>
 
   <tr>
     <td>38위</td>
     <td>3</td>
-    <td><a href="/apt/충청북도증평군증평읍 미암리">충청북도증평군 증평읍 미암리</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/충청북도증평군증평읍 미암리증평코아루휴티스">증평코아루휴티스</a></td>
+    <td><a href="/apt/충청북도증평군증평읍미암리">충청북도증평군 증평읍미암리</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/충청북도증평군증평읍미암리증평코아루휴티스">증평코아루휴티스</a></td>
   </tr>
 
   <tr>
     <td>39위</td>
     <td>3</td>
-    <td><a href="/apt/경기도화성시봉담읍 상리">경기도화성시 봉담읍 상리</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도화성시봉담읍 상리중흥에스클래스더퍼스트">중흥에스클래스더퍼스트</a></td>
+    <td><a href="/apt/경기도화성시봉담읍상리">경기도화성시 봉담읍상리</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도화성시봉담읍상리중흥에스클래스더퍼스트">중흥에스클래스더퍼스트</a></td>
   </tr>
 
   <tr>
@@ -348,15 +348,15 @@ permalink: /analysis/지난일주일전매거래량상위50아파트
   <tr>
     <td>48위</td>
     <td>3</td>
-    <td><a href="/apt/충청남도계룡시두마면 농소리">충청남도계룡시 두마면 농소리</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/충청남도계룡시두마면 농소리계룡푸르지오더퍼스트">계룡 푸르지오 더 퍼스트</a></td>
+    <td><a href="/apt/충청남도계룡시두마면농소리">충청남도계룡시 두마면농소리</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/충청남도계룡시두마면농소리계룡푸르지오더퍼스트">계룡 푸르지오 더 퍼스트</a></td>
   </tr>
 
   <tr>
     <td>49위</td>
     <td>3</td>
-    <td><a href="/apt/경상북도경산시하양읍 서사리">경상북도경산시 하양읍 서사리</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/경상북도경산시하양읍 서사리경산하양금호어울림">경산하양 금호어울림</a></td>
+    <td><a href="/apt/경상북도경산시하양읍서사리">경상북도경산시 하양읍서사리</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/경상북도경산시하양읍서사리경산하양금호어울림">경산하양 금호어울림</a></td>
   </tr>
 
   <tr>

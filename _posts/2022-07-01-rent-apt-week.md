@@ -19,15 +19,15 @@ permalink: /analysis/지난일주일전월세거래량상위50아파트
   <tr>
     <td>1위</td>
     <td>167</td>
-    <td><a href="/apt/충청북도청주시흥덕구오송읍 봉산리">충청북도청주시흥덕구 오송읍 봉산리</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/충청북도청주시흥덕구오송읍 봉산리오송역동아라이크텐">오송역동아라이크텐</a></td>
+    <td><a href="/apt/충청북도청주시흥덕구오송읍봉산리">충청북도청주시흥덕구 오송읍봉산리</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/충청북도청주시흥덕구오송읍봉산리오송역동아라이크텐">오송역동아라이크텐</a></td>
   </tr>
 
   <tr>
     <td>2위</td>
     <td>83</td>
-    <td><a href="/apt/경기도김포시양촌읍 양곡리">경기도김포시 양촌읍 양곡리</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도김포시양촌읍 양곡리김포양곡엘에이치1단지아파트">김포양곡엘에이치1단지아파트</a></td>
+    <td><a href="/apt/경기도김포시양촌읍양곡리">경기도김포시 양촌읍양곡리</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도김포시양촌읍양곡리김포양곡엘에이치1단지아파트">김포양곡엘에이치1단지아파트</a></td>
   </tr>
 
   <tr>
@@ -40,8 +40,8 @@ permalink: /analysis/지난일주일전월세거래량상위50아파트
   <tr>
     <td>4위</td>
     <td>64</td>
-    <td><a href="/apt/충청남도천안시동남구목천읍 천정리">충청남도천안시동남구 목천읍 천정리</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/충청남도천안시동남구목천읍 천정리고운라피네아파트">고운라피네아파트</a></td>
+    <td><a href="/apt/충청남도천안시동남구목천읍천정리">충청남도천안시동남구 목천읍천정리</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/충청남도천안시동남구목천읍천정리고운라피네아파트">고운라피네아파트</a></td>
   </tr>
 
   <tr>
@@ -96,15 +96,15 @@ permalink: /analysis/지난일주일전월세거래량상위50아파트
   <tr>
     <td>12위</td>
     <td>41</td>
-    <td><a href="/apt/경기도김포시통진읍 마송리">경기도김포시 통진읍 마송리</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도김포시통진읍 마송리김포마송엘에이치3단지">김포마송엘에이치3단지</a></td>
+    <td><a href="/apt/경기도김포시통진읍마송리">경기도김포시 통진읍마송리</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도김포시통진읍마송리김포마송엘에이치3단지">김포마송엘에이치3단지</a></td>
   </tr>
 
   <tr>
     <td>13위</td>
     <td>39</td>
-    <td><a href="/apt/충청북도진천군덕산읍 두촌리">충청북도진천군 덕산읍 두촌리</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/충청북도진천군덕산읍 두촌리우미린스테이">우미린스테이</a></td>
+    <td><a href="/apt/충청북도진천군덕산읍두촌리">충청북도진천군 덕산읍두촌리</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/충청북도진천군덕산읍두촌리우미린스테이">우미린스테이</a></td>
   </tr>
 
   <tr>
@@ -124,8 +124,8 @@ permalink: /analysis/지난일주일전월세거래량상위50아파트
   <tr>
     <td>16위</td>
     <td>35</td>
-    <td><a href="/apt/충청남도계룡시엄사면 엄사리">충청남도계룡시 엄사면 엄사리</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/충청남도계룡시엄사면 엄사리성원">성원</a></td>
+    <td><a href="/apt/충청남도계룡시엄사면엄사리">충청남도계룡시 엄사면엄사리</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/충청남도계룡시엄사면엄사리성원">성원</a></td>
   </tr>
 
   <tr>
@@ -257,8 +257,8 @@ permalink: /analysis/지난일주일전월세거래량상위50아파트
   <tr>
     <td>35위</td>
     <td>22</td>
-    <td><a href="/apt/경상북도경주시외동읍 모화리">경상북도경주시 외동읍 모화리</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/경상북도경주시외동읍 모화리경주외동사랑으로부영1단지">경주외동사랑으로부영1단지</a></td>
+    <td><a href="/apt/경상북도경주시외동읍모화리">경상북도경주시 외동읍모화리</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/경상북도경주시외동읍모화리경주외동사랑으로부영1단지">경주외동사랑으로부영1단지</a></td>
   </tr>
 
   <tr>
@@ -271,8 +271,8 @@ permalink: /analysis/지난일주일전월세거래량상위50아파트
   <tr>
     <td>37위</td>
     <td>21</td>
-    <td><a href="/apt/전라북도완주군이서면 용서리">전라북도완주군 이서면 용서리</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/전라북도완주군이서면 용서리에코르2단지">에코르2단지</a></td>
+    <td><a href="/apt/전라북도완주군이서면용서리">전라북도완주군 이서면용서리</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/전라북도완주군이서면용서리에코르2단지">에코르2단지</a></td>
   </tr>
 
   <tr>

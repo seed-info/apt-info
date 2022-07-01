@@ -19,8 +19,8 @@ permalink: /analysis/오늘전월세거래량상위50아파트
   <tr>
     <td>1위</td>
     <td>15</td>
-    <td><a href="/apt/경기도김포시양촌읍 양곡리">경기도김포시 양촌읍 양곡리</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도김포시양촌읍 양곡리김포양곡엘에이치1단지아파트">김포양곡엘에이치1단지아파트</a></td>
+    <td><a href="/apt/경기도김포시양촌읍양곡리">경기도김포시 양촌읍양곡리</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도김포시양촌읍양곡리김포양곡엘에이치1단지아파트">김포양곡엘에이치1단지아파트</a></td>
   </tr>
 
   <tr>
@@ -124,8 +124,8 @@ permalink: /analysis/오늘전월세거래량상위50아파트
   <tr>
     <td>16위</td>
     <td>5</td>
-    <td><a href="/apt/충청북도청주시흥덕구오송읍 봉산리">충청북도청주시흥덕구 오송읍 봉산리</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/충청북도청주시흥덕구오송읍 봉산리오송역동아라이크텐">오송역동아라이크텐</a></td>
+    <td><a href="/apt/충청북도청주시흥덕구오송읍봉산리">충청북도청주시흥덕구 오송읍봉산리</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/충청북도청주시흥덕구오송읍봉산리오송역동아라이크텐">오송역동아라이크텐</a></td>
   </tr>
 
   <tr>
@@ -173,15 +173,15 @@ permalink: /analysis/오늘전월세거래량상위50아파트
   <tr>
     <td>23위</td>
     <td>5</td>
-    <td><a href="/apt/충청남도천안시동남구목천읍 천정리">충청남도천안시동남구 목천읍 천정리</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/충청남도천안시동남구목천읍 천정리고운라피네아파트">고운라피네아파트</a></td>
+    <td><a href="/apt/충청남도천안시동남구목천읍천정리">충청남도천안시동남구 목천읍천정리</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/충청남도천안시동남구목천읍천정리고운라피네아파트">고운라피네아파트</a></td>
   </tr>
 
   <tr>
     <td>24위</td>
     <td>5</td>
-    <td><a href="/apt/경상북도경주시외동읍 모화리">경상북도경주시 외동읍 모화리</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/경상북도경주시외동읍 모화리경주외동사랑으로부영1단지">경주외동사랑으로부영1단지</a></td>
+    <td><a href="/apt/경상북도경주시외동읍모화리">경상북도경주시 외동읍모화리</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/경상북도경주시외동읍모화리경주외동사랑으로부영1단지">경주외동사랑으로부영1단지</a></td>
   </tr>
 
   <tr>
@@ -327,15 +327,15 @@ permalink: /analysis/오늘전월세거래량상위50아파트
   <tr>
     <td>45위</td>
     <td>4</td>
-    <td><a href="/apt/경상북도경주시외동읍 모화리">경상북도경주시 외동읍 모화리</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/경상북도경주시외동읍 모화리경주외동사랑으로부영2단지">경주외동사랑으로부영2단지</a></td>
+    <td><a href="/apt/경상북도경주시외동읍모화리">경상북도경주시 외동읍모화리</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/경상북도경주시외동읍모화리경주외동사랑으로부영2단지">경주외동사랑으로부영2단지</a></td>
   </tr>
 
   <tr>
     <td>46위</td>
     <td>4</td>
-    <td><a href="/apt/경상남도창원시의창구북면 감계리">경상남도창원시의창구 북면 감계리</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/경상남도창원시의창구북면 감계리감계아내에코프리미엄2차">감계아내에코프리미엄2차</a></td>
+    <td><a href="/apt/경상남도창원시의창구북면감계리">경상남도창원시의창구 북면감계리</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/경상남도창원시의창구북면감계리감계아내에코프리미엄2차">감계아내에코프리미엄2차</a></td>
   </tr>
 
   <tr>

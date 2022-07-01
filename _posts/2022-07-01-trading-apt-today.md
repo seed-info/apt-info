@@ -47,8 +47,8 @@ permalink: /analysis/오늘매매거래량상위50아파트
   <tr>
     <td>5위</td>
     <td>5</td>
-    <td><a href="/apt/충청남도서산시대산읍 대산리">충청남도서산시 대산읍 대산리</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/충청남도서산시대산읍 대산리한성필하우스아파트">한성필하우스아파트</a></td>
+    <td><a href="/apt/충청남도서산시대산읍대산리">충청남도서산시 대산읍대산리</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/충청남도서산시대산읍대산리한성필하우스아파트">한성필하우스아파트</a></td>
   </tr>
 
   <tr>
@@ -96,8 +96,8 @@ permalink: /analysis/오늘매매거래량상위50아파트
   <tr>
     <td>12위</td>
     <td>3</td>
-    <td><a href="/apt/경기도평택시팽성읍 안정리">경기도평택시 팽성읍 안정리</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도평택시팽성읍 안정리평택브라운스톤험프리스">평택브라운스톤험프리스</a></td>
+    <td><a href="/apt/경기도평택시팽성읍안정리">경기도평택시 팽성읍안정리</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도평택시팽성읍안정리평택브라운스톤험프리스">평택브라운스톤험프리스</a></td>
   </tr>
 
   <tr>
@@ -131,8 +131,8 @@ permalink: /analysis/오늘매매거래량상위50아파트
   <tr>
     <td>17위</td>
     <td>3</td>
-    <td><a href="/apt/충청남도계룡시엄사면 엄사리">충청남도계룡시 엄사면 엄사리</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/충청남도계룡시엄사면 엄사리성원">성원</a></td>
+    <td><a href="/apt/충청남도계룡시엄사면엄사리">충청남도계룡시 엄사면엄사리</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/충청남도계룡시엄사면엄사리성원">성원</a></td>
   </tr>
 
   <tr>
@@ -159,8 +159,8 @@ permalink: /analysis/오늘매매거래량상위50아파트
   <tr>
     <td>21위</td>
     <td>2</td>
-    <td><a href="/apt/전라남도영암군삼호읍 용당리">전라남도영암군 삼호읍 용당리</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/전라남도영암군삼호읍 용당리현대삼호2차아파트">현대삼호2차아파트</a></td>
+    <td><a href="/apt/전라남도영암군삼호읍용당리">전라남도영암군 삼호읍용당리</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/전라남도영암군삼호읍용당리현대삼호2차아파트">현대삼호2차아파트</a></td>
   </tr>
 
   <tr>
@@ -243,8 +243,8 @@ permalink: /analysis/오늘매매거래량상위50아파트
   <tr>
     <td>33위</td>
     <td>2</td>
-    <td><a href="/apt/전라남도순천시해룡면 신대리">전라남도순천시 해룡면 신대리</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/전라남도순천시해룡면 신대리중흥에스-클래스1단지">중흥에스-클래스1단지</a></td>
+    <td><a href="/apt/전라남도순천시해룡면신대리">전라남도순천시 해룡면신대리</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/전라남도순천시해룡면신대리중흥에스-클래스1단지">중흥에스-클래스1단지</a></td>
   </tr>
 
   <tr>
@@ -278,8 +278,8 @@ permalink: /analysis/오늘매매거래량상위50아파트
   <tr>
     <td>38위</td>
     <td>2</td>
-    <td><a href="/apt/경기도남양주시와부읍 덕소리">경기도남양주시 와부읍 덕소리</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도남양주시와부읍 덕소리주공1">주공1</a></td>
+    <td><a href="/apt/경기도남양주시와부읍덕소리">경기도남양주시 와부읍덕소리</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도남양주시와부읍덕소리주공1">주공1</a></td>
   </tr>
 
   <tr>
@@ -299,8 +299,8 @@ permalink: /analysis/오늘매매거래량상위50아파트
   <tr>
     <td>41위</td>
     <td>2</td>
-    <td><a href="/apt/부산광역시기장군정관읍 달산리">부산광역시기장군 정관읍 달산리</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/부산광역시기장군정관읍 달산리정관1차동원로얄듀크">정관1차동원로얄듀크</a></td>
+    <td><a href="/apt/부산광역시기장군정관읍달산리">부산광역시기장군 정관읍달산리</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/부산광역시기장군정관읍달산리정관1차동원로얄듀크">정관1차동원로얄듀크</a></td>
   </tr>
 
   <tr>
@@ -313,15 +313,15 @@ permalink: /analysis/오늘매매거래량상위50아파트
   <tr>
     <td>43위</td>
     <td>2</td>
-    <td><a href="/apt/경상북도경산시진량읍 선화리">경상북도경산시 진량읍 선화리</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/경상북도경산시진량읍 선화리이안경산진량아파트">이안경산진량아파트</a></td>
+    <td><a href="/apt/경상북도경산시진량읍선화리">경상북도경산시 진량읍선화리</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/경상북도경산시진량읍선화리이안경산진량아파트">이안경산진량아파트</a></td>
   </tr>
 
   <tr>
     <td>44위</td>
     <td>2</td>
-    <td><a href="/apt/경상북도포항시남구연일읍 유강리">경상북도포항시남구 연일읍 유강리</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/경상북도포항시남구연일읍 유강리유강코아루2단지">유강코아루2단지</a></td>
+    <td><a href="/apt/경상북도포항시남구연일읍유강리">경상북도포항시남구 연일읍유강리</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/경상북도포항시남구연일읍유강리유강코아루2단지">유강코아루2단지</a></td>
   </tr>
 
   <tr>
@@ -348,8 +348,8 @@ permalink: /analysis/오늘매매거래량상위50아파트
   <tr>
     <td>48위</td>
     <td>2</td>
-    <td><a href="/apt/충청북도청주시흥덕구옥산면 오산리">충청북도청주시흥덕구 옥산면 오산리</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/충청북도청주시흥덕구옥산면 오산리아트빌">아트빌</a></td>
+    <td><a href="/apt/충청북도청주시흥덕구옥산면오산리">충청북도청주시흥덕구 옥산면오산리</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/충청북도청주시흥덕구옥산면오산리아트빌">아트빌</a></td>
   </tr>
 
   <tr>
@@ -362,8 +362,8 @@ permalink: /analysis/오늘매매거래량상위50아파트
   <tr>
     <td>50위</td>
     <td>2</td>
-    <td><a href="/apt/충청남도아산시둔포면 석곡리">충청남도아산시 둔포면 석곡리</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/충청남도아산시둔포면 석곡리아산테크노밸리이지더원6단지">아산테크노밸리이지더원6단지</a></td>
+    <td><a href="/apt/충청남도아산시둔포면석곡리">충청남도아산시 둔포면석곡리</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/충청남도아산시둔포면석곡리아산테크노밸리이지더원6단지">아산테크노밸리이지더원6단지</a></td>
   </tr>
 
 </table>

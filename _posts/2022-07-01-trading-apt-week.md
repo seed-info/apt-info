@@ -33,8 +33,8 @@ permalink: /analysis/지난일주일매매거래량상위50아파트
   <tr>
     <td>3위</td>
     <td>30</td>
-    <td><a href="/apt/경기도평택시안중읍 현화리">경기도평택시 안중읍 현화리</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도평택시안중읍 현화리성원">성원</a></td>
+    <td><a href="/apt/경기도평택시안중읍현화리">경기도평택시 안중읍현화리</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도평택시안중읍현화리성원">성원</a></td>
   </tr>
 
   <tr>
@@ -54,8 +54,8 @@ permalink: /analysis/지난일주일매매거래량상위50아파트
   <tr>
     <td>6위</td>
     <td>20</td>
-    <td><a href="/apt/충청남도천안시서북구직산읍 부송리">충청남도천안시서북구 직산읍 부송리</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/충청남도천안시서북구직산읍 부송리청솔">청솔</a></td>
+    <td><a href="/apt/충청남도천안시서북구직산읍부송리">충청남도천안시서북구 직산읍부송리</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/충청남도천안시서북구직산읍부송리청솔">청솔</a></td>
   </tr>
 
   <tr>
@@ -68,8 +68,8 @@ permalink: /analysis/지난일주일매매거래량상위50아파트
   <tr>
     <td>8위</td>
     <td>17</td>
-    <td><a href="/apt/경상북도칠곡군석적읍 중리">경상북도칠곡군 석적읍 중리</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/경상북도칠곡군석적읍 중리부영">부영</a></td>
+    <td><a href="/apt/경상북도칠곡군석적읍중리">경상북도칠곡군 석적읍중리</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/경상북도칠곡군석적읍중리부영">부영</a></td>
   </tr>
 
   <tr>
@@ -96,8 +96,8 @@ permalink: /analysis/지난일주일매매거래량상위50아파트
   <tr>
     <td>12위</td>
     <td>15</td>
-    <td><a href="/apt/경상남도통영시용남면 동달리">경상남도통영시 용남면 동달리</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/경상남도통영시용남면 동달리청구">청구</a></td>
+    <td><a href="/apt/경상남도통영시용남면동달리">경상남도통영시 용남면동달리</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/경상남도통영시용남면동달리청구">청구</a></td>
   </tr>
 
   <tr>
@@ -271,8 +271,8 @@ permalink: /analysis/지난일주일매매거래량상위50아파트
   <tr>
     <td>37위</td>
     <td>9</td>
-    <td><a href="/apt/경기도남양주시와부읍 덕소리">경기도남양주시 와부읍 덕소리</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도남양주시와부읍 덕소리주공1">주공1</a></td>
+    <td><a href="/apt/경기도남양주시와부읍덕소리">경기도남양주시 와부읍덕소리</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도남양주시와부읍덕소리주공1">주공1</a></td>
   </tr>
 
   <tr>
@@ -313,8 +313,8 @@ permalink: /analysis/지난일주일매매거래량상위50아파트
   <tr>
     <td>43위</td>
     <td>9</td>
-    <td><a href="/apt/충청남도서산시지곡면 무장리">충청남도서산시 지곡면 무장리</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/충청남도서산시지곡면 무장리늘푸른오스카빌">늘푸른오스카빌</a></td>
+    <td><a href="/apt/충청남도서산시지곡면무장리">충청남도서산시 지곡면무장리</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/충청남도서산시지곡면무장리늘푸른오스카빌">늘푸른오스카빌</a></td>
   </tr>
 
   <tr>
@@ -334,8 +334,8 @@ permalink: /analysis/지난일주일매매거래량상위50아파트
   <tr>
     <td>46위</td>
     <td>8</td>
-    <td><a href="/apt/경기도평택시진위면 갈곶리">경기도평택시 진위면 갈곶리</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도평택시진위면 갈곶리한일">한일</a></td>
+    <td><a href="/apt/경기도평택시진위면갈곶리">경기도평택시 진위면갈곶리</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도평택시진위면갈곶리한일">한일</a></td>
   </tr>
 
   <tr>
@@ -355,8 +355,8 @@ permalink: /analysis/지난일주일매매거래량상위50아파트
   <tr>
     <td>49위</td>
     <td>8</td>
-    <td><a href="/apt/충청북도음성군음성읍 읍내리">충청북도음성군 음성읍 읍내리</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/충청북도음성군음성읍 읍내리신동아">신동아</a></td>
+    <td><a href="/apt/충청북도음성군음성읍읍내리">충청북도음성군 음성읍읍내리</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/충청북도음성군음성읍읍내리신동아">신동아</a></td>
   </tr>
 
   <tr>
