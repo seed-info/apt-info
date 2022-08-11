@@ -172,15 +172,15 @@ permalink: /analysis/아파트별매매평단가탑100랭킹
   </tr>
 
   <tr>
-    <td><a href="/apt/서울특별시송파구잠실동">서울특별시송파구 잠실동</a></td>
-    <td style="font-weight: bold;"><a href="/apt/서울특별시송파구잠실동리센츠">리센츠</a></td>
-    <td>3595</td>
+    <td><a href="/apt/서울특별시강남구개포동">서울특별시강남구 개포동</a></td>
+    <td style="font-weight: bold;"><a href="/apt/서울특별시강남구개포동래미안블레스티지">래미안블레스티지</a></td>
+    <td>3602</td>
   </tr>
 
   <tr>
-    <td><a href="/apt/서울특별시강남구개포동">서울특별시강남구 개포동</a></td>
-    <td style="font-weight: bold;"><a href="/apt/서울특별시강남구개포동래미안블레스티지">래미안블레스티지</a></td>
-    <td>3559</td>
+    <td><a href="/apt/서울특별시송파구잠실동">서울특별시송파구 잠실동</a></td>
+    <td style="font-weight: bold;"><a href="/apt/서울특별시송파구잠실동리센츠">리센츠</a></td>
+    <td>3595</td>
   </tr>
 
   <tr>
@@ -271,6 +271,12 @@ permalink: /analysis/아파트별매매평단가탑100랭킹
     <td><a href="/apt/서울특별시서초구서초동">서울특별시서초구 서초동</a></td>
     <td style="font-weight: bold;"><a href="/apt/서울특별시서초구서초동마제스타시티(힐스테이트서리풀101,102동)">마제스타시티(힐스테이트서리풀101,102동)</a></td>
     <td>3335</td>
+  </tr>
+
+  <tr>
+    <td><a href="/apt/서울특별시강남구역삼동">서울특별시강남구 역삼동</a></td>
+    <td style="font-weight: bold;"><a href="/apt/서울특별시강남구역삼동역삼자이">역삼자이</a></td>
+    <td>3333</td>
   </tr>
 
   <tr>
@@ -454,6 +460,12 @@ permalink: /analysis/아파트별매매평단가탑100랭킹
   </tr>
 
   <tr>
+    <td><a href="/apt/서울특별시양천구목동">서울특별시양천구 목동</a></td>
+    <td style="font-weight: bold;"><a href="/apt/서울특별시양천구목동목동신시가지4">목동신시가지4</a></td>
+    <td>2530</td>
+  </tr>
+
+  <tr>
     <td><a href="/apt/서울특별시양천구신정동">서울특별시양천구 신정동</a></td>
     <td style="font-weight: bold;"><a href="/apt/서울특별시양천구신정동목동신시가지9">목동신시가지9</a></td>
     <td>2527</td>
@@ -511,12 +523,6 @@ permalink: /analysis/아파트별매매평단가탑100랭킹
     <td><a href="/apt/서울특별시강남구논현동">서울특별시강남구 논현동</a></td>
     <td style="font-weight: bold;"><a href="/apt/서울특별시강남구논현동펜트힐루논현">펜트힐루논현</a></td>
     <td>2443</td>
-  </tr>
-
-  <tr>
-    <td><a href="/apt/서울특별시양천구목동">서울특별시양천구 목동</a></td>
-    <td style="font-weight: bold;"><a href="/apt/서울특별시양천구목동목동신시가지4">목동신시가지4</a></td>
-    <td>2426</td>
   </tr>
 
   <tr>
@@ -607,12 +613,6 @@ permalink: /analysis/아파트별매매평단가탑100랭킹
     <td><a href="/apt/서울특별시양천구목동">서울특별시양천구 목동</a></td>
     <td style="font-weight: bold;"><a href="/apt/서울특별시양천구목동목동센트럴푸르지오">목동센트럴푸르지오</a></td>
     <td>2247</td>
-  </tr>
-
-  <tr>
-    <td><a href="/apt/서울특별시마포구공덕동">서울특별시마포구 공덕동</a></td>
-    <td style="font-weight: bold;"><a href="/apt/서울특별시마포구공덕동공덕SK리더스뷰">공덕SK리더스뷰</a></td>
-    <td>2237</td>
   </tr>
 
 </table>
