@@ -610,6 +610,14 @@ permalink: /analysis/아파트매매평단가탑100랭킹
   </tr>
 
   <tr>
+    <td><a href="/apt/서울특별시송파구잠실동">서울특별시송파구 잠실동</a></td>
+    <td style="font-weight: bold;"><a href="/apt/서울특별시송파구잠실동잠실엘스">잠실엘스</a></td>
+    <td>59.96</td>
+    <td>175,000</td>
+    <td>2919</td>
+  </tr>
+
+  <tr>
     <td><a href="/apt/서울특별시강남구도곡동">서울특별시강남구 도곡동</a></td>
     <td style="font-weight: bold;"><a href="/apt/서울특별시강남구도곡동타워팰리스1">타워팰리스1</a></td>
     <td>164.97</td>
@@ -623,6 +631,14 @@ permalink: /analysis/아파트매매평단가탑100랭킹
     <td>84.97</td>
     <td>245,000</td>
     <td>2883</td>
+  </tr>
+
+  <tr>
+    <td><a href="/apt/서울특별시송파구가락동">서울특별시송파구 가락동</a></td>
+    <td style="font-weight: bold;"><a href="/apt/서울특별시송파구가락동헬리오시티">헬리오시티</a></td>
+    <td>49.32</td>
+    <td>142,000</td>
+    <td>2879</td>
   </tr>
 
   <tr>
@@ -799,22 +815,6 @@ permalink: /analysis/아파트매매평단가탑100랭킹
     <td>59.98</td>
     <td>157,000</td>
     <td>2618</td>
-  </tr>
-
-  <tr>
-    <td><a href="/apt/서울특별시강남구도곡동">서울특별시강남구 도곡동</a></td>
-    <td style="font-weight: bold;"><a href="/apt/서울특별시강남구도곡동타워팰리스2">타워팰리스2</a></td>
-    <td>130.17</td>
-    <td>340,000</td>
-    <td>2612</td>
-  </tr>
-
-  <tr>
-    <td><a href="/apt/서울특별시서초구서초동">서울특별시서초구 서초동</a></td>
-    <td style="font-weight: bold;"><a href="/apt/서울특별시서초구서초동삼풍아파트">삼풍아파트</a></td>
-    <td>163.81</td>
-    <td>425,000</td>
-    <td>2594</td>
   </tr>
 
 </table>
