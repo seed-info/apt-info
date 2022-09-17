@@ -130,7 +130,7 @@ permalink: /analysis/지난일주일전월세거래량상위50아파트
 
   <tr>
     <td>17위</td>
-    <td>33</td>
+    <td>34</td>
     <td><a href="/apt/경기도고양시덕양구원흥동">경기도고양시덕양구 원흥동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도고양시덕양구원흥동고양삼송엘에이치13단지아파트">고양삼송엘에이치13단지아파트</a></td>
   </tr>
@@ -193,93 +193,93 @@ permalink: /analysis/지난일주일전월세거래량상위50아파트
 
   <tr>
     <td>26위</td>
+    <td>26</td>
+    <td><a href="/apt/경기도화성시향남읍하길리">경기도화성시 향남읍하길리</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도화성시향남읍하길리서봉마을5단지">서봉마을5단지</a></td>
+  </tr>
+
+  <tr>
+    <td>27위</td>
     <td>25</td>
     <td><a href="/apt/경상남도통영시광도면안정리">경상남도통영시 광도면안정리</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/경상남도통영시광도면안정리안정LH">안정LH</a></td>
   </tr>
 
   <tr>
-    <td>27위</td>
+    <td>28위</td>
     <td>25</td>
     <td><a href="/apt/경기도시흥시장곡동">경기도시흥시 장곡동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도시흥시장곡동시흥장현루벤시아1차">시흥장현루벤시아1차</a></td>
   </tr>
 
   <tr>
-    <td>28위</td>
+    <td>29위</td>
     <td>24</td>
     <td><a href="/apt/경기도화성시향남읍하길리">경기도화성시 향남읍하길리</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도화성시향남읍하길리화성향남서봉마을사랑으로부영7단지">화성향남서봉마을사랑으로부영7단지</a></td>
   </tr>
 
   <tr>
-    <td>29위</td>
+    <td>30위</td>
     <td>24</td>
-    <td><a href="/apt/경기도화성시향남읍하길리">경기도화성시 향남읍하길리</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도화성시향남읍하길리서봉마을5단지">서봉마을5단지</a></td>
+    <td><a href="/apt/경기도화성시산척동">경기도화성시 산척동</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도화성시산척동화성동탄2엘에이치35단지(3511-15)">화성동탄2엘에이치35단지(3511-15)</a></td>
   </tr>
 
   <tr>
-    <td>30위</td>
+    <td>31위</td>
     <td>23</td>
     <td><a href="/apt/서울특별시성북구종암동">서울특별시성북구 종암동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시성북구종암동삼성래미안">삼성래미안</a></td>
   </tr>
 
   <tr>
-    <td>31위</td>
+    <td>32위</td>
     <td>23</td>
     <td><a href="/apt/경기도의정부시낙양동">경기도의정부시 낙양동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도의정부시낙양동라디언트캐슬">라디언트캐슬</a></td>
   </tr>
 
   <tr>
-    <td>32위</td>
+    <td>33위</td>
     <td>23</td>
     <td><a href="/apt/경기도구리시갈매동">경기도구리시 갈매동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도구리시갈매동갈매1단지">갈매1단지</a></td>
   </tr>
 
   <tr>
-    <td>33위</td>
+    <td>34위</td>
     <td>22</td>
-    <td><a href="/apt/경기도화성시산척동">경기도화성시 산척동</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도화성시산척동화성동탄2엘에이치35단지(3511-15)">화성동탄2엘에이치35단지(3511-15)</a></td>
+    <td><a href="/apt/서울특별시구로구천왕동">서울특별시구로구 천왕동</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시구로구천왕동천왕이펜하우스7단지">천왕이펜하우스7단지</a></td>
   </tr>
 
   <tr>
-    <td>34위</td>
+    <td>35위</td>
     <td>22</td>
     <td><a href="/apt/경기도화성시반월동">경기도화성시 반월동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도화성시반월동신동탄롯데캐슬">신동탄롯데캐슬</a></td>
   </tr>
 
   <tr>
-    <td>35위</td>
+    <td>36위</td>
     <td>22</td>
     <td><a href="/apt/경기도고양시덕양구행신동">경기도고양시덕양구 행신동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도고양시덕양구행신동서정마을1단지(임대)">서정마을1단지(임대)</a></td>
   </tr>
 
   <tr>
-    <td>36위</td>
+    <td>37위</td>
     <td>22</td>
     <td><a href="/apt/경기도성남시수정구신흥동">경기도성남시수정구 신흥동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도성남시수정구신흥동산성역포레스티아">산성역포레스티아</a></td>
   </tr>
 
   <tr>
-    <td>37위</td>
+    <td>38위</td>
     <td>22</td>
     <td><a href="/apt/서울특별시동대문구전농동">서울특별시동대문구 전농동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시동대문구전농동동아">동아</a></td>
-  </tr>
-
-  <tr>
-    <td>38위</td>
-    <td>21</td>
-    <td><a href="/apt/서울특별시구로구천왕동">서울특별시구로구 천왕동</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시구로구천왕동천왕이펜하우스7단지">천왕이펜하우스7단지</a></td>
   </tr>
 
   <tr>

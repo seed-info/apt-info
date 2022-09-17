@@ -15,4 +15,10 @@ permalink: /analysis/오늘전매거래량상위50지역
     <td>지역</td>
   </tr>
 
+  <tr>
+    <td>1위</td>
+    <td>1</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/대구광역시중구">대구광역시중구 </a></td>
+  </tr>
+
 </table>

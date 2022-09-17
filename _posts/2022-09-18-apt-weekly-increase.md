@@ -363,6 +363,14 @@ permalink: /weekly/주간시세변화율랭킹
 
   <tr class="item">
     <td>44</td>
+    <td><a href="/apt/충청북도제천시">충청북도제천시</a></td>
+    <td>10,750</td>
+    <td>10,875</td>
+    <td>1.16%</td>
+  </tr>
+
+  <tr class="item">
+    <td>45</td>
     <td><a href="/apt/전라북도전주시완산구">전라북도전주시완산구</a></td>
     <td>20,688</td>
     <td>21,062</td>
@@ -370,7 +378,7 @@ permalink: /weekly/주간시세변화율랭킹
   </tr>
 
   <tr class="item">
-    <td>45</td>
+    <td>46</td>
     <td><a href="/apt/경상남도창원시의창구">경상남도창원시의창구</a></td>
     <td>57,000</td>
     <td>58,000</td>
@@ -378,7 +386,7 @@ permalink: /weekly/주간시세변화율랭킹
   </tr>
 
   <tr class="item">
-    <td>46</td>
+    <td>47</td>
     <td><a href="/apt/경상남도진주시">경상남도진주시</a></td>
     <td>45,531</td>
     <td>46,023</td>
@@ -386,7 +394,7 @@ permalink: /weekly/주간시세변화율랭킹
   </tr>
 
   <tr class="item">
-    <td>47</td>
+    <td>48</td>
     <td><a href="/apt/대구광역시북구">대구광역시북구</a></td>
     <td>22,402</td>
     <td>22,203</td>
@@ -394,7 +402,7 @@ permalink: /weekly/주간시세변화율랭킹
   </tr>
 
   <tr class="item">
-    <td>48</td>
+    <td>49</td>
     <td><a href="/apt/대구광역시달성군">대구광역시달성군</a></td>
     <td>38,438</td>
     <td>38,750</td>
@@ -402,18 +410,10 @@ permalink: /weekly/주간시세변화율랭킹
   </tr>
 
   <tr class="item">
-    <td>49</td>
+    <td>50</td>
     <td><a href="/apt/인천광역시계양구">인천광역시계양구</a></td>
     <td>35,000</td>
     <td>35,000</td>
-    <td>0.0%</td>
-  </tr>
-
-  <tr class="item">
-    <td>50</td>
-    <td><a href="/apt/광주광역시동구">광주광역시동구</a></td>
-    <td>6,000</td>
-    <td>6,000</td>
     <td>0.0%</td>
   </tr>
 
@@ -435,6 +435,14 @@ permalink: /weekly/주간시세변화율랭킹
             
   <tr class="item">
     <td>51</td>
+    <td><a href="/apt/광주광역시동구">광주광역시동구</a></td>
+    <td>6,000</td>
+    <td>6,000</td>
+    <td>0.0%</td>
+  </tr>
+
+  <tr class="item">
+    <td>52</td>
     <td><a href="/apt/광주광역시서구">광주광역시서구</a></td>
     <td>40,500</td>
     <td>40,750</td>
@@ -442,7 +450,7 @@ permalink: /weekly/주간시세변화율랭킹
   </tr>
 
   <tr class="item">
-    <td>52</td>
+    <td>53</td>
     <td><a href="/apt/경기도고양시일산동구">경기도고양시일산동구</a></td>
     <td>8,000</td>
     <td>8,000</td>
@@ -450,7 +458,7 @@ permalink: /weekly/주간시세변화율랭킹
   </tr>
 
   <tr class="item">
-    <td>53</td>
+    <td>54</td>
     <td><a href="/apt/경기도여주시">경기도여주시</a></td>
     <td>9,000</td>
     <td>9,000</td>
@@ -458,7 +466,7 @@ permalink: /weekly/주간시세변화율랭킹
   </tr>
 
   <tr class="item">
-    <td>54</td>
+    <td>55</td>
     <td><a href="/apt/강원도강릉시">강원도강릉시</a></td>
     <td>35,500</td>
     <td>35,500</td>
@@ -466,7 +474,7 @@ permalink: /weekly/주간시세변화율랭킹
   </tr>
 
   <tr class="item">
-    <td>55</td>
+    <td>56</td>
     <td><a href="/apt/강원도인제군">강원도인제군</a></td>
     <td>22,000</td>
     <td>22,000</td>
@@ -474,7 +482,7 @@ permalink: /weekly/주간시세변화율랭킹
   </tr>
 
   <tr class="item">
-    <td>56</td>
+    <td>57</td>
     <td><a href="/apt/충청북도청주시상당구">충청북도청주시상당구</a></td>
     <td>15,375</td>
     <td>15,375</td>
@@ -482,7 +490,7 @@ permalink: /weekly/주간시세변화율랭킹
   </tr>
 
   <tr class="item">
-    <td>57</td>
+    <td>58</td>
     <td><a href="/apt/충청북도영동군">충청북도영동군</a></td>
     <td>6,000</td>
     <td>6,000</td>
@@ -490,7 +498,7 @@ permalink: /weekly/주간시세변화율랭킹
   </tr>
 
   <tr class="item">
-    <td>58</td>
+    <td>59</td>
     <td><a href="/apt/충청남도보령시">충청남도보령시</a></td>
     <td>8,500</td>
     <td>8,500</td>
@@ -498,7 +506,7 @@ permalink: /weekly/주간시세변화율랭킹
   </tr>
 
   <tr class="item">
-    <td>59</td>
+    <td>60</td>
     <td><a href="/apt/충청남도계룡시">충청남도계룡시</a></td>
     <td>4,000</td>
     <td>4,000</td>
@@ -506,7 +514,7 @@ permalink: /weekly/주간시세변화율랭킹
   </tr>
 
   <tr class="item">
-    <td>60</td>
+    <td>61</td>
     <td><a href="/apt/충청남도금산군">충청남도금산군</a></td>
     <td>25,500</td>
     <td>25,500</td>
@@ -514,7 +522,7 @@ permalink: /weekly/주간시세변화율랭킹
   </tr>
 
   <tr class="item">
-    <td>61</td>
+    <td>62</td>
     <td><a href="/apt/충청남도태안군">충청남도태안군</a></td>
     <td>3,000</td>
     <td>3,000</td>
@@ -522,7 +530,7 @@ permalink: /weekly/주간시세변화율랭킹
   </tr>
 
   <tr class="item">
-    <td>62</td>
+    <td>63</td>
     <td><a href="/apt/전라북도군산시">전라북도군산시</a></td>
     <td>14,969</td>
     <td>15,031</td>
@@ -530,7 +538,7 @@ permalink: /weekly/주간시세변화율랭킹
   </tr>
 
   <tr class="item">
-    <td>63</td>
+    <td>64</td>
     <td><a href="/apt/전라남도영광군">전라남도영광군</a></td>
     <td>12,000</td>
     <td>12,000</td>
@@ -538,7 +546,7 @@ permalink: /weekly/주간시세변화율랭킹
   </tr>
 
   <tr class="item">
-    <td>64</td>
+    <td>65</td>
     <td><a href="/apt/경상북도경산시">경상북도경산시</a></td>
     <td>5,000</td>
     <td>5,000</td>
@@ -546,7 +554,7 @@ permalink: /weekly/주간시세변화율랭킹
   </tr>
 
   <tr class="item">
-    <td>65</td>
+    <td>66</td>
     <td><a href="/apt/경상남도통영시">경상남도통영시</a></td>
     <td>15,250</td>
     <td>15,125</td>
@@ -554,7 +562,7 @@ permalink: /weekly/주간시세변화율랭킹
   </tr>
 
   <tr class="item">
-    <td>66</td>
+    <td>67</td>
     <td><a href="/apt/경상남도밀양시">경상남도밀양시</a></td>
     <td>5,000</td>
     <td>5,000</td>
@@ -562,7 +570,7 @@ permalink: /weekly/주간시세변화율랭킹
   </tr>
 
   <tr class="item">
-    <td>67</td>
+    <td>68</td>
     <td><a href="/apt/충청남도천안시동남구">충청남도천안시동남구</a></td>
     <td>21,798</td>
     <td>21,566</td>
@@ -570,7 +578,7 @@ permalink: /weekly/주간시세변화율랭킹
   </tr>
 
   <tr class="item">
-    <td>68</td>
+    <td>69</td>
     <td><a href="/apt/충청남도홍성군">충청남도홍성군</a></td>
     <td>27,625</td>
     <td>27,250</td>
@@ -578,7 +586,7 @@ permalink: /weekly/주간시세변화율랭킹
   </tr>
 
   <tr class="item">
-    <td>69</td>
+    <td>70</td>
     <td><a href="/apt/서울특별시성북구">서울특별시성북구</a></td>
     <td>83,000</td>
     <td>81,000</td>
@@ -586,7 +594,7 @@ permalink: /weekly/주간시세변화율랭킹
   </tr>
 
   <tr class="item">
-    <td>70</td>
+    <td>71</td>
     <td><a href="/apt/부산광역시사상구">부산광역시사상구</a></td>
     <td>20,500</td>
     <td>20,000</td>
@@ -594,7 +602,7 @@ permalink: /weekly/주간시세변화율랭킹
   </tr>
 
   <tr class="item">
-    <td>71</td>
+    <td>72</td>
     <td><a href="/apt/대구광역시중구">대구광역시중구</a></td>
     <td>39,000</td>
     <td>38,000</td>
@@ -602,7 +610,7 @@ permalink: /weekly/주간시세변화율랭킹
   </tr>
 
   <tr class="item">
-    <td>72</td>
+    <td>73</td>
     <td><a href="/apt/대전광역시서구">대전광역시서구</a></td>
     <td>41,125</td>
     <td>40,250</td>
@@ -610,19 +618,11 @@ permalink: /weekly/주간시세변화율랭킹
   </tr>
 
   <tr class="item">
-    <td>73</td>
+    <td>74</td>
     <td><a href="/apt/울산광역시남구">울산광역시남구</a></td>
     <td>17,000</td>
     <td>16,500</td>
     <td>-2.94%</td>
-  </tr>
-
-  <tr class="item">
-    <td>74</td>
-    <td><a href="/apt/충청북도제천시">충청북도제천시</a></td>
-    <td>10,500</td>
-    <td>10,250</td>
-    <td>-2.38%</td>
   </tr>
 
   <tr class="item">

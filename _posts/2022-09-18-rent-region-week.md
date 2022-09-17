@@ -17,7 +17,7 @@ permalink: /analysis/지난일주일전월세거래량상위50지역
 
   <tr>
     <td>1위</td>
-    <td>376</td>
+    <td>380</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도화성시">경기도화성시 </a></td>
   </tr>
 
@@ -41,13 +41,13 @@ permalink: /analysis/지난일주일전월세거래량상위50지역
 
   <tr>
     <td>5위</td>
-    <td>293</td>
+    <td>294</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도김포시">경기도김포시 </a></td>
   </tr>
 
   <tr>
     <td>6위</td>
-    <td>261</td>
+    <td>263</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도고양시덕양구">경기도고양시덕양구 </a></td>
   </tr>
 
@@ -77,7 +77,7 @@ permalink: /analysis/지난일주일전월세거래량상위50지역
 
   <tr>
     <td>11위</td>
-    <td>198</td>
+    <td>200</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/세종특별자치시">세종특별자치시 </a></td>
   </tr>
 
@@ -113,14 +113,14 @@ permalink: /analysis/지난일주일전월세거래량상위50지역
 
   <tr>
     <td>17위</td>
-    <td>163</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도수원시권선구">경기도수원시권선구 </a></td>
+    <td>164</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시은평구">서울특별시은평구 </a></td>
   </tr>
 
   <tr>
     <td>18위</td>
     <td>163</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시은평구">서울특별시은평구 </a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도수원시권선구">경기도수원시권선구 </a></td>
   </tr>
 
   <tr>
@@ -137,7 +137,7 @@ permalink: /analysis/지난일주일전월세거래량상위50지역
 
   <tr>
     <td>21위</td>
-    <td>156</td>
+    <td>157</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도용인시기흥구">경기도용인시기흥구 </a></td>
   </tr>
 
@@ -179,7 +179,7 @@ permalink: /analysis/지난일주일전월세거래량상위50지역
 
   <tr>
     <td>28위</td>
-    <td>133</td>
+    <td>134</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시구로구">서울특별시구로구 </a></td>
   </tr>
 
@@ -227,7 +227,7 @@ permalink: /analysis/지난일주일전월세거래량상위50지역
 
   <tr>
     <td>36위</td>
-    <td>114</td>
+    <td>116</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도양주시">경기도양주시 </a></td>
   </tr>
 
@@ -275,7 +275,7 @@ permalink: /analysis/지난일주일전월세거래량상위50지역
 
   <tr>
     <td>44위</td>
-    <td>103</td>
+    <td>104</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시성북구">서울특별시성북구 </a></td>
   </tr>
 

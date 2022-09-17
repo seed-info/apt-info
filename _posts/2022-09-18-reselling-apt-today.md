@@ -16,4 +16,11 @@ permalink: /analysis/오늘전매거래량상위50아파트
     <td>아파트명</td>
   </tr>
 
+  <tr>
+    <td>1위</td>
+    <td>1</td>
+    <td><a href="/apt/대구광역시중구남산동">대구광역시중구 남산동</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/대구광역시중구남산동청라힐스자이">청라힐스자이</a></td>
+  </tr>
+
 </table>

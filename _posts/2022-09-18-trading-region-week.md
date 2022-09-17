@@ -276,43 +276,43 @@ permalink: /analysis/지난일주일매매거래량상위50지역
   <tr>
     <td>44위</td>
     <td>25</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도안성시">경기도안성시 </a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/충청북도제천시">충청북도제천시 </a></td>
   </tr>
 
   <tr>
     <td>45위</td>
     <td>25</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/대전광역시유성구">대전광역시유성구 </a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도안성시">경기도안성시 </a></td>
   </tr>
 
   <tr>
     <td>46위</td>
-    <td>24</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도남양주시">경기도남양주시 </a></td>
+    <td>25</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도의정부시">경기도의정부시 </a></td>
   </tr>
 
   <tr>
     <td>47위</td>
-    <td>24</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도의정부시">경기도의정부시 </a></td>
+    <td>25</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/대전광역시유성구">대전광역시유성구 </a></td>
   </tr>
 
   <tr>
     <td>48위</td>
     <td>24</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/세종특별자치시">세종특별자치시 </a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도남양주시">경기도남양주시 </a></td>
   </tr>
 
   <tr>
     <td>49위</td>
     <td>24</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/광주광역시서구">광주광역시서구 </a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/세종특별자치시">세종특별자치시 </a></td>
   </tr>
 
   <tr>
     <td>50위</td>
-    <td>23</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/전라남도여수시">전라남도여수시 </a></td>
+    <td>24</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/광주광역시서구">광주광역시서구 </a></td>
   </tr>
 
 </table>

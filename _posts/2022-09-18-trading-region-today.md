@@ -15,4 +15,28 @@ permalink: /analysis/오늘매매거래량상위50지역
     <td>지역</td>
   </tr>
 
+  <tr>
+    <td>1위</td>
+    <td>3</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/충청북도제천시">충청북도제천시 </a></td>
+  </tr>
+
+  <tr>
+    <td>2위</td>
+    <td>1</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/강원도양양군">강원도양양군 </a></td>
+  </tr>
+
+  <tr>
+    <td>3위</td>
+    <td>1</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도의정부시">경기도의정부시 </a></td>
+  </tr>
+
+  <tr>
+    <td>4위</td>
+    <td>1</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/부산광역시금정구">부산광역시금정구 </a></td>
+  </tr>
+
 </table>

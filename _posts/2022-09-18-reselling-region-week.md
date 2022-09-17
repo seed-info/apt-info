@@ -89,20 +89,20 @@ permalink: /analysis/지난일주일전매거래량상위50지역
 
   <tr>
     <td>13위</td>
-    <td>8</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/경상북도구미시">경상북도구미시 </a></td>
+    <td>9</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/대구광역시중구">대구광역시중구 </a></td>
   </tr>
 
   <tr>
     <td>14위</td>
     <td>8</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/전라북도익산시">전라북도익산시 </a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/경상북도구미시">경상북도구미시 </a></td>
   </tr>
 
   <tr>
     <td>15위</td>
     <td>8</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/대구광역시중구">대구광역시중구 </a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/전라북도익산시">전라북도익산시 </a></td>
   </tr>
 
   <tr>

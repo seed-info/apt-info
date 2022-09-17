@@ -384,7 +384,7 @@ permalink: /analysis/지역별매매평단가랭킹
   <tr>
     <td>62위</td>
     <td><a href="/apt/경기도의정부시{dong}">경기도의정부시</a></td>
-    <td>521</td>
+    <td>522</td>
   </tr>
 
   <tr>
@@ -438,7 +438,7 @@ permalink: /analysis/지역별매매평단가랭킹
   <tr>
     <td>71위</td>
     <td><a href="/apt/부산광역시금정구{dong}">부산광역시금정구</a></td>
-    <td>449</td>
+    <td>451</td>
   </tr>
 
   <tr>
@@ -845,14 +845,14 @@ permalink: /analysis/지역별매매평단가랭킹
 
   <tr>
     <td>139위</td>
-    <td><a href="/apt/강원도양양군{dong}">강원도양양군</a></td>
-    <td>260</td>
+    <td><a href="/apt/전라남도완도군{dong}">전라남도완도군</a></td>
+    <td>259</td>
   </tr>
 
   <tr>
     <td>140위</td>
-    <td><a href="/apt/전라남도완도군{dong}">전라남도완도군</a></td>
-    <td>259</td>
+    <td><a href="/apt/강원도양양군{dong}">강원도양양군</a></td>
+    <td>258</td>
   </tr>
 
   <tr>
@@ -1157,19 +1157,19 @@ permalink: /analysis/지역별매매평단가랭킹
 
   <tr>
     <td>191위</td>
-    <td><a href="/apt/충청북도제천시{dong}">충청북도제천시</a></td>
-    <td>199</td>
-  </tr>
-
-  <tr>
-    <td>192위</td>
     <td><a href="/apt/전라북도남원시{dong}">전라북도남원시</a></td>
     <td>199</td>
   </tr>
 
   <tr>
-    <td>193위</td>
+    <td>192위</td>
     <td><a href="/apt/충청북도보은군{dong}">충청북도보은군</a></td>
+    <td>198</td>
+  </tr>
+
+  <tr>
+    <td>193위</td>
+    <td><a href="/apt/충청북도제천시{dong}">충청북도제천시</a></td>
     <td>198</td>
   </tr>
 
