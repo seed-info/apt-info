@@ -579,6 +579,14 @@ permalink: /analysis/아파트매매평단가탑100랭킹
 
   <tr>
     <td><a href="/apt/서울특별시송파구잠실동">서울특별시송파구 잠실동</a></td>
+    <td style="font-weight: bold;"><a href="/apt/서울특별시송파구잠실동잠실엘스">잠실엘스</a></td>
+    <td>84.88</td>
+    <td>202,000</td>
+    <td>2380</td>
+  </tr>
+
+  <tr>
+    <td><a href="/apt/서울특별시송파구잠실동">서울특별시송파구 잠실동</a></td>
     <td style="font-weight: bold;"><a href="/apt/서울특별시송파구잠실동리센츠">리센츠</a></td>
     <td>84.99</td>
     <td>202,000</td>
@@ -623,6 +631,14 @@ permalink: /analysis/아파트매매평단가탑100랭킹
     <td>178.325</td>
     <td>420,000</td>
     <td>2355</td>
+  </tr>
+
+  <tr>
+    <td><a href="/apt/서울특별시서초구서초동">서울특별시서초구 서초동</a></td>
+    <td style="font-weight: bold;"><a href="/apt/서울특별시서초구서초동서초센트럴IPARK">서초센트럴IPARK</a></td>
+    <td>80.5332</td>
+    <td>189,000</td>
+    <td>2347</td>
   </tr>
 
   <tr>
@@ -799,22 +815,6 @@ permalink: /analysis/아파트매매평단가탑100랭킹
     <td>59.98</td>
     <td>134,000</td>
     <td>2234</td>
-  </tr>
-
-  <tr>
-    <td><a href="/apt/서울특별시강남구자곡동">서울특별시강남구 자곡동</a></td>
-    <td style="font-weight: bold;"><a href="/apt/서울특별시강남구자곡동래미안강남힐즈">래미안강남힐즈</a></td>
-    <td>101.94</td>
-    <td>225,000</td>
-    <td>2207</td>
-  </tr>
-
-  <tr>
-    <td><a href="/apt/서울특별시마포구대흥동">서울특별시마포구 대흥동</a></td>
-    <td style="font-weight: bold;"><a href="/apt/서울특별시마포구대흥동신촌그랑자이(1단지)">신촌그랑자이(1단지)</a></td>
-    <td>59.98</td>
-    <td>132,000</td>
-    <td>2201</td>
   </tr>
 
 </table>

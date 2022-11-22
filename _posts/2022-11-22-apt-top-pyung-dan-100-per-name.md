@@ -234,13 +234,19 @@ permalink: /analysis/아파트별매매평단가탑100랭킹
   <tr>
     <td><a href="/apt/서울특별시송파구잠실동">서울특별시송파구 잠실동</a></td>
     <td style="font-weight: bold;"><a href="/apt/서울특별시송파구잠실동잠실엘스">잠실엘스</a></td>
-    <td>2456</td>
+    <td>2449</td>
   </tr>
 
   <tr>
     <td><a href="/apt/서울특별시성동구옥수동">서울특별시성동구 옥수동</a></td>
     <td style="font-weight: bold;"><a href="/apt/서울특별시성동구옥수동옥수파크힐스117동~125동">옥수파크힐스117동~125동</a></td>
     <td>2376</td>
+  </tr>
+
+  <tr>
+    <td><a href="/apt/서울특별시서초구서초동">서울특별시서초구 서초동</a></td>
+    <td style="font-weight: bold;"><a href="/apt/서울특별시서초구서초동서초센트럴IPARK">서초센트럴IPARK</a></td>
+    <td>2347</td>
   </tr>
 
   <tr>
@@ -346,14 +352,20 @@ permalink: /analysis/아파트별매매평단가탑100랭킹
   </tr>
 
   <tr>
+    <td><a href="/apt/서울특별시송파구잠실동">서울특별시송파구 잠실동</a></td>
+    <td style="font-weight: bold;"><a href="/apt/서울특별시송파구잠실동트리지움">트리지움</a></td>
+    <td>2133</td>
+  </tr>
+
+  <tr>
     <td><a href="/apt/서울특별시강남구일원동">서울특별시강남구 일원동</a></td>
     <td style="font-weight: bold;"><a href="/apt/서울특별시강남구일원동푸른마을아파트101동~111동">푸른마을아파트101동~111동</a></td>
     <td>2126</td>
   </tr>
 
   <tr>
-    <td><a href="/apt/서울특별시송파구잠실동">서울특별시송파구 잠실동</a></td>
-    <td style="font-weight: bold;"><a href="/apt/서울특별시송파구잠실동트리지움">트리지움</a></td>
+    <td><a href="/apt/서울특별시강남구논현동">서울특별시강남구 논현동</a></td>
+    <td style="font-weight: bold;"><a href="/apt/서울특별시강남구논현동아크로힐스논현">아크로힐스논현</a></td>
     <td>2120</td>
   </tr>
 
@@ -601,18 +613,6 @@ permalink: /analysis/아파트별매매평단가탑100랭킹
     <td><a href="/apt/서울특별시광진구자양동">서울특별시광진구 자양동</a></td>
     <td style="font-weight: bold;"><a href="/apt/서울특별시광진구자양동우성3">우성3</a></td>
     <td>1797</td>
-  </tr>
-
-  <tr>
-    <td><a href="/apt/서울특별시마포구도화동">서울특별시마포구 도화동</a></td>
-    <td style="font-weight: bold;"><a href="/apt/서울특별시마포구도화동마포동원베네스트">마포동원베네스트</a></td>
-    <td>1790</td>
-  </tr>
-
-  <tr>
-    <td><a href="/apt/서울특별시동작구흑석동">서울특별시동작구 흑석동</a></td>
-    <td style="font-weight: bold;"><a href="/apt/서울특별시동작구흑석동흑석한강센트레빌Ⅱ">흑석한강센트레빌Ⅱ</a></td>
-    <td>1789</td>
   </tr>
 
 </table>
