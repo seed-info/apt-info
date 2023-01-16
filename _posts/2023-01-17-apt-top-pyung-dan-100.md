@@ -114,6 +114,14 @@ permalink: /analysis/아파트매매평단가탑100랭킹
   </tr>
 
   <tr>
+    <td><a href="/apt/서울특별시서초구반포동">서울특별시서초구 반포동</a></td>
+    <td style="font-weight: bold;"><a href="/apt/서울특별시서초구반포동에이아이디차관주택">에이아이디차관주택</a></td>
+    <td>72.51</td>
+    <td>254,000</td>
+    <td>3503</td>
+  </tr>
+
+  <tr>
     <td><a href="/apt/서울특별시강남구삼성동">서울특별시강남구 삼성동</a></td>
     <td style="font-weight: bold;"><a href="/apt/서울특별시강남구삼성동삼성동센트럴아이파크">삼성동센트럴아이파크</a></td>
     <td>59.96</td>
@@ -198,6 +206,14 @@ permalink: /analysis/아파트매매평단가탑100랭킹
     <td style="font-weight: bold;"><a href="/apt/서울특별시강남구개포동디에이치아너힐즈">디에이치아너힐즈</a></td>
     <td>84.3558</td>
     <td>250,000</td>
+    <td>2964</td>
+  </tr>
+
+  <tr>
+    <td><a href="/apt/서울특별시송파구잠실동">서울특별시송파구 잠실동</a></td>
+    <td style="font-weight: bold;"><a href="/apt/서울특별시송파구잠실동주공아파트5단지">주공아파트 5단지</a></td>
+    <td>82.51</td>
+    <td>244,600</td>
     <td>2964</td>
   </tr>
 
@@ -799,22 +815,6 @@ permalink: /analysis/아파트매매평단가탑100랭킹
     <td>124.22</td>
     <td>295,000</td>
     <td>2375</td>
-  </tr>
-
-  <tr>
-    <td><a href="/apt/서울특별시강남구대치동">서울특별시강남구 대치동</a></td>
-    <td style="font-weight: bold;"><a href="/apt/서울특별시강남구대치동은마">은마</a></td>
-    <td>76.79</td>
-    <td>182,000</td>
-    <td>2370</td>
-  </tr>
-
-  <tr>
-    <td><a href="/apt/서울특별시용산구한남동">서울특별시용산구 한남동</a></td>
-    <td style="font-weight: bold;"><a href="/apt/서울특별시용산구한남동장미1">장미1</a></td>
-    <td>74.38</td>
-    <td>176,000</td>
-    <td>2366</td>
   </tr>
 
 </table>
