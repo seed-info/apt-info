@@ -30,7 +30,7 @@ permalink: /analysis/아파트별매매평단가탑100랭킹
   <tr>
     <td><a href="/apt/서울특별시서초구반포동">서울특별시서초구 반포동</a></td>
     <td style="font-weight: bold;"><a href="/apt/서울특별시서초구반포동래미안퍼스티지">래미안퍼스티지</a></td>
-    <td>4185</td>
+    <td>4051</td>
   </tr>
 
   <tr>
@@ -64,15 +64,15 @@ permalink: /analysis/아파트별매매평단가탑100랭킹
   </tr>
 
   <tr>
-    <td><a href="/apt/서울특별시강남구압구정동">서울특별시강남구 압구정동</a></td>
-    <td style="font-weight: bold;"><a href="/apt/서울특별시강남구압구정동한양1차(영동한양)">한양1차(영동한양)</a></td>
-    <td>3421</td>
-  </tr>
-
-  <tr>
     <td><a href="/apt/서울특별시강남구역삼동">서울특별시강남구 역삼동</a></td>
     <td style="font-weight: bold;"><a href="/apt/서울특별시강남구역삼동강남센트럴아이파크">강남센트럴아이파크</a></td>
     <td>3412</td>
+  </tr>
+
+  <tr>
+    <td><a href="/apt/서울특별시강남구압구정동">서울특별시강남구 압구정동</a></td>
+    <td style="font-weight: bold;"><a href="/apt/서울특별시강남구압구정동한양1차(영동한양)">한양1차(영동한양)</a></td>
+    <td>3318</td>
   </tr>
 
   <tr>
@@ -126,7 +126,7 @@ permalink: /analysis/아파트별매매평단가탑100랭킹
   <tr>
     <td><a href="/apt/서울특별시송파구잠실동">서울특별시송파구 잠실동</a></td>
     <td style="font-weight: bold;"><a href="/apt/서울특별시송파구잠실동주공아파트5단지">주공아파트 5단지</a></td>
-    <td>2775</td>
+    <td>2771</td>
   </tr>
 
   <tr>
@@ -222,13 +222,13 @@ permalink: /analysis/아파트별매매평단가탑100랭킹
   <tr>
     <td><a href="/apt/서울특별시송파구잠실동">서울특별시송파구 잠실동</a></td>
     <td style="font-weight: bold;"><a href="/apt/서울특별시송파구잠실동잠실엘스">잠실엘스</a></td>
-    <td>2406</td>
+    <td>2412</td>
   </tr>
 
   <tr>
     <td><a href="/apt/서울특별시송파구잠실동">서울특별시송파구 잠실동</a></td>
     <td style="font-weight: bold;"><a href="/apt/서울특별시송파구잠실동리센츠">리센츠</a></td>
-    <td>2395</td>
+    <td>2390</td>
   </tr>
 
   <tr>
@@ -342,7 +342,7 @@ permalink: /analysis/아파트별매매평단가탑100랭킹
   <tr>
     <td><a href="/apt/서울특별시송파구가락동">서울특별시송파구 가락동</a></td>
     <td style="font-weight: bold;"><a href="/apt/서울특별시송파구가락동헬리오시티">헬리오시티</a></td>
-    <td>2095</td>
+    <td>2081</td>
   </tr>
 
   <tr>
@@ -396,6 +396,12 @@ permalink: /analysis/아파트별매매평단가탑100랭킹
   <tr>
     <td><a href="/apt/서울특별시성동구금호동1가">서울특별시성동구 금호동1가</a></td>
     <td style="font-weight: bold;"><a href="/apt/서울특별시성동구금호동1가이편한세상금호파크힐스">이편한세상금호파크힐스</a></td>
+    <td>2001</td>
+  </tr>
+
+  <tr>
+    <td><a href="/apt/서울특별시마포구공덕동">서울특별시마포구 공덕동</a></td>
+    <td style="font-weight: bold;"><a href="/apt/서울특별시마포구공덕동공덕SK리더스뷰">공덕SK리더스뷰</a></td>
     <td>2001</td>
   </tr>
 
@@ -502,6 +508,12 @@ permalink: /analysis/아파트별매매평단가탑100랭킹
   </tr>
 
   <tr>
+    <td><a href="/apt/서울특별시용산구원효로1가">서울특별시용산구 원효로1가</a></td>
+    <td style="font-weight: bold;"><a href="/apt/서울특별시용산구원효로1가용산더프라임">용산더프라임</a></td>
+    <td>1795</td>
+  </tr>
+
+  <tr>
     <td><a href="/apt/서울특별시서초구방배동">서울특별시서초구 방배동</a></td>
     <td style="font-weight: bold;"><a href="/apt/서울특별시서초구방배동서희융창">서희융창</a></td>
     <td>1794</td>
@@ -601,18 +613,6 @@ permalink: /analysis/아파트별매매평단가탑100랭킹
     <td><a href="/apt/서울특별시마포구성산동">서울특별시마포구 성산동</a></td>
     <td style="font-weight: bold;"><a href="/apt/서울특별시마포구성산동성산시영(선경)">성산시영(선경)</a></td>
     <td>1738</td>
-  </tr>
-
-  <tr>
-    <td><a href="/apt/서울특별시마포구대흥동">서울특별시마포구 대흥동</a></td>
-    <td style="font-weight: bold;"><a href="/apt/서울특별시마포구대흥동신촌그랑자이(1단지)">신촌그랑자이(1단지)</a></td>
-    <td>1736</td>
-  </tr>
-
-  <tr>
-    <td><a href="/apt/서울특별시마포구공덕동">서울특별시마포구 공덕동</a></td>
-    <td style="font-weight: bold;"><a href="/apt/서울특별시마포구공덕동공덕3삼성래미안">공덕3삼성래미안</a></td>
-    <td>1734</td>
   </tr>
 
 </table>
