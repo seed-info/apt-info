@@ -168,19 +168,19 @@ permalink: /analysis/오늘전월세거래량상위50지역
   <tr>
     <td>26위</td>
     <td>43</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도안양시동안구">경기도안양시동안구 </a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도고양시덕양구">경기도고양시덕양구 </a></td>
   </tr>
 
   <tr>
     <td>27위</td>
-    <td>41</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/부산광역시강서구">부산광역시강서구 </a></td>
+    <td>43</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도안양시동안구">경기도안양시동안구 </a></td>
   </tr>
 
   <tr>
     <td>28위</td>
-    <td>39</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도고양시덕양구">경기도고양시덕양구 </a></td>
+    <td>41</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/부산광역시강서구">부산광역시강서구 </a></td>
   </tr>
 
   <tr>

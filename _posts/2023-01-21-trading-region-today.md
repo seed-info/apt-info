@@ -120,31 +120,31 @@ permalink: /analysis/오늘매매거래량상위50지역
   <tr>
     <td>18위</td>
     <td>9</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도수원시영통구">경기도수원시영통구 </a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도고양시덕양구">경기도고양시덕양구 </a></td>
   </tr>
 
   <tr>
     <td>19위</td>
     <td>9</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/대구광역시달서구">대구광역시달서구 </a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도수원시영통구">경기도수원시영통구 </a></td>
   </tr>
 
   <tr>
     <td>20위</td>
     <td>9</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시동대문구">서울특별시동대문구 </a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/대구광역시달서구">대구광역시달서구 </a></td>
   </tr>
 
   <tr>
     <td>21위</td>
-    <td>8</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/충청남도서산시">충청남도서산시 </a></td>
+    <td>9</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시동대문구">서울특별시동대문구 </a></td>
   </tr>
 
   <tr>
     <td>22위</td>
     <td>8</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도고양시덕양구">경기도고양시덕양구 </a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/충청남도서산시">충청남도서산시 </a></td>
   </tr>
 
   <tr>

@@ -143,14 +143,14 @@ permalink: /analysis/지난일주일전월세거래량상위50지역
 
   <tr>
     <td>22위</td>
-    <td>275</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시양천구">서울특별시양천구 </a></td>
+    <td>276</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도고양시덕양구">경기도고양시덕양구 </a></td>
   </tr>
 
   <tr>
     <td>23위</td>
-    <td>272</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도고양시덕양구">경기도고양시덕양구 </a></td>
+    <td>275</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시양천구">서울특별시양천구 </a></td>
   </tr>
 
   <tr>

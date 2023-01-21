@@ -299,71 +299,71 @@ permalink: /analysis/오늘매매거래량상위50아파트
   <tr>
     <td>41위</td>
     <td>2</td>
-    <td><a href="/apt/경기도시흥시은행동">경기도시흥시 은행동</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도시흥시은행동시흥은계호반써밋플레이스">시흥은계호반써밋플레이스</a></td>
+    <td><a href="/apt/경기도고양시덕양구신원동">경기도고양시덕양구 신원동</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도고양시덕양구신원동신원마을고양삼송아이파크">신원마을고양삼송아이파크</a></td>
   </tr>
 
   <tr>
     <td>42위</td>
     <td>2</td>
     <td><a href="/apt/경기도시흥시은행동">경기도시흥시 은행동</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도시흥시은행동시흥은계한양수자인더클래스">시흥은계한양수자인더클래스</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도시흥시은행동시흥은계호반써밋플레이스">시흥은계호반써밋플레이스</a></td>
   </tr>
 
   <tr>
     <td>43위</td>
+    <td>2</td>
+    <td><a href="/apt/경기도시흥시은행동">경기도시흥시 은행동</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도시흥시은행동시흥은계한양수자인더클래스">시흥은계한양수자인더클래스</a></td>
+  </tr>
+
+  <tr>
+    <td>44위</td>
     <td>2</td>
     <td><a href="/apt/인천광역시동구송현동">인천광역시동구 송현동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/인천광역시동구송현동송현주공솔빛마을(154)">송현주공솔빛마을(154)</a></td>
   </tr>
 
   <tr>
-    <td>44위</td>
+    <td>45위</td>
     <td>2</td>
     <td><a href="/apt/울산광역시남구선암동">울산광역시남구 선암동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/울산광역시남구선암동선암에코하이츠">선암에코하이츠</a></td>
   </tr>
 
   <tr>
-    <td>45위</td>
+    <td>46위</td>
     <td>2</td>
     <td><a href="/apt/경상북도경주시용강동">경상북도경주시 용강동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/경상북도경주시용강동서한타운">서한타운</a></td>
   </tr>
 
   <tr>
-    <td>46위</td>
+    <td>47위</td>
     <td>2</td>
     <td><a href="/apt/경기도용인시기흥구신갈동">경기도용인시기흥구 신갈동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도용인시기흥구신갈동새릉골풍림">새릉골풍림</a></td>
   </tr>
 
   <tr>
-    <td>47위</td>
+    <td>48위</td>
     <td>2</td>
     <td><a href="/apt/경기도시흥시조남동">경기도시흥시 조남동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도시흥시조남동목감퍼스트리움">목감퍼스트리움</a></td>
   </tr>
 
   <tr>
-    <td>48위</td>
+    <td>49위</td>
     <td>2</td>
     <td><a href="/apt/충청남도서산시수석동">충청남도서산시 수석동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/충청남도서산시수석동매화">매화</a></td>
   </tr>
 
   <tr>
-    <td>49위</td>
+    <td>50위</td>
     <td>2</td>
     <td><a href="/apt/대전광역시서구탄방동">대전광역시서구 탄방동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/대전광역시서구탄방동리베라스위트빌Ⅱ">리베라스위트빌Ⅱ</a></td>
-  </tr>
-
-  <tr>
-    <td>50위</td>
-    <td>2</td>
-    <td><a href="/apt/경기도하남시선동">경기도하남시 선동</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도하남시선동리버스위트칸타빌">리버스위트칸타빌</a></td>
   </tr>
 
 </table>
