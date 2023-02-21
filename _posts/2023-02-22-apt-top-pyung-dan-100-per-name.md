@@ -88,6 +88,12 @@ permalink: /analysis/아파트별매매평단가탑100랭킹
   </tr>
 
   <tr>
+    <td><a href="/apt/서울특별시강남구압구정동">서울특별시강남구 압구정동</a></td>
+    <td style="font-weight: bold;"><a href="/apt/서울특별시강남구압구정동현대7차(73~77,82,85동)">현대7차(73~77,82,85동)</a></td>
+    <td>3171</td>
+  </tr>
+
+  <tr>
     <td><a href="/apt/서울특별시서초구반포동">서울특별시서초구 반포동</a></td>
     <td style="font-weight: bold;"><a href="/apt/서울특별시서초구반포동반포써밋">반포써밋</a></td>
     <td>3136</td>
@@ -142,15 +148,15 @@ permalink: /analysis/아파트별매매평단가탑100랭킹
   </tr>
 
   <tr>
-    <td><a href="/apt/서울특별시강남구삼성동">서울특별시강남구 삼성동</a></td>
-    <td style="font-weight: bold;"><a href="/apt/서울특별시강남구삼성동현대힐스테이트2단지">현대힐스테이트2단지</a></td>
-    <td>2790</td>
+    <td><a href="/apt/서울특별시강남구개포동">서울특별시강남구 개포동</a></td>
+    <td style="font-weight: bold;"><a href="/apt/서울특별시강남구개포동래미안블레스티지">래미안블레스티지</a></td>
+    <td>2804</td>
   </tr>
 
   <tr>
-    <td><a href="/apt/서울특별시강남구개포동">서울특별시강남구 개포동</a></td>
-    <td style="font-weight: bold;"><a href="/apt/서울특별시강남구개포동래미안블레스티지">래미안블레스티지</a></td>
-    <td>2777</td>
+    <td><a href="/apt/서울특별시강남구삼성동">서울특별시강남구 삼성동</a></td>
+    <td style="font-weight: bold;"><a href="/apt/서울특별시강남구삼성동현대힐스테이트2단지">현대힐스테이트2단지</a></td>
+    <td>2790</td>
   </tr>
 
   <tr>
@@ -168,7 +174,13 @@ permalink: /analysis/아파트별매매평단가탑100랭킹
   <tr>
     <td><a href="/apt/서울특별시강남구도곡동">서울특별시강남구 도곡동</a></td>
     <td style="font-weight: bold;"><a href="/apt/서울특별시강남구도곡동도곡렉슬">도곡렉슬</a></td>
-    <td>2714</td>
+    <td>2709</td>
+  </tr>
+
+  <tr>
+    <td><a href="/apt/서울특별시강남구압구정동">서울특별시강남구 압구정동</a></td>
+    <td style="font-weight: bold;"><a href="/apt/서울특별시강남구압구정동현대1차(12,13,21,22,31,32,33동)">현대1차(12,13,21,22,31,32,33동)</a></td>
+    <td>2700</td>
   </tr>
 
   <tr>
@@ -214,15 +226,15 @@ permalink: /analysis/아파트별매매평단가탑100랭킹
   </tr>
 
   <tr>
-    <td><a href="/apt/서울특별시송파구잠실동">서울특별시송파구 잠실동</a></td>
-    <td style="font-weight: bold;"><a href="/apt/서울특별시송파구잠실동잠실엘스">잠실엘스</a></td>
-    <td>2516</td>
-  </tr>
-
-  <tr>
     <td><a href="/apt/서울특별시강남구청담동">서울특별시강남구 청담동</a></td>
     <td style="font-weight: bold;"><a href="/apt/서울특별시강남구청담동휴먼스타빌">휴먼스타빌</a></td>
     <td>2507</td>
+  </tr>
+
+  <tr>
+    <td><a href="/apt/서울특별시송파구잠실동">서울특별시송파구 잠실동</a></td>
+    <td style="font-weight: bold;"><a href="/apt/서울특별시송파구잠실동잠실엘스">잠실엘스</a></td>
+    <td>2504</td>
   </tr>
 
   <tr>
@@ -239,26 +251,32 @@ permalink: /analysis/아파트별매매평단가탑100랭킹
 
   <tr>
     <td><a href="/apt/서울특별시강남구대치동">서울특별시강남구 대치동</a></td>
+    <td style="font-weight: bold;"><a href="/apt/서울특별시강남구대치동은마">은마</a></td>
+    <td>2474</td>
+  </tr>
+
+  <tr>
+    <td><a href="/apt/서울특별시강남구대치동">서울특별시강남구 대치동</a></td>
     <td style="font-weight: bold;"><a href="/apt/서울특별시강남구대치동대치아이파크">대치아이파크</a></td>
     <td>2470</td>
   </tr>
 
   <tr>
-    <td><a href="/apt/서울특별시강남구대치동">서울특별시강남구 대치동</a></td>
-    <td style="font-weight: bold;"><a href="/apt/서울특별시강남구대치동은마">은마</a></td>
-    <td>2462</td>
-  </tr>
-
-  <tr>
     <td><a href="/apt/서울특별시강남구개포동">서울특별시강남구 개포동</a></td>
     <td style="font-weight: bold;"><a href="/apt/서울특별시강남구개포동성원대치2단지아파트">성원대치2단지아파트</a></td>
-    <td>2432</td>
+    <td>2449</td>
   </tr>
 
   <tr>
     <td><a href="/apt/서울특별시서초구잠원동">서울특별시서초구 잠원동</a></td>
     <td style="font-weight: bold;"><a href="/apt/서울특별시서초구잠원동신반포4">신반포4</a></td>
     <td>2417</td>
+  </tr>
+
+  <tr>
+    <td><a href="/apt/서울특별시강남구역삼동">서울특별시강남구 역삼동</a></td>
+    <td style="font-weight: bold;"><a href="/apt/서울특별시강남구역삼동개나리래미안">개나리래미안</a></td>
+    <td>2415</td>
   </tr>
 
   <tr>
@@ -280,12 +298,6 @@ permalink: /analysis/아파트별매매평단가탑100랭킹
   </tr>
 
   <tr>
-    <td><a href="/apt/서울특별시용산구한남동">서울특별시용산구 한남동</a></td>
-    <td style="font-weight: bold;"><a href="/apt/서울특별시용산구한남동장미1">장미1</a></td>
-    <td>2363</td>
-  </tr>
-
-  <tr>
     <td><a href="/apt/서울특별시양천구목동">서울특별시양천구 목동</a></td>
     <td style="font-weight: bold;"><a href="/apt/서울특별시양천구목동목동신시가지6">목동신시가지6</a></td>
     <td>2357</td>
@@ -294,7 +306,7 @@ permalink: /analysis/아파트별매매평단가탑100랭킹
   <tr>
     <td><a href="/apt/서울특별시송파구잠실동">서울특별시송파구 잠실동</a></td>
     <td style="font-weight: bold;"><a href="/apt/서울특별시송파구잠실동리센츠">리센츠</a></td>
-    <td>2357</td>
+    <td>2356</td>
   </tr>
 
   <tr>
@@ -306,7 +318,13 @@ permalink: /analysis/아파트별매매평단가탑100랭킹
   <tr>
     <td><a href="/apt/서울특별시서초구서초동">서울특별시서초구 서초동</a></td>
     <td style="font-weight: bold;"><a href="/apt/서울특별시서초구서초동롯데캐슬클래식">롯데캐슬클래식</a></td>
-    <td>2339</td>
+    <td>2304</td>
+  </tr>
+
+  <tr>
+    <td><a href="/apt/서울특별시용산구한남동">서울특별시용산구 한남동</a></td>
+    <td style="font-weight: bold;"><a href="/apt/서울특별시용산구한남동장미1">장미1</a></td>
+    <td>2298</td>
   </tr>
 
   <tr>
@@ -330,13 +348,7 @@ permalink: /analysis/아파트별매매평단가탑100랭킹
   <tr>
     <td><a href="/apt/서울특별시양천구목동">서울특별시양천구 목동</a></td>
     <td style="font-weight: bold;"><a href="/apt/서울특별시양천구목동목동신시가지7">목동신시가지7</a></td>
-    <td>2239</td>
-  </tr>
-
-  <tr>
-    <td><a href="/apt/서울특별시강남구역삼동">서울특별시강남구 역삼동</a></td>
-    <td style="font-weight: bold;"><a href="/apt/서울특별시강남구역삼동개나리래미안">개나리래미안</a></td>
-    <td>2205</td>
+    <td>2222</td>
   </tr>
 
   <tr>
@@ -352,9 +364,21 @@ permalink: /analysis/아파트별매매평단가탑100랭킹
   </tr>
 
   <tr>
+    <td><a href="/apt/서울특별시용산구이촌동">서울특별시용산구 이촌동</a></td>
+    <td style="font-weight: bold;"><a href="/apt/서울특별시용산구이촌동이촌코오롱(A)">이촌코오롱(A)</a></td>
+    <td>2190</td>
+  </tr>
+
+  <tr>
     <td><a href="/apt/서울특별시송파구잠실동">서울특별시송파구 잠실동</a></td>
     <td style="font-weight: bold;"><a href="/apt/서울특별시송파구잠실동트리지움">트리지움</a></td>
     <td>2182</td>
+  </tr>
+
+  <tr>
+    <td><a href="/apt/서울특별시송파구신천동">서울특별시송파구 신천동</a></td>
+    <td style="font-weight: bold;"><a href="/apt/서울특별시송파구신천동파크리오">파크리오</a></td>
+    <td>2179</td>
   </tr>
 
   <tr>
@@ -370,15 +394,15 @@ permalink: /analysis/아파트별매매평단가탑100랭킹
   </tr>
 
   <tr>
-    <td><a href="/apt/서울특별시용산구원효로4가">서울특별시용산구 원효로4가</a></td>
-    <td style="font-weight: bold;"><a href="/apt/서울특별시용산구원효로4가강변삼성스위트">강변삼성스위트</a></td>
-    <td>2169</td>
+    <td><a href="/apt/서울특별시송파구가락동">서울특별시송파구 가락동</a></td>
+    <td style="font-weight: bold;"><a href="/apt/서울특별시송파구가락동헬리오시티">헬리오시티</a></td>
+    <td>2175</td>
   </tr>
 
   <tr>
-    <td><a href="/apt/서울특별시송파구신천동">서울특별시송파구 신천동</a></td>
-    <td style="font-weight: bold;"><a href="/apt/서울특별시송파구신천동파크리오">파크리오</a></td>
-    <td>2168</td>
+    <td><a href="/apt/서울특별시용산구원효로4가">서울특별시용산구 원효로4가</a></td>
+    <td style="font-weight: bold;"><a href="/apt/서울특별시용산구원효로4가강변삼성스위트">강변삼성스위트</a></td>
+    <td>2169</td>
   </tr>
 
   <tr>
@@ -394,12 +418,6 @@ permalink: /analysis/아파트별매매평단가탑100랭킹
   </tr>
 
   <tr>
-    <td><a href="/apt/서울특별시송파구가락동">서울특별시송파구 가락동</a></td>
-    <td style="font-weight: bold;"><a href="/apt/서울특별시송파구가락동헬리오시티">헬리오시티</a></td>
-    <td>2137</td>
-  </tr>
-
-  <tr>
     <td><a href="/apt/서울특별시강남구도곡동">서울특별시강남구 도곡동</a></td>
     <td style="font-weight: bold;"><a href="/apt/서울특별시강남구도곡동우성4">우성4</a></td>
     <td>2095</td>
@@ -412,9 +430,9 @@ permalink: /analysis/아파트별매매평단가탑100랭킹
   </tr>
 
   <tr>
-    <td><a href="/apt/서울특별시마포구신수동">서울특별시마포구 신수동</a></td>
-    <td style="font-weight: bold;"><a href="/apt/서울특별시마포구신수동신촌숲아이파크">신촌숲아이파크</a></td>
-    <td>2042</td>
+    <td><a href="/apt/서울특별시성동구옥수동">서울특별시성동구 옥수동</a></td>
+    <td style="font-weight: bold;"><a href="/apt/서울특별시성동구옥수동옥수파크힐스101동~116동">옥수파크힐스101동~116동</a></td>
+    <td>2054</td>
   </tr>
 
   <tr>
@@ -424,15 +442,15 @@ permalink: /analysis/아파트별매매평단가탑100랭킹
   </tr>
 
   <tr>
-    <td><a href="/apt/서울특별시성동구옥수동">서울특별시성동구 옥수동</a></td>
-    <td style="font-weight: bold;"><a href="/apt/서울특별시성동구옥수동옥수파크힐스101동~116동">옥수파크힐스101동~116동</a></td>
-    <td>2032</td>
-  </tr>
-
-  <tr>
     <td><a href="/apt/서울특별시양천구목동">서울특별시양천구 목동</a></td>
     <td style="font-weight: bold;"><a href="/apt/서울특별시양천구목동목동신시가지5">목동신시가지5</a></td>
     <td>2027</td>
+  </tr>
+
+  <tr>
+    <td><a href="/apt/경기도과천시원문동">경기도과천시 원문동</a></td>
+    <td style="font-weight: bold;"><a href="/apt/경기도과천시원문동과천위버필드">과천위버필드</a></td>
+    <td>2021</td>
   </tr>
 
   <tr>
@@ -442,15 +460,15 @@ permalink: /analysis/아파트별매매평단가탑100랭킹
   </tr>
 
   <tr>
-    <td><a href="/apt/경기도과천시중앙동">경기도과천시 중앙동</a></td>
-    <td style="font-weight: bold;"><a href="/apt/경기도과천시중앙동과천푸르지오써밋">과천푸르지오써밋</a></td>
-    <td>2005</td>
+    <td><a href="/apt/서울특별시마포구신수동">서울특별시마포구 신수동</a></td>
+    <td style="font-weight: bold;"><a href="/apt/서울특별시마포구신수동신촌숲아이파크">신촌숲아이파크</a></td>
+    <td>2009</td>
   </tr>
 
   <tr>
-    <td><a href="/apt/경기도과천시원문동">경기도과천시 원문동</a></td>
-    <td style="font-weight: bold;"><a href="/apt/경기도과천시원문동과천위버필드">과천위버필드</a></td>
-    <td>2002</td>
+    <td><a href="/apt/경기도과천시중앙동">경기도과천시 중앙동</a></td>
+    <td style="font-weight: bold;"><a href="/apt/경기도과천시중앙동과천푸르지오써밋">과천푸르지오써밋</a></td>
+    <td>2005</td>
   </tr>
 
   <tr>
@@ -463,6 +481,12 @@ permalink: /analysis/아파트별매매평단가탑100랭킹
     <td><a href="/apt/서울특별시강남구일원동">서울특별시강남구 일원동</a></td>
     <td style="font-weight: bold;"><a href="/apt/서울특별시강남구일원동푸른마을아파트101동~111동">푸른마을아파트101동~111동</a></td>
     <td>1997</td>
+  </tr>
+
+  <tr>
+    <td><a href="/apt/서울특별시종로구홍파동">서울특별시종로구 홍파동</a></td>
+    <td style="font-weight: bold;"><a href="/apt/서울특별시종로구홍파동경희궁자이(2단지)">경희궁자이(2단지)</a></td>
+    <td>1992</td>
   </tr>
 
   <tr>
@@ -496,6 +520,12 @@ permalink: /analysis/아파트별매매평단가탑100랭킹
   </tr>
 
   <tr>
+    <td><a href="/apt/서울특별시송파구방이동">서울특별시송파구 방이동</a></td>
+    <td style="font-weight: bold;"><a href="/apt/서울특별시송파구방이동올림픽선수기자촌1단지">올림픽선수기자촌1단지</a></td>
+    <td>1945</td>
+  </tr>
+
+  <tr>
     <td><a href="/apt/서울특별시강남구청담동">서울특별시강남구 청담동</a></td>
     <td style="font-weight: bold;"><a href="/apt/서울특별시강남구청담동청담4차이-편한세상">청담4차이-편한세상</a></td>
     <td>1943</td>
@@ -508,9 +538,9 @@ permalink: /analysis/아파트별매매평단가탑100랭킹
   </tr>
 
   <tr>
-    <td><a href="/apt/서울특별시송파구방이동">서울특별시송파구 방이동</a></td>
-    <td style="font-weight: bold;"><a href="/apt/서울특별시송파구방이동올림픽선수기자촌1단지">올림픽선수기자촌1단지</a></td>
-    <td>1923</td>
+    <td><a href="/apt/서울특별시강남구청담동">서울특별시강남구 청담동</a></td>
+    <td style="font-weight: bold;"><a href="/apt/서울특별시강남구청담동삼성청담공원아파트">삼성청담공원아파트</a></td>
+    <td>1931</td>
   </tr>
 
   <tr>
@@ -544,6 +574,12 @@ permalink: /analysis/아파트별매매평단가탑100랭킹
   </tr>
 
   <tr>
+    <td><a href="/apt/서울특별시동작구흑석동">서울특별시동작구 흑석동</a></td>
+    <td style="font-weight: bold;"><a href="/apt/서울특별시동작구흑석동롯데캐슬에듀포레">롯데캐슬에듀포레</a></td>
+    <td>1904</td>
+  </tr>
+
+  <tr>
     <td><a href="/apt/서울특별시송파구방이동">서울특별시송파구 방이동</a></td>
     <td style="font-weight: bold;"><a href="/apt/서울특별시송파구방이동올림픽선수기자촌3단지">올림픽선수기자촌3단지</a></td>
     <td>1897</td>
@@ -568,51 +604,15 @@ permalink: /analysis/아파트별매매평단가탑100랭킹
   </tr>
 
   <tr>
-    <td><a href="/apt/서울특별시용산구이촌동">서울특별시용산구 이촌동</a></td>
-    <td style="font-weight: bold;"><a href="/apt/서울특별시용산구이촌동강촌">강촌</a></td>
-    <td>1876</td>
+    <td><a href="/apt/서울특별시서대문구북아현동">서울특별시서대문구 북아현동</a></td>
+    <td style="font-weight: bold;"><a href="/apt/서울특별시서대문구북아현동e편한세상신촌2단지">e편한세상신촌2단지</a></td>
+    <td>1886</td>
   </tr>
 
   <tr>
-    <td><a href="/apt/경기도성남시분당구삼평동">경기도성남시분당구 삼평동</a></td>
-    <td style="font-weight: bold;"><a href="/apt/경기도성남시분당구삼평동봇들마을8단지(주공)">봇들마을8단지(주공)</a></td>
-    <td>1876</td>
-  </tr>
-
-  <tr>
-    <td><a href="/apt/서울특별시서초구서초동">서울특별시서초구 서초동</a></td>
-    <td style="font-weight: bold;"><a href="/apt/서울특별시서초구서초동유원서초">유원서초</a></td>
-    <td>1875</td>
-  </tr>
-
-  <tr>
-    <td><a href="/apt/서울특별시서초구잠원동">서울특별시서초구 잠원동</a></td>
-    <td style="font-weight: bold;"><a href="/apt/서울특별시서초구잠원동롯데캐슬갤럭시">롯데캐슬갤럭시</a></td>
-    <td>1874</td>
-  </tr>
-
-  <tr>
-    <td><a href="/apt/경기도성남시분당구백현동">경기도성남시분당구 백현동</a></td>
-    <td style="font-weight: bold;"><a href="/apt/경기도성남시분당구백현동백현마을5단지(주공)">백현마을5단지(주공)</a></td>
-    <td>1871</td>
-  </tr>
-
-  <tr>
-    <td><a href="/apt/경기도과천시별양동">경기도과천시 별양동</a></td>
-    <td style="font-weight: bold;"><a href="/apt/경기도과천시별양동과천자이">과천자이</a></td>
-    <td>1863</td>
-  </tr>
-
-  <tr>
-    <td><a href="/apt/서울특별시성동구금호동2가">서울특별시성동구 금호동2가</a></td>
-    <td style="font-weight: bold;"><a href="/apt/서울특별시성동구금호동2가신금호파크자이">신금호파크자이</a></td>
-    <td>1859</td>
-  </tr>
-
-  <tr>
-    <td><a href="/apt/경기도과천시부림동">경기도과천시 부림동</a></td>
-    <td style="font-weight: bold;"><a href="/apt/경기도과천시부림동센트럴파크푸르지오써밋">센트럴파크푸르지오써밋</a></td>
-    <td>1858</td>
+    <td><a href="/apt/서울특별시강남구도곡동">서울특별시강남구 도곡동</a></td>
+    <td style="font-weight: bold;"><a href="/apt/서울특별시강남구도곡동도곡1차아이파크">도곡1차아이파크</a></td>
+    <td>1881</td>
   </tr>
 
 </table>
