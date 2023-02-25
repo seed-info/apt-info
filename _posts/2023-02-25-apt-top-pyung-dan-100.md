@@ -130,6 +130,14 @@ permalink: /analysis/아파트매매평단가탑100랭킹
   </tr>
 
   <tr>
+    <td><a href="/apt/서울특별시강남구청담동">서울특별시강남구 청담동</a></td>
+    <td style="font-weight: bold;"><a href="/apt/서울특별시강남구청담동청담자이">청담자이</a></td>
+    <td>89.115</td>
+    <td>330,000</td>
+    <td>3703</td>
+  </tr>
+
+  <tr>
     <td><a href="/apt/서울특별시서초구반포동">서울특별시서초구 반포동</a></td>
     <td style="font-weight: bold;"><a href="/apt/서울특별시서초구반포동에이아이디차관주택">에이아이디차관주택</a></td>
     <td>72.51</td>
@@ -167,6 +175,14 @@ permalink: /analysis/아파트매매평단가탑100랭킹
     <td>84.85</td>
     <td>300,000</td>
     <td>3536</td>
+  </tr>
+
+  <tr>
+    <td><a href="/apt/서울특별시서초구반포동">서울특별시서초구 반포동</a></td>
+    <td style="font-weight: bold;"><a href="/apt/서울특별시서초구반포동더샵반포리버파크">더샵반포리버파크</a></td>
+    <td>49.9281</td>
+    <td>175,600</td>
+    <td>3517</td>
   </tr>
 
   <tr>
@@ -386,6 +402,14 @@ permalink: /analysis/아파트매매평단가탑100랭킹
   </tr>
 
   <tr>
+    <td><a href="/apt/서울특별시강남구개포동">서울특별시강남구 개포동</a></td>
+    <td style="font-weight: bold;"><a href="/apt/서울특별시강남구개포동래미안블레스티지">래미안블레스티지</a></td>
+    <td>59.967</td>
+    <td>174,000</td>
+    <td>2902</td>
+  </tr>
+
+  <tr>
     <td><a href="/apt/서울특별시강남구대치동">서울특별시강남구 대치동</a></td>
     <td style="font-weight: bold;"><a href="/apt/서울특별시강남구대치동개포우성1">개포우성1</a></td>
     <td>84.81</td>
@@ -447,6 +471,14 @@ permalink: /analysis/아파트매매평단가탑100랭킹
     <td>63.83</td>
     <td>182,000</td>
     <td>2851</td>
+  </tr>
+
+  <tr>
+    <td><a href="/apt/서울특별시강남구개포동">서울특별시강남구 개포동</a></td>
+    <td style="font-weight: bold;"><a href="/apt/서울특별시강남구개포동래미안블레스티지">래미안블레스티지</a></td>
+    <td>84.943</td>
+    <td>242,000</td>
+    <td>2849</td>
   </tr>
 
   <tr>
@@ -783,38 +815,6 @@ permalink: /analysis/아파트매매평단가탑100랭킹
     <td>59.9772</td>
     <td>160,000</td>
     <td>2668</td>
-  </tr>
-
-  <tr>
-    <td><a href="/apt/서울특별시강남구일원동">서울특별시강남구 일원동</a></td>
-    <td style="font-weight: bold;"><a href="/apt/서울특별시강남구일원동래미안개포루체하임">래미안 개포 루체하임</a></td>
-    <td>71.65</td>
-    <td>190,000</td>
-    <td>2652</td>
-  </tr>
-
-  <tr>
-    <td><a href="/apt/서울특별시송파구가락동">서울특별시송파구 가락동</a></td>
-    <td style="font-weight: bold;"><a href="/apt/서울특별시송파구가락동헬리오시티">헬리오시티</a></td>
-    <td>59.96</td>
-    <td>159,000</td>
-    <td>2652</td>
-  </tr>
-
-  <tr>
-    <td><a href="/apt/서울특별시강남구개포동">서울특별시강남구 개포동</a></td>
-    <td style="font-weight: bold;"><a href="/apt/서울특별시강남구개포동개포래미안포레스트">개포래미안포레스트</a></td>
-    <td>59.92</td>
-    <td>158,000</td>
-    <td>2637</td>
-  </tr>
-
-  <tr>
-    <td><a href="/apt/서울특별시송파구잠실동">서울특별시송파구 잠실동</a></td>
-    <td style="font-weight: bold;"><a href="/apt/서울특별시송파구잠실동주공아파트5단지">주공아파트 5단지</a></td>
-    <td>82.61</td>
-    <td>217,500</td>
-    <td>2633</td>
   </tr>
 
 </table>

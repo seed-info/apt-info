@@ -18,352 +18,352 @@ permalink: /analysis/지난일주일매매거래량상위50아파트
 
   <tr>
     <td>1위</td>
-    <td>54</td>
+    <td>62</td>
     <td><a href="/apt/서울특별시관악구신림동">서울특별시관악구 신림동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시관악구신림동현대">현대</a></td>
   </tr>
 
   <tr>
     <td>2위</td>
-    <td>24</td>
-    <td><a href="/apt/서울특별시강남구수서동">서울특별시강남구 수서동</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시강남구수서동삼성">삼성</a></td>
-  </tr>
-
-  <tr>
-    <td>3위</td>
-    <td>23</td>
+    <td>43</td>
     <td><a href="/apt/인천광역시계양구계산동">인천광역시계양구 계산동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/인천광역시계양구계산동주공">주공</a></td>
   </tr>
 
   <tr>
+    <td>3위</td>
+    <td>26</td>
+    <td><a href="/apt/서울특별시강남구수서동">서울특별시강남구 수서동</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시강남구수서동삼성">삼성</a></td>
+  </tr>
+
+  <tr>
     <td>4위</td>
-    <td>23</td>
+    <td>25</td>
     <td><a href="/apt/인천광역시남동구구월동">인천광역시남동구 구월동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/인천광역시남동구구월동구월힐스테이트1단지">구월힐스테이트1단지</a></td>
   </tr>
 
   <tr>
     <td>5위</td>
-    <td>20</td>
+    <td>22</td>
     <td><a href="/apt/경기도의정부시신곡동">경기도의정부시 신곡동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도의정부시신곡동성원">성원</a></td>
   </tr>
 
   <tr>
     <td>6위</td>
+    <td>20</td>
+    <td><a href="/apt/서울특별시도봉구도봉동">서울특별시도봉구 도봉동</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시도봉구도봉동한신">한신</a></td>
+  </tr>
+
+  <tr>
+    <td>7위</td>
     <td>19</td>
     <td><a href="/apt/경기도화성시목동">경기도화성시 목동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도화성시목동호반베르디움센트럴포레">호반베르디움센트럴포레</a></td>
   </tr>
 
   <tr>
-    <td>7위</td>
-    <td>14</td>
+    <td>8위</td>
+    <td>16</td>
+    <td><a href="/apt/전라남도여수시학동">전라남도여수시 학동</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/전라남도여수시학동부영1차">부영1차</a></td>
+  </tr>
+
+  <tr>
+    <td>9위</td>
+    <td>15</td>
+    <td><a href="/apt/부산광역시금정구장전동">부산광역시금정구 장전동</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/부산광역시금정구장전동래미안장전">래미안장전</a></td>
+  </tr>
+
+  <tr>
+    <td>10위</td>
+    <td>15</td>
     <td><a href="/apt/경기도오산시원동">경기도오산시 원동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도오산시원동동부">동부</a></td>
   </tr>
 
   <tr>
-    <td>8위</td>
+    <td>11위</td>
+    <td>14</td>
+    <td><a href="/apt/서울특별시송파구가락동">서울특별시송파구 가락동</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시송파구가락동헬리오시티">헬리오시티</a></td>
+  </tr>
+
+  <tr>
+    <td>12위</td>
+    <td>14</td>
+    <td><a href="/apt/부산광역시수영구남천동">부산광역시수영구 남천동</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/부산광역시수영구남천동삼익비치">삼익비치</a></td>
+  </tr>
+
+  <tr>
+    <td>13위</td>
+    <td>14</td>
+    <td><a href="/apt/서울특별시강남구수서동">서울특별시강남구 수서동</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시강남구수서동삼익">삼익</a></td>
+  </tr>
+
+  <tr>
+    <td>14위</td>
+    <td>14</td>
+    <td><a href="/apt/충청남도천안시서북구두정동">충청남도천안시서북구 두정동</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/충청남도천안시서북구두정동두정역효성해링턴플레이스">두정역효성해링턴플레이스</a></td>
+  </tr>
+
+  <tr>
+    <td>15위</td>
+    <td>13</td>
+    <td><a href="/apt/서울특별시노원구중계동">서울특별시노원구 중계동</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시노원구중계동주공2">주공2</a></td>
+  </tr>
+
+  <tr>
+    <td>16위</td>
+    <td>13</td>
+    <td><a href="/apt/충청북도청주시청원구사천동">충청북도청주시청원구 사천동</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/충청북도청주시청원구사천동신동아">신동아</a></td>
+  </tr>
+
+  <tr>
+    <td>17위</td>
+    <td>13</td>
+    <td><a href="/apt/전라북도군산시소룡동">전라북도군산시 소룡동</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/전라북도군산시소룡동동아">동아</a></td>
+  </tr>
+
+  <tr>
+    <td>18위</td>
     <td>12</td>
     <td><a href="/apt/대구광역시달서구유천동">대구광역시달서구 유천동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/대구광역시달서구유천동현대아이파크">현대아이파크</a></td>
   </tr>
 
   <tr>
-    <td>9위</td>
+    <td>19위</td>
     <td>12</td>
-    <td><a href="/apt/서울특별시노원구중계동">서울특별시노원구 중계동</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시노원구중계동주공2">주공2</a></td>
+    <td><a href="/apt/경기도성남시수정구신흥동">경기도성남시수정구 신흥동</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도성남시수정구신흥동산성역포레스티아">산성역포레스티아</a></td>
   </tr>
 
   <tr>
-    <td>10위</td>
+    <td>20위</td>
     <td>12</td>
-    <td><a href="/apt/서울특별시강남구수서동">서울특별시강남구 수서동</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시강남구수서동삼익">삼익</a></td>
+    <td><a href="/apt/인천광역시연수구송도동">인천광역시연수구 송도동</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/인천광역시연수구송도동베르디움더퍼스트">베르디움더퍼스트</a></td>
   </tr>
 
   <tr>
-    <td>11위</td>
+    <td>21위</td>
     <td>12</td>
     <td><a href="/apt/경상남도창원시마산합포구월영동">경상남도창원시마산합포구 월영동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/경상남도창원시마산합포구월영동마린애시앙부영">마린애시앙부영</a></td>
   </tr>
 
   <tr>
-    <td>12위</td>
+    <td>22위</td>
+    <td>12</td>
+    <td><a href="/apt/서울특별시도봉구도봉동">서울특별시도봉구 도봉동</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시도봉구도봉동럭키">럭키</a></td>
+  </tr>
+
+  <tr>
+    <td>23위</td>
+    <td>12</td>
+    <td><a href="/apt/서울특별시동대문구답십리동">서울특별시동대문구 답십리동</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시동대문구답십리동대림">대림</a></td>
+  </tr>
+
+  <tr>
+    <td>24위</td>
+    <td>12</td>
+    <td><a href="/apt/인천광역시연수구송도동">인천광역시연수구 송도동</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/인천광역시연수구송도동e편한세상송도">e편한세상송도</a></td>
+  </tr>
+
+  <tr>
+    <td>25위</td>
+    <td>11</td>
+    <td><a href="/apt/광주광역시남구주월동">광주광역시남구 주월동</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/광주광역시남구주월동현대2">현대2</a></td>
+  </tr>
+
+  <tr>
+    <td>26위</td>
     <td>11</td>
     <td><a href="/apt/충청남도천안시서북구성정동">충청남도천안시서북구 성정동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/충청남도천안시서북구성정동현대1">현대1</a></td>
   </tr>
 
   <tr>
-    <td>13위</td>
+    <td>27위</td>
     <td>11</td>
-    <td><a href="/apt/서울특별시송파구가락동">서울특별시송파구 가락동</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시송파구가락동헬리오시티">헬리오시티</a></td>
+    <td><a href="/apt/부산광역시사상구모라동">부산광역시사상구 모라동</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/부산광역시사상구모라동주공4">주공4</a></td>
   </tr>
 
   <tr>
-    <td>14위</td>
+    <td>28위</td>
     <td>11</td>
-    <td><a href="/apt/서울특별시도봉구도봉동">서울특별시도봉구 도봉동</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시도봉구도봉동한신">한신</a></td>
+    <td><a href="/apt/인천광역시연수구옥련동">인천광역시연수구 옥련동</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/인천광역시연수구옥련동우성">우성</a></td>
   </tr>
 
   <tr>
-    <td>15위</td>
+    <td>29위</td>
     <td>11</td>
-    <td><a href="/apt/충청북도청주시청원구사천동">충청북도청주시청원구 사천동</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/충청북도청주시청원구사천동신동아">신동아</a></td>
+    <td><a href="/apt/서울특별시강남구도곡동">서울특별시강남구 도곡동</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시강남구도곡동삼성래미안">삼성래미안</a></td>
   </tr>
 
   <tr>
-    <td>16위</td>
-    <td>11</td>
-    <td><a href="/apt/경기도성남시수정구신흥동">경기도성남시수정구 신흥동</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도성남시수정구신흥동산성역포레스티아">산성역포레스티아</a></td>
-  </tr>
-
-  <tr>
-    <td>17위</td>
+    <td>30위</td>
     <td>11</td>
     <td><a href="/apt/경기도파주시목동동">경기도파주시 목동동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도파주시목동동산내마을9단지힐스테이트운정">산내마을9단지힐스테이트운정</a></td>
   </tr>
 
   <tr>
-    <td>18위</td>
+    <td>31위</td>
     <td>11</td>
-    <td><a href="/apt/전라남도여수시학동">전라남도여수시 학동</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/전라남도여수시학동부영1차">부영1차</a></td>
+    <td><a href="/apt/전라남도나주시금천면석전리">전라남도나주시 금천면석전리</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/전라남도나주시금천면석전리빛가람코오롱하늘채">빛가람코오롱하늘채</a></td>
   </tr>
 
   <tr>
-    <td>19위</td>
+    <td>32위</td>
     <td>11</td>
-    <td><a href="/apt/인천광역시연수구송도동">인천광역시연수구 송도동</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/인천광역시연수구송도동베르디움더퍼스트">베르디움더퍼스트</a></td>
+    <td><a href="/apt/경기도수원시영통구영통동">경기도수원시영통구 영통동</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도수원시영통구영통동벽적골주공휴먼시아8단지">벽적골주공휴먼시아8단지</a></td>
   </tr>
 
   <tr>
-    <td>20위</td>
+    <td>33위</td>
     <td>11</td>
-    <td><a href="/apt/서울특별시도봉구도봉동">서울특별시도봉구 도봉동</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시도봉구도봉동럭키">럭키</a></td>
+    <td><a href="/apt/경기도수원시영통구매탄동">경기도수원시영통구 매탄동</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도수원시영통구매탄동매탄위브하늘채">매탄위브하늘채</a></td>
   </tr>
 
   <tr>
-    <td>21위</td>
+    <td>34위</td>
     <td>11</td>
-    <td><a href="/apt/충청남도천안시서북구두정동">충청남도천안시서북구 두정동</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/충청남도천안시서북구두정동두정역효성해링턴플레이스">두정역효성해링턴플레이스</a></td>
+    <td><a href="/apt/서울특별시성동구행당동">서울특별시성동구 행당동</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시성동구행당동두산위브">두산위브</a></td>
   </tr>
 
   <tr>
-    <td>22위</td>
-    <td>11</td>
-    <td><a href="/apt/인천광역시연수구송도동">인천광역시연수구 송도동</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/인천광역시연수구송도동e편한세상송도">e편한세상송도</a></td>
+    <td>35위</td>
+    <td>10</td>
+    <td><a href="/apt/경기도화성시목동">경기도화성시 목동</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도화성시목동힐스테이트동탄">힐스테이트동탄</a></td>
   </tr>
 
   <tr>
-    <td>23위</td>
+    <td>36위</td>
+    <td>10</td>
+    <td><a href="/apt/서울특별시송파구신천동">서울특별시송파구 신천동</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시송파구신천동파크리오">파크리오</a></td>
+  </tr>
+
+  <tr>
+    <td>37위</td>
     <td>10</td>
     <td><a href="/apt/부산광역시북구화명동">부산광역시북구 화명동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/부산광역시북구화명동코오롱하늘채2차">코오롱하늘채2차</a></td>
   </tr>
 
   <tr>
-    <td>24위</td>
-    <td>10</td>
-    <td><a href="/apt/부산광역시사상구모라동">부산광역시사상구 모라동</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/부산광역시사상구모라동주공4">주공4</a></td>
-  </tr>
-
-  <tr>
-    <td>25위</td>
-    <td>10</td>
-    <td><a href="/apt/인천광역시연수구옥련동">인천광역시연수구 옥련동</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/인천광역시연수구옥련동우성">우성</a></td>
-  </tr>
-
-  <tr>
-    <td>26위</td>
-    <td>10</td>
-    <td><a href="/apt/인천광역시연수구송도동">인천광역시연수구 송도동</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/인천광역시연수구송도동송도더샵센트럴시티">송도더샵센트럴시티</a></td>
-  </tr>
-
-  <tr>
-    <td>27위</td>
-    <td>10</td>
-    <td><a href="/apt/충청북도청주시서원구산남동">충청북도청주시서원구 산남동</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/충청북도청주시서원구산남동부영사랑으로">부영사랑으로</a></td>
-  </tr>
-
-  <tr>
-    <td>28위</td>
-    <td>10</td>
-    <td><a href="/apt/경기도수원시영통구매탄동">경기도수원시영통구 매탄동</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도수원시영통구매탄동매탄위브하늘채">매탄위브하늘채</a></td>
-  </tr>
-
-  <tr>
-    <td>29위</td>
-    <td>10</td>
-    <td><a href="/apt/부산광역시금정구장전동">부산광역시금정구 장전동</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/부산광역시금정구장전동래미안장전">래미안장전</a></td>
-  </tr>
-
-  <tr>
-    <td>30위</td>
-    <td>10</td>
-    <td><a href="/apt/서울특별시성동구행당동">서울특별시성동구 행당동</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시성동구행당동두산위브">두산위브</a></td>
-  </tr>
-
-  <tr>
-    <td>31위</td>
-    <td>10</td>
-    <td><a href="/apt/경기도화성시목동">경기도화성시 목동</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도화성시목동동탄2신도시호반베르디움22단지">동탄2신도시호반베르디움22단지</a></td>
-  </tr>
-
-  <tr>
-    <td>32위</td>
-    <td>10</td>
-    <td><a href="/apt/서울특별시동대문구답십리동">서울특별시동대문구 답십리동</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시동대문구답십리동대림">대림</a></td>
-  </tr>
-
-  <tr>
-    <td>33위</td>
-    <td>9</td>
-    <td><a href="/apt/경기도화성시목동">경기도화성시 목동</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도화성시목동힐스테이트동탄">힐스테이트동탄</a></td>
-  </tr>
-
-  <tr>
-    <td>34위</td>
-    <td>9</td>
-    <td><a href="/apt/부산광역시동래구낙민동">부산광역시동래구 낙민동</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/부산광역시동래구낙민동한일유앤아이">한일유앤아이</a></td>
-  </tr>
-
-  <tr>
-    <td>35위</td>
-    <td>9</td>
-    <td><a href="/apt/충청북도청주시청원구오창읍각리">충청북도청주시청원구 오창읍각리</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/충청북도청주시청원구오창읍각리한라비발디">한라비발디</a></td>
-  </tr>
-
-  <tr>
-    <td>36위</td>
-    <td>9</td>
-    <td><a href="/apt/경기도김포시풍무동">경기도김포시 풍무동</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도김포시풍무동풍무센트럴푸르지오">풍무 센트럴 푸르지오</a></td>
-  </tr>
-
-  <tr>
-    <td>37위</td>
-    <td>9</td>
-    <td><a href="/apt/충청남도아산시장존동">충청남도아산시 장존동</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/충청남도아산시장존동청솔">청솔</a></td>
-  </tr>
-
-  <tr>
     <td>38위</td>
-    <td>9</td>
+    <td>10</td>
+    <td><a href="/apt/충청남도천안시동남구신방동">충청남도천안시동남구 신방동</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/충청남도천안시동남구신방동초원그린타운">초원그린타운</a></td>
+  </tr>
+
+  <tr>
+    <td>39위</td>
+    <td>10</td>
+    <td><a href="/apt/대구광역시달서구상인동">대구광역시달서구 상인동</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/대구광역시달서구상인동청구">청구</a></td>
+  </tr>
+
+  <tr>
+    <td>40위</td>
+    <td>10</td>
     <td><a href="/apt/전라남도순천시해룡면신대리">전라남도순천시 해룡면신대리</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/전라남도순천시해룡면신대리중흥에듀힐스9단지">중흥에듀힐스9단지</a></td>
   </tr>
 
   <tr>
-    <td>39위</td>
-    <td>9</td>
+    <td>41위</td>
+    <td>10</td>
     <td><a href="/apt/서울특별시노원구중계동">서울특별시노원구 중계동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시노원구중계동주공5">주공5</a></td>
   </tr>
 
   <tr>
-    <td>40위</td>
-    <td>9</td>
-    <td><a href="/apt/경기도고양시일산서구탄현동">경기도고양시일산서구 탄현동</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도고양시일산서구탄현동일산두산위브더제니스">일산두산위브더제니스</a></td>
-  </tr>
-
-  <tr>
-    <td>41위</td>
-    <td>9</td>
-    <td><a href="/apt/경상남도김해시외동">경상남도김해시 외동</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/경상남도김해시외동외동동성">외동동성</a></td>
-  </tr>
-
-  <tr>
     <td>42위</td>
-    <td>9</td>
+    <td>10</td>
     <td><a href="/apt/경기도수원시영통구망포동">경기도수원시영통구 망포동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도수원시영통구망포동영통아이파크캐슬1단지">영통아이파크캐슬1단지</a></td>
   </tr>
 
   <tr>
     <td>43위</td>
-    <td>9</td>
+    <td>10</td>
     <td><a href="/apt/인천광역시연수구송도동">인천광역시연수구 송도동</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/인천광역시연수구송도동송도글로벌파크베르디움">송도글로벌파크베르디움</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/인천광역시연수구송도동송도더샵센트럴시티">송도더샵센트럴시티</a></td>
   </tr>
 
   <tr>
     <td>44위</td>
-    <td>9</td>
-    <td><a href="/apt/충청북도충주시대소원면본리">충청북도충주시 대소원면본리</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/충청북도충주시대소원면본리서충주오드카운티">서충주오드카운티</a></td>
+    <td>10</td>
+    <td><a href="/apt/충청북도청주시서원구산남동">충청북도청주시서원구 산남동</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/충청북도청주시서원구산남동부영사랑으로">부영사랑으로</a></td>
   </tr>
 
   <tr>
     <td>45위</td>
-    <td>9</td>
-    <td><a href="/apt/부산광역시수영구남천동">부산광역시수영구 남천동</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/부산광역시수영구남천동삼익비치">삼익비치</a></td>
+    <td>10</td>
+    <td><a href="/apt/경상북도칠곡군석적읍중리">경상북도칠곡군 석적읍중리</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/경상북도칠곡군석적읍중리부영">부영</a></td>
   </tr>
 
   <tr>
     <td>46위</td>
-    <td>9</td>
-    <td><a href="/apt/서울특별시강남구도곡동">서울특별시강남구 도곡동</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시강남구도곡동삼성래미안">삼성래미안</a></td>
+    <td>10</td>
+    <td><a href="/apt/경상북도경주시용강동">경상북도경주시 용강동</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/경상북도경주시용강동두산위브트레지움">두산위브트레지움</a></td>
   </tr>
 
   <tr>
     <td>47위</td>
-    <td>9</td>
-    <td><a href="/apt/전라남도나주시금천면석전리">전라남도나주시 금천면석전리</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/전라남도나주시금천면석전리빛가람코오롱하늘채">빛가람코오롱하늘채</a></td>
+    <td>10</td>
+    <td><a href="/apt/서울특별시동대문구답십리동">서울특별시동대문구 답십리동</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시동대문구답십리동두산">두산</a></td>
   </tr>
 
   <tr>
     <td>48위</td>
-    <td>9</td>
-    <td><a href="/apt/경상북도포항시북구두호동">경상북도포항시북구 두호동</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/경상북도포항시북구두호동두호SK뷰푸르지오2단지">두호SK뷰푸르지오2단지</a></td>
+    <td>10</td>
+    <td><a href="/apt/경기도화성시영천동">경기도화성시 영천동</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도화성시영천동동탄역포레너스">동탄역포레너스</a></td>
   </tr>
 
   <tr>
     <td>49위</td>
-    <td>9</td>
-    <td><a href="/apt/강원도원주시태장동">강원도원주시 태장동</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/강원도원주시태장동두진백로">두진백로</a></td>
+    <td>10</td>
+    <td><a href="/apt/경기도화성시목동">경기도화성시 목동</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도화성시목동동탄2신도시호반베르디움22단지">동탄2신도시호반베르디움22단지</a></td>
   </tr>
 
   <tr>
     <td>50위</td>
-    <td>9</td>
-    <td><a href="/apt/경상북도경주시용강동">경상북도경주시 용강동</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/경상북도경주시용강동두산위브트레지움">두산위브트레지움</a></td>
+    <td>10</td>
+    <td><a href="/apt/강원도원주시명륜동">강원도원주시 명륜동</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/강원도원주시명륜동동성">동성</a></td>
   </tr>
 
 </table>
