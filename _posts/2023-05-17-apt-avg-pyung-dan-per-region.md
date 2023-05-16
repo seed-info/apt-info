@@ -18,13 +18,13 @@ permalink: /analysis/지역별매매평단가랭킹
   <tr>
     <td>1위</td>
     <td><a href="/apt/서울특별시강남구{dong}">서울특별시강남구</a></td>
-    <td>2420</td>
+    <td>2418</td>
   </tr>
 
   <tr>
     <td>2위</td>
     <td><a href="/apt/서울특별시서초구{dong}">서울특별시서초구</a></td>
-    <td>2372</td>
+    <td>2365</td>
   </tr>
 
   <tr>
@@ -36,43 +36,43 @@ permalink: /analysis/지역별매매평단가랭킹
   <tr>
     <td>4위</td>
     <td><a href="/apt/서울특별시용산구{dong}">서울특별시용산구</a></td>
-    <td>1867</td>
+    <td>1882</td>
   </tr>
 
   <tr>
     <td>5위</td>
     <td><a href="/apt/경기도과천시{dong}">경기도과천시</a></td>
-    <td>1827</td>
+    <td>1829</td>
   </tr>
 
   <tr>
     <td>6위</td>
     <td><a href="/apt/서울특별시성동구{dong}">서울특별시성동구</a></td>
-    <td>1571</td>
+    <td>1579</td>
   </tr>
 
   <tr>
     <td>7위</td>
     <td><a href="/apt/서울특별시종로구{dong}">서울특별시종로구</a></td>
-    <td>1551</td>
+    <td>1567</td>
   </tr>
 
   <tr>
     <td>8위</td>
     <td><a href="/apt/서울특별시마포구{dong}">서울특별시마포구</a></td>
-    <td>1506</td>
+    <td>1507</td>
   </tr>
 
   <tr>
     <td>9위</td>
     <td><a href="/apt/서울특별시광진구{dong}">서울특별시광진구</a></td>
-    <td>1412</td>
+    <td>1416</td>
   </tr>
 
   <tr>
     <td>10위</td>
     <td><a href="/apt/서울특별시양천구{dong}">서울특별시양천구</a></td>
-    <td>1383</td>
+    <td>1386</td>
   </tr>
 
   <tr>
@@ -84,19 +84,19 @@ permalink: /analysis/지역별매매평단가랭킹
   <tr>
     <td>12위</td>
     <td><a href="/apt/서울특별시동작구{dong}">서울특별시동작구</a></td>
-    <td>1347</td>
+    <td>1346</td>
   </tr>
 
   <tr>
     <td>13위</td>
-    <td><a href="/apt/서울특별시강동구{dong}">서울특별시강동구</a></td>
-    <td>1317</td>
+    <td><a href="/apt/서울특별시영등포구{dong}">서울특별시영등포구</a></td>
+    <td>1319</td>
   </tr>
 
   <tr>
     <td>14위</td>
-    <td><a href="/apt/서울특별시영등포구{dong}">서울특별시영등포구</a></td>
-    <td>1316</td>
+    <td><a href="/apt/서울특별시강동구{dong}">서울특별시강동구</a></td>
+    <td>1317</td>
   </tr>
 
   <tr>
@@ -113,20 +113,20 @@ permalink: /analysis/지역별매매평단가랭킹
 
   <tr>
     <td>17위</td>
-    <td><a href="/apt/서울특별시서대문구{dong}">서울특별시서대문구</a></td>
-    <td>1116</td>
-  </tr>
-
-  <tr>
-    <td>18위</td>
     <td><a href="/apt/서울특별시강서구{dong}">서울특별시강서구</a></td>
     <td>1114</td>
   </tr>
 
   <tr>
+    <td>18위</td>
+    <td><a href="/apt/서울특별시서대문구{dong}">서울특별시서대문구</a></td>
+    <td>1113</td>
+  </tr>
+
+  <tr>
     <td>19위</td>
     <td><a href="/apt/서울특별시은평구{dong}">서울특별시은평구</a></td>
-    <td>1070</td>
+    <td>1071</td>
   </tr>
 
   <tr>
@@ -144,13 +144,13 @@ permalink: /analysis/지역별매매평단가랭킹
   <tr>
     <td>22위</td>
     <td><a href="/apt/경기도광명시{dong}">경기도광명시</a></td>
-    <td>1009</td>
+    <td>1013</td>
   </tr>
 
   <tr>
     <td>23위</td>
     <td><a href="/apt/경기도하남시{dong}">경기도하남시</a></td>
-    <td>1008</td>
+    <td>1007</td>
   </tr>
 
   <tr>
@@ -162,13 +162,13 @@ permalink: /analysis/지역별매매평단가랭킹
   <tr>
     <td>25위</td>
     <td><a href="/apt/서울특별시노원구{dong}">서울특별시노원구</a></td>
-    <td>953</td>
+    <td>952</td>
   </tr>
 
   <tr>
     <td>26위</td>
     <td><a href="/apt/서울특별시중랑구{dong}">서울특별시중랑구</a></td>
-    <td>936</td>
+    <td>940</td>
   </tr>
 
   <tr>
@@ -210,7 +210,7 @@ permalink: /analysis/지역별매매평단가랭킹
   <tr>
     <td>33위</td>
     <td><a href="/apt/경기도구리시{dong}">경기도구리시</a></td>
-    <td>801</td>
+    <td>800</td>
   </tr>
 
   <tr>
@@ -228,7 +228,7 @@ permalink: /analysis/지역별매매평단가랭킹
   <tr>
     <td>36위</td>
     <td><a href="/apt/서울특별시도봉구{dong}">서울특별시도봉구</a></td>
-    <td>767</td>
+    <td>768</td>
   </tr>
 
   <tr>
@@ -240,13 +240,13 @@ permalink: /analysis/지역별매매평단가랭킹
   <tr>
     <td>38위</td>
     <td><a href="/apt/경기도안양시만안구{dong}">경기도안양시만안구</a></td>
-    <td>736</td>
+    <td>734</td>
   </tr>
 
   <tr>
     <td>39위</td>
     <td><a href="/apt/경기도수원시팔달구{dong}">경기도수원시팔달구</a></td>
-    <td>676</td>
+    <td>673</td>
   </tr>
 
   <tr>
@@ -288,18 +288,18 @@ permalink: /analysis/지역별매매평단가랭킹
   <tr>
     <td>46위</td>
     <td><a href="/apt/경기도부천시{dong}">경기도부천시</a></td>
-    <td>632</td>
+    <td>631</td>
   </tr>
 
   <tr>
     <td>47위</td>
-    <td><a href="/apt/경기도용인시기흥구{dong}">경기도용인시기흥구</a></td>
+    <td><a href="/apt/경기도화성시{dong}">경기도화성시</a></td>
     <td>627</td>
   </tr>
 
   <tr>
     <td>48위</td>
-    <td><a href="/apt/경기도화성시{dong}">경기도화성시</a></td>
+    <td><a href="/apt/경기도용인시기흥구{dong}">경기도용인시기흥구</a></td>
     <td>627</td>
   </tr>
 
@@ -318,13 +318,13 @@ permalink: /analysis/지역별매매평단가랭킹
   <tr>
     <td>51위</td>
     <td><a href="/apt/부산광역시남구{dong}">부산광역시남구</a></td>
-    <td>601</td>
+    <td>600</td>
   </tr>
 
   <tr>
     <td>52위</td>
     <td><a href="/apt/부산광역시연제구{dong}">부산광역시연제구</a></td>
-    <td>598</td>
+    <td>599</td>
   </tr>
 
   <tr>
@@ -348,7 +348,7 @@ permalink: /analysis/지역별매매평단가랭킹
   <tr>
     <td>56위</td>
     <td><a href="/apt/경기도수원시권선구{dong}">경기도수원시권선구</a></td>
-    <td>569</td>
+    <td>568</td>
   </tr>
 
   <tr>
@@ -402,13 +402,13 @@ permalink: /analysis/지역별매매평단가랭킹
   <tr>
     <td>65위</td>
     <td><a href="/apt/울산광역시남구{dong}">울산광역시남구</a></td>
-    <td>487</td>
+    <td>486</td>
   </tr>
 
   <tr>
     <td>66위</td>
     <td><a href="/apt/인천광역시서구{dong}">인천광역시서구</a></td>
-    <td>485</td>
+    <td>486</td>
   </tr>
 
   <tr>
@@ -420,24 +420,24 @@ permalink: /analysis/지역별매매평단가랭킹
   <tr>
     <td>68위</td>
     <td><a href="/apt/인천광역시부평구{dong}">인천광역시부평구</a></td>
-    <td>478</td>
+    <td>479</td>
   </tr>
 
   <tr>
     <td>69위</td>
     <td><a href="/apt/광주광역시동구{dong}">광주광역시동구</a></td>
-    <td>473</td>
+    <td>474</td>
   </tr>
 
   <tr>
     <td>70위</td>
-    <td><a href="/apt/대전광역시유성구{dong}">대전광역시유성구</a></td>
-    <td>467</td>
+    <td><a href="/apt/경기도의정부시{dong}">경기도의정부시</a></td>
+    <td>465</td>
   </tr>
 
   <tr>
     <td>71위</td>
-    <td><a href="/apt/경기도의정부시{dong}">경기도의정부시</a></td>
+    <td><a href="/apt/대전광역시유성구{dong}">대전광역시유성구</a></td>
     <td>465</td>
   </tr>
 
@@ -509,25 +509,25 @@ permalink: /analysis/지역별매매평단가랭킹
 
   <tr>
     <td>83위</td>
-    <td><a href="/apt/인천광역시중구{dong}">인천광역시중구</a></td>
+    <td><a href="/apt/울산광역시중구{dong}">울산광역시중구</a></td>
     <td>415</td>
   </tr>
 
   <tr>
     <td>84위</td>
-    <td><a href="/apt/울산광역시중구{dong}">울산광역시중구</a></td>
-    <td>413</td>
+    <td><a href="/apt/인천광역시중구{dong}">인천광역시중구</a></td>
+    <td>414</td>
   </tr>
 
   <tr>
     <td>85위</td>
-    <td><a href="/apt/인천광역시미추홀구{dong}">인천광역시미추홀구</a></td>
+    <td><a href="/apt/부산광역시기장군{dong}">부산광역시기장군</a></td>
     <td>411</td>
   </tr>
 
   <tr>
     <td>86위</td>
-    <td><a href="/apt/부산광역시기장군{dong}">부산광역시기장군</a></td>
+    <td><a href="/apt/인천광역시미추홀구{dong}">인천광역시미추홀구</a></td>
     <td>411</td>
   </tr>
 
@@ -545,14 +545,14 @@ permalink: /analysis/지역별매매평단가랭킹
 
   <tr>
     <td>89위</td>
-    <td><a href="/apt/광주광역시광산구{dong}">광주광역시광산구</a></td>
+    <td><a href="/apt/광주광역시서구{dong}">광주광역시서구</a></td>
     <td>391</td>
   </tr>
 
   <tr>
     <td>90위</td>
-    <td><a href="/apt/광주광역시서구{dong}">광주광역시서구</a></td>
-    <td>391</td>
+    <td><a href="/apt/광주광역시광산구{dong}">광주광역시광산구</a></td>
+    <td>390</td>
   </tr>
 
   <tr>
@@ -576,13 +576,13 @@ permalink: /analysis/지역별매매평단가랭킹
   <tr>
     <td>94위</td>
     <td><a href="/apt/경상남도창원시의창구{dong}">경상남도창원시의창구</a></td>
-    <td>377</td>
+    <td>376</td>
   </tr>
 
   <tr>
     <td>95위</td>
     <td><a href="/apt/경기도양주시{dong}">경기도양주시</a></td>
-    <td>373</td>
+    <td>374</td>
   </tr>
 
   <tr>
@@ -594,7 +594,7 @@ permalink: /analysis/지역별매매평단가랭킹
   <tr>
     <td>97위</td>
     <td><a href="/apt/인천광역시동구{dong}">인천광역시동구</a></td>
-    <td>369</td>
+    <td>370</td>
   </tr>
 
   <tr>
@@ -605,14 +605,14 @@ permalink: /analysis/지역별매매평단가랭킹
 
   <tr>
     <td>99위</td>
-    <td><a href="/apt/대구광역시동구{dong}">대구광역시동구</a></td>
+    <td><a href="/apt/경기도양평군{dong}">경기도양평군</a></td>
     <td>362</td>
   </tr>
 
   <tr>
     <td>100위</td>
-    <td><a href="/apt/경기도양평군{dong}">경기도양평군</a></td>
-    <td>362</td>
+    <td><a href="/apt/대구광역시동구{dong}">대구광역시동구</a></td>
+    <td>361</td>
   </tr>
 
   <tr>
@@ -690,7 +690,7 @@ permalink: /analysis/지역별매매평단가랭킹
   <tr>
     <td>113위</td>
     <td><a href="/apt/강원도춘천시{dong}">강원도춘천시</a></td>
-    <td>314</td>
+    <td>315</td>
   </tr>
 
   <tr>
@@ -725,20 +725,20 @@ permalink: /analysis/지역별매매평단가랭킹
 
   <tr>
     <td>119위</td>
-    <td><a href="/apt/강원도양양군{dong}">강원도양양군</a></td>
-    <td>306</td>
+    <td><a href="/apt/경상남도창원시마산합포구{dong}">경상남도창원시마산합포구</a></td>
+    <td>307</td>
   </tr>
 
   <tr>
     <td>120위</td>
-    <td><a href="/apt/경상남도창원시마산합포구{dong}">경상남도창원시마산합포구</a></td>
+    <td><a href="/apt/강원도양양군{dong}">강원도양양군</a></td>
     <td>306</td>
   </tr>
 
   <tr>
     <td>121위</td>
     <td><a href="/apt/경상남도양산시{dong}">경상남도양산시</a></td>
-    <td>303</td>
+    <td>302</td>
   </tr>
 
   <tr>
@@ -780,13 +780,13 @@ permalink: /analysis/지역별매매평단가랭킹
   <tr>
     <td>128위</td>
     <td><a href="/apt/전라남도무안군{dong}">전라남도무안군</a></td>
-    <td>288</td>
+    <td>287</td>
   </tr>
 
   <tr>
     <td>129위</td>
     <td><a href="/apt/충청북도청주시상당구{dong}">충청북도청주시상당구</a></td>
-    <td>287</td>
+    <td>286</td>
   </tr>
 
   <tr>
@@ -815,14 +815,14 @@ permalink: /analysis/지역별매매평단가랭킹
 
   <tr>
     <td>134위</td>
-    <td><a href="/apt/전라북도전주시완산구{dong}">전라북도전주시완산구</a></td>
+    <td><a href="/apt/충청북도청주시서원구{dong}">충청북도청주시서원구</a></td>
     <td>281</td>
   </tr>
 
   <tr>
     <td>135위</td>
-    <td><a href="/apt/충청북도청주시서원구{dong}">충청북도청주시서원구</a></td>
-    <td>280</td>
+    <td><a href="/apt/전라북도전주시완산구{dong}">전라북도전주시완산구</a></td>
+    <td>281</td>
   </tr>
 
   <tr>
@@ -834,7 +834,7 @@ permalink: /analysis/지역별매매평단가랭킹
   <tr>
     <td>137위</td>
     <td><a href="/apt/울산광역시동구{dong}">울산광역시동구</a></td>
-    <td>276</td>
+    <td>277</td>
   </tr>
 
   <tr>
@@ -852,13 +852,13 @@ permalink: /analysis/지역별매매평단가랭킹
   <tr>
     <td>140위</td>
     <td><a href="/apt/충청남도아산시{dong}">충청남도아산시</a></td>
-    <td>270</td>
+    <td>271</td>
   </tr>
 
   <tr>
     <td>141위</td>
     <td><a href="/apt/경상남도창원시진해구{dong}">경상남도창원시진해구</a></td>
-    <td>270</td>
+    <td>269</td>
   </tr>
 
   <tr>
@@ -882,7 +882,7 @@ permalink: /analysis/지역별매매평단가랭킹
   <tr>
     <td>145위</td>
     <td><a href="/apt/경상북도예천군{dong}">경상북도예천군</a></td>
-    <td>262</td>
+    <td>264</td>
   </tr>
 
   <tr>
@@ -894,25 +894,25 @@ permalink: /analysis/지역별매매평단가랭킹
   <tr>
     <td>147위</td>
     <td><a href="/apt/전라북도고창군{dong}">전라북도고창군</a></td>
-    <td>251</td>
+    <td>252</td>
   </tr>
 
   <tr>
     <td>148위</td>
+    <td><a href="/apt/충청남도공주시{dong}">충청남도공주시</a></td>
+    <td>250</td>
+  </tr>
+
+  <tr>
+    <td>149위</td>
     <td><a href="/apt/경기도동두천시{dong}">경기도동두천시</a></td>
     <td>249</td>
   </tr>
 
   <tr>
-    <td>149위</td>
-    <td><a href="/apt/충청남도공주시{dong}">충청남도공주시</a></td>
-    <td>245</td>
-  </tr>
-
-  <tr>
     <td>150위</td>
     <td><a href="/apt/경상북도포항시북구{dong}">경상북도포항시북구</a></td>
-    <td>244</td>
+    <td>245</td>
   </tr>
 
   <tr>
@@ -947,13 +947,13 @@ permalink: /analysis/지역별매매평단가랭킹
 
   <tr>
     <td>156위</td>
-    <td><a href="/apt/경상북도포항시남구{dong}">경상북도포항시남구</a></td>
-    <td>236</td>
+    <td><a href="/apt/충청북도충주시{dong}">충청북도충주시</a></td>
+    <td>235</td>
   </tr>
 
   <tr>
     <td>157위</td>
-    <td><a href="/apt/충청북도충주시{dong}">충청북도충주시</a></td>
+    <td><a href="/apt/경상북도포항시남구{dong}">경상북도포항시남구</a></td>
     <td>235</td>
   </tr>
 
@@ -990,7 +990,7 @@ permalink: /analysis/지역별매매평단가랭킹
   <tr>
     <td>163위</td>
     <td><a href="/apt/충청남도서산시{dong}">충청남도서산시</a></td>
-    <td>229</td>
+    <td>228</td>
   </tr>
 
   <tr>
@@ -1032,7 +1032,7 @@ permalink: /analysis/지역별매매평단가랭킹
   <tr>
     <td>170위</td>
     <td><a href="/apt/전라북도정읍시{dong}">전라북도정읍시</a></td>
-    <td>220</td>
+    <td>221</td>
   </tr>
 
   <tr>
@@ -1049,74 +1049,74 @@ permalink: /analysis/지역별매매평단가랭킹
 
   <tr>
     <td>173위</td>
+    <td><a href="/apt/충청남도계룡시{dong}">충청남도계룡시</a></td>
+    <td>220</td>
+  </tr>
+
+  <tr>
+    <td>174위</td>
     <td><a href="/apt/인천광역시강화군{dong}">인천광역시강화군</a></td>
     <td>219</td>
   </tr>
 
   <tr>
-    <td>174위</td>
+    <td>175위</td>
     <td><a href="/apt/경상남도거제시{dong}">경상남도거제시</a></td>
     <td>219</td>
   </tr>
 
   <tr>
-    <td>175위</td>
+    <td>176위</td>
     <td><a href="/apt/경상북도봉화군{dong}">경상북도봉화군</a></td>
     <td>219</td>
   </tr>
 
   <tr>
-    <td>176위</td>
+    <td>177위</td>
     <td><a href="/apt/경상북도안동시{dong}">경상북도안동시</a></td>
     <td>219</td>
   </tr>
 
   <tr>
-    <td>177위</td>
+    <td>178위</td>
     <td><a href="/apt/충청남도홍성군{dong}">충청남도홍성군</a></td>
     <td>218</td>
   </tr>
 
   <tr>
-    <td>178위</td>
-    <td><a href="/apt/충청남도계룡시{dong}">충청남도계룡시</a></td>
-    <td>218</td>
-  </tr>
-
-  <tr>
     <td>179위</td>
-    <td><a href="/apt/경상북도울진군{dong}">경상북도울진군</a></td>
+    <td><a href="/apt/충청남도논산시{dong}">충청남도논산시</a></td>
     <td>217</td>
   </tr>
 
   <tr>
     <td>180위</td>
-    <td><a href="/apt/충청북도진천군{dong}">충청북도진천군</a></td>
+    <td><a href="/apt/경상북도울진군{dong}">경상북도울진군</a></td>
     <td>217</td>
   </tr>
 
   <tr>
     <td>181위</td>
-    <td><a href="/apt/경상남도통영시{dong}">경상남도통영시</a></td>
+    <td><a href="/apt/충청북도진천군{dong}">충청북도진천군</a></td>
     <td>217</td>
   </tr>
 
   <tr>
     <td>182위</td>
+    <td><a href="/apt/경상남도통영시{dong}">경상남도통영시</a></td>
+    <td>217</td>
+  </tr>
+
+  <tr>
+    <td>183위</td>
     <td><a href="/apt/충청북도옥천군{dong}">충청북도옥천군</a></td>
     <td>216</td>
   </tr>
 
   <tr>
-    <td>183위</td>
+    <td>184위</td>
     <td><a href="/apt/경상남도남해군{dong}">경상남도남해군</a></td>
     <td>215</td>
-  </tr>
-
-  <tr>
-    <td>184위</td>
-    <td><a href="/apt/충청남도논산시{dong}">충청남도논산시</a></td>
-    <td>214</td>
   </tr>
 
   <tr>
@@ -1175,26 +1175,26 @@ permalink: /analysis/지역별매매평단가랭킹
 
   <tr>
     <td>194위</td>
-    <td><a href="/apt/전라남도목포시{dong}">전라남도목포시</a></td>
-    <td>200</td>
-  </tr>
-
-  <tr>
-    <td>195위</td>
     <td><a href="/apt/전라남도함평군{dong}">전라남도함평군</a></td>
     <td>200</td>
   </tr>
 
   <tr>
+    <td>195위</td>
+    <td><a href="/apt/경상남도함안군{dong}">경상남도함안군</a></td>
+    <td>200</td>
+  </tr>
+
+  <tr>
     <td>196위</td>
-    <td><a href="/apt/전라북도무주군{dong}">전라북도무주군</a></td>
-    <td>199</td>
+    <td><a href="/apt/전라남도목포시{dong}">전라남도목포시</a></td>
+    <td>200</td>
   </tr>
 
   <tr>
     <td>197위</td>
-    <td><a href="/apt/경상남도함안군{dong}">경상남도함안군</a></td>
-    <td>197</td>
+    <td><a href="/apt/전라북도무주군{dong}">전라북도무주군</a></td>
+    <td>199</td>
   </tr>
 
   <tr>
@@ -1229,14 +1229,14 @@ permalink: /analysis/지역별매매평단가랭킹
 
   <tr>
     <td>203위</td>
-    <td><a href="/apt/강원도횡성군{dong}">강원도횡성군</a></td>
-    <td>191</td>
+    <td><a href="/apt/전라북도남원시{dong}">전라북도남원시</a></td>
+    <td>190</td>
   </tr>
 
   <tr>
     <td>204위</td>
-    <td><a href="/apt/전라북도남원시{dong}">전라북도남원시</a></td>
-    <td>190</td>
+    <td><a href="/apt/충청남도금산군{dong}">충청남도금산군</a></td>
+    <td>189</td>
   </tr>
 
   <tr>
@@ -1247,20 +1247,20 @@ permalink: /analysis/지역별매매평단가랭킹
 
   <tr>
     <td>206위</td>
-    <td><a href="/apt/충청남도금산군{dong}">충청남도금산군</a></td>
-    <td>189</td>
-  </tr>
-
-  <tr>
-    <td>207위</td>
     <td><a href="/apt/충청북도증평군{dong}">충청북도증평군</a></td>
     <td>188</td>
   </tr>
 
   <tr>
+    <td>207위</td>
+    <td><a href="/apt/강원도횡성군{dong}">강원도횡성군</a></td>
+    <td>187</td>
+  </tr>
+
+  <tr>
     <td>208위</td>
     <td><a href="/apt/충청북도보은군{dong}">충청북도보은군</a></td>
-    <td>185</td>
+    <td>187</td>
   </tr>
 
   <tr>
@@ -1319,14 +1319,14 @@ permalink: /analysis/지역별매매평단가랭킹
 
   <tr>
     <td>218위</td>
-    <td><a href="/apt/강원도삼척시{dong}">강원도삼척시</a></td>
+    <td><a href="/apt/경상북도의성군{dong}">경상북도의성군</a></td>
     <td>176</td>
   </tr>
 
   <tr>
     <td>219위</td>
-    <td><a href="/apt/경상북도의성군{dong}">경상북도의성군</a></td>
-    <td>176</td>
+    <td><a href="/apt/강원도삼척시{dong}">강원도삼척시</a></td>
+    <td>175</td>
   </tr>
 
   <tr>
@@ -1337,14 +1337,14 @@ permalink: /analysis/지역별매매평단가랭킹
 
   <tr>
     <td>221위</td>
-    <td><a href="/apt/전라남도보성군{dong}">전라남도보성군</a></td>
-    <td>170</td>
+    <td><a href="/apt/경상남도고성군{dong}">경상남도고성군</a></td>
+    <td>173</td>
   </tr>
 
   <tr>
     <td>222위</td>
-    <td><a href="/apt/경상남도고성군{dong}">경상남도고성군</a></td>
-    <td>169</td>
+    <td><a href="/apt/전라남도보성군{dong}">전라남도보성군</a></td>
+    <td>170</td>
   </tr>
 
   <tr>
@@ -1355,32 +1355,32 @@ permalink: /analysis/지역별매매평단가랭킹
 
   <tr>
     <td>224위</td>
-    <td><a href="/apt/충청북도단양군{dong}">충청북도단양군</a></td>
-    <td>168</td>
+    <td><a href="/apt/강원도평창군{dong}">강원도평창군</a></td>
+    <td>167</td>
   </tr>
 
   <tr>
     <td>225위</td>
-    <td><a href="/apt/경상북도청도군{dong}">경상북도청도군</a></td>
+    <td><a href="/apt/전라남도화순군{dong}">전라남도화순군</a></td>
     <td>166</td>
   </tr>
 
   <tr>
     <td>226위</td>
-    <td><a href="/apt/강원도평창군{dong}">강원도평창군</a></td>
-    <td>165</td>
+    <td><a href="/apt/경상북도청도군{dong}">경상북도청도군</a></td>
+    <td>166</td>
   </tr>
 
   <tr>
     <td>227위</td>
-    <td><a href="/apt/전라남도화순군{dong}">전라남도화순군</a></td>
-    <td>165</td>
+    <td><a href="/apt/충청북도단양군{dong}">충청북도단양군</a></td>
+    <td>166</td>
   </tr>
 
   <tr>
     <td>228위</td>
     <td><a href="/apt/경상남도창녕군{dong}">경상남도창녕군</a></td>
-    <td>163</td>
+    <td>164</td>
   </tr>
 
   <tr>
@@ -1433,14 +1433,14 @@ permalink: /analysis/지역별매매평단가랭킹
 
   <tr>
     <td>237위</td>
-    <td><a href="/apt/강원도태백시{dong}">강원도태백시</a></td>
+    <td><a href="/apt/충청북도영동군{dong}">충청북도영동군</a></td>
     <td>148</td>
   </tr>
 
   <tr>
     <td>238위</td>
-    <td><a href="/apt/충청북도영동군{dong}">충청북도영동군</a></td>
-    <td>147</td>
+    <td><a href="/apt/강원도태백시{dong}">강원도태백시</a></td>
+    <td>148</td>
   </tr>
 
   <tr>

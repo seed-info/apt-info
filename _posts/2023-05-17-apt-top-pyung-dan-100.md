@@ -410,6 +410,14 @@ permalink: /analysis/아파트매매평단가탑100랭킹
   </tr>
 
   <tr>
+    <td><a href="/apt/서울특별시성동구성수동1가">서울특별시성동구 성수동1가</a></td>
+    <td style="font-weight: bold;"><a href="/apt/서울특별시성동구성수동1가아크로서울포레스트">아크로서울포레스트</a></td>
+    <td>164.856</td>
+    <td>575,000</td>
+    <td>3488</td>
+  </tr>
+
+  <tr>
     <td><a href="/apt/서울특별시서초구잠원동">서울특별시서초구 잠원동</a></td>
     <td style="font-weight: bold;"><a href="/apt/서울특별시서초구잠원동반포르엘">반포르엘</a></td>
     <td>97.4743</td>
@@ -807,14 +815,6 @@ permalink: /analysis/아파트매매평단가탑100랭킹
     <td>108.37</td>
     <td>340,000</td>
     <td>3137</td>
-  </tr>
-
-  <tr>
-    <td><a href="/apt/서울특별시강남구역삼동">서울특별시강남구 역삼동</a></td>
-    <td style="font-weight: bold;"><a href="/apt/서울특별시강남구역삼동개나리푸르지오">개나리푸르지오</a></td>
-    <td>59.9885</td>
-    <td>188,000</td>
-    <td>3134</td>
   </tr>
 
 </table>

@@ -46,15 +46,15 @@ permalink: /analysis/아파트별매매평단가탑100랭킹
   </tr>
 
   <tr>
-    <td><a href="/apt/서울특별시성동구성수동1가">서울특별시성동구 성수동1가</a></td>
-    <td style="font-weight: bold;"><a href="/apt/서울특별시성동구성수동1가아크로서울포레스트">아크로서울포레스트</a></td>
-    <td>4057</td>
-  </tr>
-
-  <tr>
     <td><a href="/apt/서울특별시서초구반포동">서울특별시서초구 반포동</a></td>
     <td style="font-weight: bold;"><a href="/apt/서울특별시서초구반포동아크로리버파크">아크로리버파크</a></td>
     <td>3956</td>
+  </tr>
+
+  <tr>
+    <td><a href="/apt/서울특별시성동구성수동1가">서울특별시성동구 성수동1가</a></td>
+    <td style="font-weight: bold;"><a href="/apt/서울특별시성동구성수동1가아크로서울포레스트">아크로서울포레스트</a></td>
+    <td>3867</td>
   </tr>
 
   <tr>
@@ -232,6 +232,12 @@ permalink: /analysis/아파트별매매평단가탑100랭킹
   </tr>
 
   <tr>
+    <td><a href="/apt/서울특별시용산구이촌동">서울특별시용산구 이촌동</a></td>
+    <td style="font-weight: bold;"><a href="/apt/서울특별시용산구이촌동래미안첼리투스">래미안첼리투스</a></td>
+    <td>3064</td>
+  </tr>
+
+  <tr>
     <td><a href="/apt/서울특별시서초구잠원동">서울특별시서초구 잠원동</a></td>
     <td style="font-weight: bold;"><a href="/apt/서울특별시서초구잠원동래미안신반포리오센트">래미안신반포리오센트</a></td>
     <td>3051</td>
@@ -310,12 +316,6 @@ permalink: /analysis/아파트별매매평단가탑100랭킹
   </tr>
 
   <tr>
-    <td><a href="/apt/서울특별시강남구일원동">서울특별시강남구 일원동</a></td>
-    <td style="font-weight: bold;"><a href="/apt/서울특별시강남구일원동래미안개포루체하임">래미안 개포 루체하임</a></td>
-    <td>2842</td>
-  </tr>
-
-  <tr>
     <td><a href="/apt/서울특별시강남구역삼동">서울특별시강남구 역삼동</a></td>
     <td style="font-weight: bold;"><a href="/apt/서울특별시강남구역삼동역삼푸르지오">역삼푸르지오</a></td>
     <td>2838</td>
@@ -355,6 +355,12 @@ permalink: /analysis/아파트별매매평단가탑100랭킹
     <td><a href="/apt/서울특별시서초구잠원동">서울특별시서초구 잠원동</a></td>
     <td style="font-weight: bold;"><a href="/apt/서울특별시서초구잠원동롯데캐슬갤럭시">롯데캐슬갤럭시</a></td>
     <td>2779</td>
+  </tr>
+
+  <tr>
+    <td><a href="/apt/서울특별시강남구일원동">서울특별시강남구 일원동</a></td>
+    <td style="font-weight: bold;"><a href="/apt/서울특별시강남구일원동래미안개포루체하임">래미안 개포 루체하임</a></td>
+    <td>2765</td>
   </tr>
 
   <tr>
@@ -607,12 +613,6 @@ permalink: /analysis/아파트별매매평단가탑100랭킹
     <td><a href="/apt/서울특별시강남구개포동">서울특별시강남구 개포동</a></td>
     <td style="font-weight: bold;"><a href="/apt/서울특별시강남구개포동삼익대청아파트">삼익대청아파트</a></td>
     <td>2379</td>
-  </tr>
-
-  <tr>
-    <td><a href="/apt/서울특별시용산구이태원동">서울특별시용산구 이태원동</a></td>
-    <td style="font-weight: bold;"><a href="/apt/서울특별시용산구이태원동남산대림">남산대림</a></td>
-    <td>2370</td>
   </tr>
 
 </table>
