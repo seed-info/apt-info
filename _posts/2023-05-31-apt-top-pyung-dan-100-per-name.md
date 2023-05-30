@@ -22,12 +22,6 @@ permalink: /analysis/아파트별매매평단가탑100랭킹
   </tr>
 
   <tr>
-    <td><a href="/apt/서울특별시성동구성수동1가">서울특별시성동구 성수동1가</a></td>
-    <td style="font-weight: bold;"><a href="/apt/서울특별시성동구성수동1가트리마제">트리마제</a></td>
-    <td>4523</td>
-  </tr>
-
-  <tr>
     <td><a href="/apt/서울특별시서초구반포동">서울특별시서초구 반포동</a></td>
     <td style="font-weight: bold;"><a href="/apt/서울특별시서초구반포동반포주공1단지">반포주공1단지</a></td>
     <td>4518</td>
@@ -40,15 +34,15 @@ permalink: /analysis/아파트별매매평단가탑100랭킹
   </tr>
 
   <tr>
-    <td><a href="/apt/서울특별시서초구잠원동">서울특별시서초구 잠원동</a></td>
-    <td style="font-weight: bold;"><a href="/apt/서울특별시서초구잠원동아크로리버뷰신반포">아크로리버뷰신반포</a></td>
-    <td>4096</td>
+    <td><a href="/apt/서울특별시성동구성수동1가">서울특별시성동구 성수동1가</a></td>
+    <td style="font-weight: bold;"><a href="/apt/서울특별시성동구성수동1가트리마제">트리마제</a></td>
+    <td>4236</td>
   </tr>
 
   <tr>
-    <td><a href="/apt/서울특별시강남구청담동">서울특별시강남구 청담동</a></td>
-    <td style="font-weight: bold;"><a href="/apt/서울특별시강남구청담동청담자이">청담자이</a></td>
-    <td>4040</td>
+    <td><a href="/apt/서울특별시서초구잠원동">서울특별시서초구 잠원동</a></td>
+    <td style="font-weight: bold;"><a href="/apt/서울특별시서초구잠원동아크로리버뷰신반포">아크로리버뷰신반포</a></td>
+    <td>4096</td>
   </tr>
 
   <tr>
@@ -76,6 +70,18 @@ permalink: /analysis/아파트별매매평단가탑100랭킹
   </tr>
 
   <tr>
+    <td><a href="/apt/서울특별시강남구청담동">서울특별시강남구 청담동</a></td>
+    <td style="font-weight: bold;"><a href="/apt/서울특별시강남구청담동청담자이">청담자이</a></td>
+    <td>3690</td>
+  </tr>
+
+  <tr>
+    <td><a href="/apt/서울특별시강남구삼성동">서울특별시강남구 삼성동</a></td>
+    <td style="font-weight: bold;"><a href="/apt/서울특별시강남구삼성동삼성동센트럴아이파크">삼성동센트럴아이파크</a></td>
+    <td>3634</td>
+  </tr>
+
+  <tr>
     <td><a href="/apt/서울특별시서초구잠원동">서울특별시서초구 잠원동</a></td>
     <td style="font-weight: bold;"><a href="/apt/서울특별시서초구잠원동반포센트럴자이">반포센트럴자이</a></td>
     <td>3584</td>
@@ -100,12 +106,6 @@ permalink: /analysis/아파트별매매평단가탑100랭킹
   </tr>
 
   <tr>
-    <td><a href="/apt/서울특별시강남구삼성동">서울특별시강남구 삼성동</a></td>
-    <td style="font-weight: bold;"><a href="/apt/서울특별시강남구삼성동삼성동센트럴아이파크">삼성동센트럴아이파크</a></td>
-    <td>3502</td>
-  </tr>
-
-  <tr>
     <td><a href="/apt/서울특별시서초구반포동">서울특별시서초구 반포동</a></td>
     <td style="font-weight: bold;"><a href="/apt/서울특별시서초구반포동반포래미안아이파크">반포래미안아이파크</a></td>
     <td>3502</td>
@@ -114,7 +114,7 @@ permalink: /analysis/아파트별매매평단가탑100랭킹
   <tr>
     <td><a href="/apt/서울특별시서초구반포동">서울특별시서초구 반포동</a></td>
     <td style="font-weight: bold;"><a href="/apt/서울특별시서초구반포동반포자이">반포자이</a></td>
-    <td>3456</td>
+    <td>3477</td>
   </tr>
 
   <tr>
@@ -133,6 +133,12 @@ permalink: /analysis/아파트별매매평단가탑100랭킹
     <td><a href="/apt/서울특별시강남구청담동">서울특별시강남구 청담동</a></td>
     <td style="font-weight: bold;"><a href="/apt/서울특별시강남구청담동빌폴라리스">빌폴라리스</a></td>
     <td>3434</td>
+  </tr>
+
+  <tr>
+    <td><a href="/apt/서울특별시강남구대치동">서울특별시강남구 대치동</a></td>
+    <td style="font-weight: bold;"><a href="/apt/서울특별시강남구대치동대치SKVIEW">대치SKVIEW</a></td>
+    <td>3416</td>
   </tr>
 
   <tr>
@@ -166,12 +172,6 @@ permalink: /analysis/아파트별매매평단가탑100랭킹
   </tr>
 
   <tr>
-    <td><a href="/apt/서울특별시강남구대치동">서울특별시강남구 대치동</a></td>
-    <td style="font-weight: bold;"><a href="/apt/서울특별시강남구대치동대치SKVIEW">대치SKVIEW</a></td>
-    <td>3296</td>
-  </tr>
-
-  <tr>
     <td><a href="/apt/서울특별시서초구서초동">서울특별시서초구 서초동</a></td>
     <td style="font-weight: bold;"><a href="/apt/서울특별시서초구서초동서초그랑자이">서초그랑자이</a></td>
     <td>3270</td>
@@ -181,6 +181,12 @@ permalink: /analysis/아파트별매매평단가탑100랭킹
     <td><a href="/apt/서울특별시강남구압구정동">서울특별시강남구 압구정동</a></td>
     <td style="font-weight: bold;"><a href="/apt/서울특별시강남구압구정동신현대11차">신현대11차</a></td>
     <td>3258</td>
+  </tr>
+
+  <tr>
+    <td><a href="/apt/서울특별시송파구잠실동">서울특별시송파구 잠실동</a></td>
+    <td style="font-weight: bold;"><a href="/apt/서울특별시송파구잠실동주공아파트5단지">주공아파트 5단지</a></td>
+    <td>3234</td>
   </tr>
 
   <tr>
@@ -211,12 +217,6 @@ permalink: /analysis/아파트별매매평단가탑100랭킹
     <td><a href="/apt/서울특별시강남구압구정동">서울특별시강남구 압구정동</a></td>
     <td style="font-weight: bold;"><a href="/apt/서울특별시강남구압구정동현대6차(78~81,83,84,86,87동)">현대6차(78~81,83,84,86,87동)</a></td>
     <td>3203</td>
-  </tr>
-
-  <tr>
-    <td><a href="/apt/서울특별시송파구잠실동">서울특별시송파구 잠실동</a></td>
-    <td style="font-weight: bold;"><a href="/apt/서울특별시송파구잠실동주공아파트5단지">주공아파트 5단지</a></td>
-    <td>3199</td>
   </tr>
 
   <tr>
@@ -382,15 +382,21 @@ permalink: /analysis/아파트별매매평단가탑100랭킹
   </tr>
 
   <tr>
+    <td><a href="/apt/서울특별시강남구역삼동">서울특별시강남구 역삼동</a></td>
+    <td style="font-weight: bold;"><a href="/apt/서울특별시강남구역삼동역삼래미안">역삼래미안</a></td>
+    <td>2839</td>
+  </tr>
+
+  <tr>
     <td><a href="/apt/서울특별시강남구압구정동">서울특별시강남구 압구정동</a></td>
     <td style="font-weight: bold;"><a href="/apt/서울특별시강남구압구정동미성2차">미성2차</a></td>
     <td>2839</td>
   </tr>
 
   <tr>
-    <td><a href="/apt/서울특별시강남구역삼동">서울특별시강남구 역삼동</a></td>
-    <td style="font-weight: bold;"><a href="/apt/서울특별시강남구역삼동역삼래미안">역삼래미안</a></td>
-    <td>2830</td>
+    <td><a href="/apt/서울특별시강남구일원동">서울특별시강남구 일원동</a></td>
+    <td style="font-weight: bold;"><a href="/apt/서울특별시강남구일원동디에이치자이개포">디에이치자이개포</a></td>
+    <td>2825</td>
   </tr>
 
   <tr>
@@ -406,12 +412,6 @@ permalink: /analysis/아파트별매매평단가탑100랭킹
   </tr>
 
   <tr>
-    <td><a href="/apt/서울특별시강남구일원동">서울특별시강남구 일원동</a></td>
-    <td style="font-weight: bold;"><a href="/apt/서울특별시강남구일원동디에이치자이개포">디에이치자이개포</a></td>
-    <td>2781</td>
-  </tr>
-
-  <tr>
     <td><a href="/apt/서울특별시서초구잠원동">서울특별시서초구 잠원동</a></td>
     <td style="font-weight: bold;"><a href="/apt/서울특별시서초구잠원동롯데캐슬갤럭시">롯데캐슬갤럭시</a></td>
     <td>2779</td>
@@ -420,7 +420,7 @@ permalink: /analysis/아파트별매매평단가탑100랭킹
   <tr>
     <td><a href="/apt/서울특별시강남구개포동">서울특별시강남구 개포동</a></td>
     <td style="font-weight: bold;"><a href="/apt/서울특별시강남구개포동개포래미안포레스트">개포래미안포레스트</a></td>
-    <td>2762</td>
+    <td>2770</td>
   </tr>
 
   <tr>
@@ -438,7 +438,7 @@ permalink: /analysis/아파트별매매평단가탑100랭킹
   <tr>
     <td><a href="/apt/서울특별시강남구대치동">서울특별시강남구 대치동</a></td>
     <td style="font-weight: bold;"><a href="/apt/서울특별시강남구대치동은마">은마</a></td>
-    <td>2739</td>
+    <td>2749</td>
   </tr>
 
   <tr>
@@ -450,13 +450,13 @@ permalink: /analysis/아파트별매매평단가탑100랭킹
   <tr>
     <td><a href="/apt/서울특별시강남구개포동">서울특별시강남구 개포동</a></td>
     <td style="font-weight: bold;"><a href="/apt/서울특별시강남구개포동성원대치2단지아파트">성원대치2단지아파트</a></td>
-    <td>2649</td>
+    <td>2662</td>
   </tr>
 
   <tr>
     <td><a href="/apt/서울특별시송파구잠실동">서울특별시송파구 잠실동</a></td>
     <td style="font-weight: bold;"><a href="/apt/서울특별시송파구잠실동잠실엘스">잠실엘스</a></td>
-    <td>2637</td>
+    <td>2656</td>
   </tr>
 
   <tr>
@@ -466,9 +466,15 @@ permalink: /analysis/아파트별매매평단가탑100랭킹
   </tr>
 
   <tr>
+    <td><a href="/apt/서울특별시서초구방배동">서울특별시서초구 방배동</a></td>
+    <td style="font-weight: bold;"><a href="/apt/서울특별시서초구방배동방배아트자이">방배아트자이</a></td>
+    <td>2634</td>
+  </tr>
+
+  <tr>
     <td><a href="/apt/서울특별시송파구잠실동">서울특별시송파구 잠실동</a></td>
     <td style="font-weight: bold;"><a href="/apt/서울특별시송파구잠실동리센츠">리센츠</a></td>
-    <td>2635</td>
+    <td>2634</td>
   </tr>
 
   <tr>
@@ -484,6 +490,18 @@ permalink: /analysis/아파트별매매평단가탑100랭킹
   </tr>
 
   <tr>
+    <td><a href="/apt/서울특별시서초구잠원동">서울특별시서초구 잠원동</a></td>
+    <td style="font-weight: bold;"><a href="/apt/서울특별시서초구잠원동신반포4">신반포4</a></td>
+    <td>2599</td>
+  </tr>
+
+  <tr>
+    <td><a href="/apt/서울특별시강남구대치동">서울특별시강남구 대치동</a></td>
+    <td style="font-weight: bold;"><a href="/apt/서울특별시강남구대치동대치현대">대치현대</a></td>
+    <td>2591</td>
+  </tr>
+
+  <tr>
     <td><a href="/apt/서울특별시서초구서초동">서울특별시서초구 서초동</a></td>
     <td style="font-weight: bold;"><a href="/apt/서울특별시서초구서초동서초교대e편한세상">서초교대e편한세상</a></td>
     <td>2589</td>
@@ -493,12 +511,6 @@ permalink: /analysis/아파트별매매평단가탑100랭킹
     <td><a href="/apt/서울특별시서초구반포동">서울특별시서초구 반포동</a></td>
     <td style="font-weight: bold;"><a href="/apt/서울특별시서초구반포동반포미도">반포미도</a></td>
     <td>2588</td>
-  </tr>
-
-  <tr>
-    <td><a href="/apt/서울특별시서초구잠원동">서울특별시서초구 잠원동</a></td>
-    <td style="font-weight: bold;"><a href="/apt/서울특별시서초구잠원동신반포4">신반포4</a></td>
-    <td>2584</td>
   </tr>
 
   <tr>
@@ -574,12 +586,6 @@ permalink: /analysis/아파트별매매평단가탑100랭킹
   </tr>
 
   <tr>
-    <td><a href="/apt/서울특별시서초구반포동">서울특별시서초구 반포동</a></td>
-    <td style="font-weight: bold;"><a href="/apt/서울특별시서초구반포동한신서래">한신서래</a></td>
-    <td>2472</td>
-  </tr>
-
-  <tr>
     <td><a href="/apt/서울특별시강남구도곡동">서울특별시강남구 도곡동</a></td>
     <td style="font-weight: bold;"><a href="/apt/서울특별시강남구도곡동타워팰리스2">타워팰리스2</a></td>
     <td>2469</td>
@@ -604,15 +610,9 @@ permalink: /analysis/아파트별매매평단가탑100랭킹
   </tr>
 
   <tr>
-    <td><a href="/apt/서울특별시강남구대치동">서울특별시강남구 대치동</a></td>
-    <td style="font-weight: bold;"><a href="/apt/서울특별시강남구대치동선경1차(1동-7동)">선경1차(1동-7동)</a></td>
-    <td>2440</td>
-  </tr>
-
-  <tr>
-    <td><a href="/apt/서울특별시서초구잠원동">서울특별시서초구 잠원동</a></td>
-    <td style="font-weight: bold;"><a href="/apt/서울특별시서초구잠원동신반포7">신반포7</a></td>
-    <td>2423</td>
+    <td><a href="/apt/서울특별시송파구잠실동">서울특별시송파구 잠실동</a></td>
+    <td style="font-weight: bold;"><a href="/apt/서울특별시송파구잠실동트리지움">트리지움</a></td>
+    <td>2444</td>
   </tr>
 
 </table>

@@ -283,6 +283,22 @@ permalink: /analysis/아파트매매평단가탑100랭킹
 
   <tr>
     <td><a href="/apt/서울특별시서초구반포동">서울특별시서초구 반포동</a></td>
+    <td style="font-weight: bold;"><a href="/apt/서울특별시서초구반포동반포자이">반포자이</a></td>
+    <td>84.943</td>
+    <td>320,000</td>
+    <td>3767</td>
+  </tr>
+
+  <tr>
+    <td><a href="/apt/서울특별시강남구삼성동">서울특별시강남구 삼성동</a></td>
+    <td style="font-weight: bold;"><a href="/apt/서울특별시강남구삼성동삼성동센트럴아이파크">삼성동센트럴아이파크</a></td>
+    <td>84.99</td>
+    <td>320,000</td>
+    <td>3765</td>
+  </tr>
+
+  <tr>
+    <td><a href="/apt/서울특별시서초구반포동">서울특별시서초구 반포동</a></td>
     <td style="font-weight: bold;"><a href="/apt/서울특별시서초구반포동아크로리버파크">아크로리버파크</a></td>
     <td>59.97</td>
     <td>225,000</td>
@@ -303,6 +319,14 @@ permalink: /analysis/아파트매매평단가탑100랭킹
     <td>135.92</td>
     <td>500,000</td>
     <td>3679</td>
+  </tr>
+
+  <tr>
+    <td><a href="/apt/서울특별시성동구성수동1가">서울특별시성동구 성수동1가</a></td>
+    <td style="font-weight: bold;"><a href="/apt/서울특별시성동구성수동1가트리마제">트리마제</a></td>
+    <td>84.5402</td>
+    <td>309,500</td>
+    <td>3661</td>
   </tr>
 
   <tr>
@@ -367,6 +391,14 @@ permalink: /analysis/아파트매매평단가탑100랭킹
     <td>59.95</td>
     <td>215,000</td>
     <td>3586</td>
+  </tr>
+
+  <tr>
+    <td><a href="/apt/서울특별시강남구대치동">서울특별시강남구 대치동</a></td>
+    <td style="font-weight: bold;"><a href="/apt/서울특별시강남구대치동대치SKVIEW">대치SKVIEW</a></td>
+    <td>59.671</td>
+    <td>211,000</td>
+    <td>3536</td>
   </tr>
 
   <tr>
@@ -482,6 +514,14 @@ permalink: /analysis/아파트매매평단가탑100랭킹
   </tr>
 
   <tr>
+    <td><a href="/apt/서울특별시송파구잠실동">서울특별시송파구 잠실동</a></td>
+    <td style="font-weight: bold;"><a href="/apt/서울특별시송파구잠실동주공아파트5단지">주공아파트 5단지</a></td>
+    <td>82.51</td>
+    <td>282,100</td>
+    <td>3419</td>
+  </tr>
+
+  <tr>
     <td><a href="/apt/서울특별시서초구반포동">서울특별시서초구 반포동</a></td>
     <td style="font-weight: bold;"><a href="/apt/서울특별시서초구반포동반포리체">반포리체</a></td>
     <td>59.993</td>
@@ -511,6 +551,14 @@ permalink: /analysis/아파트매매평단가탑100랭킹
     <td>84.97</td>
     <td>289,000</td>
     <td>3401</td>
+  </tr>
+
+  <tr>
+    <td><a href="/apt/서울특별시송파구잠실동">서울특별시송파구 잠실동</a></td>
+    <td style="font-weight: bold;"><a href="/apt/서울특별시송파구잠실동주공아파트5단지">주공아파트 5단지</a></td>
+    <td>82.61</td>
+    <td>280,600</td>
+    <td>3397</td>
   </tr>
 
   <tr>
@@ -567,6 +615,14 @@ permalink: /analysis/아파트매매평단가탑100랭킹
     <td>84.982</td>
     <td>285,000</td>
     <td>3354</td>
+  </tr>
+
+  <tr>
+    <td><a href="/apt/서울특별시강남구청담동">서울특별시강남구 청담동</a></td>
+    <td style="font-weight: bold;"><a href="/apt/서울특별시강남구청담동청담자이">청담자이</a></td>
+    <td>82.365</td>
+    <td>275,000</td>
+    <td>3339</td>
   </tr>
 
   <tr>
@@ -759,62 +815,6 @@ permalink: /analysis/아파트매매평단가탑100랭킹
     <td>82.61</td>
     <td>267,600</td>
     <td>3239</td>
-  </tr>
-
-  <tr>
-    <td><a href="/apt/서울특별시강남구압구정동">서울특별시강남구 압구정동</a></td>
-    <td style="font-weight: bold;"><a href="/apt/서울특별시강남구압구정동현대6차(78~81,83,84,86,87동)">현대6차(78~81,83,84,86,87동)</a></td>
-    <td>144.7</td>
-    <td>468,000</td>
-    <td>3234</td>
-  </tr>
-
-  <tr>
-    <td><a href="/apt/서울특별시강남구압구정동">서울특별시강남구 압구정동</a></td>
-    <td style="font-weight: bold;"><a href="/apt/서울특별시강남구압구정동현대7차(73~77,82,85동)">현대7차(73~77,82,85동)</a></td>
-    <td>144.2</td>
-    <td>465,000</td>
-    <td>3225</td>
-  </tr>
-
-  <tr>
-    <td><a href="/apt/서울특별시강남구개포동">서울특별시강남구 개포동</a></td>
-    <td style="font-weight: bold;"><a href="/apt/서울특별시강남구개포동디에이치아너힐즈">디에이치아너힐즈</a></td>
-    <td>76.1709</td>
-    <td>245,000</td>
-    <td>3216</td>
-  </tr>
-
-  <tr>
-    <td><a href="/apt/서울특별시강남구대치동">서울특별시강남구 대치동</a></td>
-    <td style="font-weight: bold;"><a href="/apt/서울특별시강남구대치동(977-)">(977-)</a></td>
-    <td>59.99</td>
-    <td>192,600</td>
-    <td>3211</td>
-  </tr>
-
-  <tr>
-    <td><a href="/apt/서울특별시강남구개포동">서울특별시강남구 개포동</a></td>
-    <td style="font-weight: bold;"><a href="/apt/서울특별시강남구개포동디에이치아너힐즈">디에이치아너힐즈</a></td>
-    <td>84.3558</td>
-    <td>270,000</td>
-    <td>3201</td>
-  </tr>
-
-  <tr>
-    <td><a href="/apt/서울특별시서초구잠원동">서울특별시서초구 잠원동</a></td>
-    <td style="font-weight: bold;"><a href="/apt/서울특별시서초구잠원동신반포2">신반포2</a></td>
-    <td>68.91</td>
-    <td>220,000</td>
-    <td>3193</td>
-  </tr>
-
-  <tr>
-    <td><a href="/apt/부산광역시해운대구우동">부산광역시해운대구 우동</a></td>
-    <td style="font-weight: bold;"><a href="/apt/부산광역시해운대구우동해운대IPARK">해운대 I PARK</a></td>
-    <td>219.945</td>
-    <td>700,000</td>
-    <td>3183</td>
   </tr>
 
 </table>
