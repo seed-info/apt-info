@@ -242,6 +242,14 @@ permalink: /analysis/아파트매매평단가탑100랭킹
   </tr>
 
   <tr>
+    <td><a href="/apt/서울특별시강남구대치동">서울특별시강남구 대치동</a></td>
+    <td style="font-weight: bold;"><a href="/apt/서울특별시강남구대치동래미안대치팰리스">래미안대치팰리스</a></td>
+    <td>114.14</td>
+    <td>441,000</td>
+    <td>3864</td>
+  </tr>
+
+  <tr>
     <td><a href="/apt/서울특별시서초구반포동">서울특별시서초구 반포동</a></td>
     <td style="font-weight: bold;"><a href="/apt/서울특별시서초구반포동아크로리버파크">아크로리버파크</a></td>
     <td>84.98</td>
@@ -714,6 +722,14 @@ permalink: /analysis/아파트매매평단가탑100랭킹
   </tr>
 
   <tr>
+    <td><a href="/apt/서울특별시서초구반포동">서울특별시서초구 반포동</a></td>
+    <td style="font-weight: bold;"><a href="/apt/서울특별시서초구반포동반포자이">반포자이</a></td>
+    <td>84.943</td>
+    <td>288,000</td>
+    <td>3391</td>
+  </tr>
+
+  <tr>
     <td><a href="/apt/서울특별시강남구역삼동">서울특별시강남구 역삼동</a></td>
     <td style="font-weight: bold;"><a href="/apt/서울특별시강남구역삼동테헤란아이파크">테헤란아이파크</a></td>
     <td>70.8333</td>
@@ -799,22 +815,6 @@ permalink: /analysis/아파트매매평단가탑100랭킹
     <td>31.402</td>
     <td>104,000</td>
     <td>3312</td>
-  </tr>
-
-  <tr>
-    <td><a href="/apt/서울특별시서초구반포동">서울특별시서초구 반포동</a></td>
-    <td style="font-weight: bold;"><a href="/apt/서울특별시서초구반포동반포리체">반포리체</a></td>
-    <td>84.967</td>
-    <td>281,000</td>
-    <td>3307</td>
-  </tr>
-
-  <tr>
-    <td><a href="/apt/서울특별시강남구압구정동">서울특별시강남구 압구정동</a></td>
-    <td style="font-weight: bold;"><a href="/apt/서울특별시강남구압구정동현대7차(73~77,82,85동)">현대7차(73~77,82,85동)</a></td>
-    <td>157.36</td>
-    <td>520,000</td>
-    <td>3305</td>
   </tr>
 
 </table>
