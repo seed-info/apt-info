@@ -378,6 +378,14 @@ permalink: /analysis/아파트매매평단가탑100랭킹
   </tr>
 
   <tr>
+    <td><a href="/apt/서울특별시송파구잠실동">서울특별시송파구 잠실동</a></td>
+    <td style="font-weight: bold;"><a href="/apt/서울특별시송파구잠실동리센츠">리센츠</a></td>
+    <td>27.68</td>
+    <td>99,000</td>
+    <td>3577</td>
+  </tr>
+
+  <tr>
     <td><a href="/apt/서울특별시강남구도곡동">서울특별시강남구 도곡동</a></td>
     <td style="font-weight: bold;"><a href="/apt/서울특별시강남구도곡동한신(개포)">한신(개포)</a></td>
     <td>52.73</td>
@@ -431,6 +439,22 @@ permalink: /analysis/아파트매매평단가탑100랭킹
     <td>53.46</td>
     <td>189,000</td>
     <td>3535</td>
+  </tr>
+
+  <tr>
+    <td><a href="/apt/서울특별시강남구압구정동">서울특별시강남구 압구정동</a></td>
+    <td style="font-weight: bold;"><a href="/apt/서울특별시강남구압구정동미성2차">미성2차</a></td>
+    <td>74.4</td>
+    <td>263,000</td>
+    <td>3535</td>
+  </tr>
+
+  <tr>
+    <td><a href="/apt/서울특별시강남구개포동">서울특별시강남구 개포동</a></td>
+    <td style="font-weight: bold;"><a href="/apt/서울특별시강남구개포동디에이치아너힐즈">디에이치아너힐즈</a></td>
+    <td>84.3558</td>
+    <td>297,000</td>
+    <td>3521</td>
   </tr>
 
   <tr>
@@ -602,6 +626,14 @@ permalink: /analysis/아파트매매평단가탑100랭킹
   </tr>
 
   <tr>
+    <td><a href="/apt/서울특별시강남구압구정동">서울특별시강남구 압구정동</a></td>
+    <td style="font-weight: bold;"><a href="/apt/서울특별시강남구압구정동신현대11차">신현대11차</a></td>
+    <td>108.36</td>
+    <td>370,000</td>
+    <td>3415</td>
+  </tr>
+
+  <tr>
     <td><a href="/apt/서울특별시서초구반포동">서울특별시서초구 반포동</a></td>
     <td style="font-weight: bold;"><a href="/apt/서울특별시서초구반포동반포리체">반포리체</a></td>
     <td>84.967</td>
@@ -762,6 +794,14 @@ permalink: /analysis/아파트매매평단가탑100랭킹
   </tr>
 
   <tr>
+    <td><a href="/apt/서울특별시서초구잠원동">서울특별시서초구 잠원동</a></td>
+    <td style="font-weight: bold;"><a href="/apt/서울특별시서초구잠원동신반포16">신반포16</a></td>
+    <td>52.32</td>
+    <td>173,000</td>
+    <td>3307</td>
+  </tr>
+
+  <tr>
     <td><a href="/apt/서울특별시강남구압구정동">서울특별시강남구 압구정동</a></td>
     <td style="font-weight: bold;"><a href="/apt/서울특별시강남구압구정동현대7차(73~77,82,85동)">현대7차(73~77,82,85동)</a></td>
     <td>157.36</td>
@@ -775,46 +815,6 @@ permalink: /analysis/아파트매매평단가탑100랭킹
     <td>59.92</td>
     <td>198,000</td>
     <td>3304</td>
-  </tr>
-
-  <tr>
-    <td><a href="/apt/서울특별시서초구서초동">서울특별시서초구 서초동</a></td>
-    <td style="font-weight: bold;"><a href="/apt/서울특별시서초구서초동서초푸르지오써밋">서초푸르지오써밋</a></td>
-    <td>59.95</td>
-    <td>198,000</td>
-    <td>3303</td>
-  </tr>
-
-  <tr>
-    <td><a href="/apt/서울특별시강남구대치동">서울특별시강남구 대치동</a></td>
-    <td style="font-weight: bold;"><a href="/apt/서울특별시강남구대치동대치아이파크">대치아이파크</a></td>
-    <td>59.96</td>
-    <td>198,000</td>
-    <td>3302</td>
-  </tr>
-
-  <tr>
-    <td><a href="/apt/서울특별시강남구개포동">서울특별시강남구 개포동</a></td>
-    <td style="font-weight: bold;"><a href="/apt/서울특별시강남구개포동개포주공5단지">개포주공5단지</a></td>
-    <td>74.25</td>
-    <td>245,000</td>
-    <td>3300</td>
-  </tr>
-
-  <tr>
-    <td><a href="/apt/서울특별시강남구개포동">서울특별시강남구 개포동</a></td>
-    <td style="font-weight: bold;"><a href="/apt/서울특별시강남구개포동디에이치아너힐즈">디에이치아너힐즈</a></td>
-    <td>59.7479</td>
-    <td>197,000</td>
-    <td>3297</td>
-  </tr>
-
-  <tr>
-    <td><a href="/apt/서울특별시강남구대치동">서울특별시강남구 대치동</a></td>
-    <td style="font-weight: bold;"><a href="/apt/서울특별시강남구대치동대치SKVIEW">대치SKVIEW</a></td>
-    <td>84.3382</td>
-    <td>278,000</td>
-    <td>3296</td>
   </tr>
 
 </table>
