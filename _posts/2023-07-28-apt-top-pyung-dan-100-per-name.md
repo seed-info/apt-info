@@ -130,15 +130,15 @@ permalink: /analysis/아파트별매매평단가탑100랭킹
   </tr>
 
   <tr>
-    <td><a href="/apt/서울특별시용산구이촌동">서울특별시용산구 이촌동</a></td>
-    <td style="font-weight: bold;"><a href="/apt/서울특별시용산구이촌동한강맨숀">한강맨숀</a></td>
-    <td>3548</td>
+    <td><a href="/apt/서울특별시강남구대치동">서울특별시강남구 대치동</a></td>
+    <td style="font-weight: bold;"><a href="/apt/서울특별시강남구대치동래미안대치팰리스">래미안대치팰리스</a></td>
+    <td>3550</td>
   </tr>
 
   <tr>
-    <td><a href="/apt/서울특별시강남구대치동">서울특별시강남구 대치동</a></td>
-    <td style="font-weight: bold;"><a href="/apt/서울특별시강남구대치동래미안대치팰리스">래미안대치팰리스</a></td>
-    <td>3540</td>
+    <td><a href="/apt/서울특별시용산구이촌동">서울특별시용산구 이촌동</a></td>
+    <td style="font-weight: bold;"><a href="/apt/서울특별시용산구이촌동한강맨숀">한강맨숀</a></td>
+    <td>3548</td>
   </tr>
 
   <tr>
@@ -286,6 +286,12 @@ permalink: /analysis/아파트별매매평단가탑100랭킹
   </tr>
 
   <tr>
+    <td><a href="/apt/서울특별시강남구대치동">서울특별시강남구 대치동</a></td>
+    <td style="font-weight: bold;"><a href="/apt/서울특별시강남구대치동선경2차(8동-12동)">선경2차(8동-12동)</a></td>
+    <td>3172</td>
+  </tr>
+
+  <tr>
     <td><a href="/apt/서울특별시강남구압구정동">서울특별시강남구 압구정동</a></td>
     <td style="font-weight: bold;"><a href="/apt/서울특별시강남구압구정동한양5">한양5</a></td>
     <td>3170</td>
@@ -306,7 +312,7 @@ permalink: /analysis/아파트별매매평단가탑100랭킹
   <tr>
     <td><a href="/apt/서울특별시강남구개포동">서울특별시강남구 개포동</a></td>
     <td style="font-weight: bold;"><a href="/apt/서울특별시강남구개포동래미안블레스티지">래미안블레스티지</a></td>
-    <td>3146</td>
+    <td>3147</td>
   </tr>
 
   <tr>
@@ -346,14 +352,14 @@ permalink: /analysis/아파트별매매평단가탑100랭킹
   </tr>
 
   <tr>
-    <td><a href="/apt/서울특별시강남구압구정동">서울특별시강남구 압구정동</a></td>
-    <td style="font-weight: bold;"><a href="/apt/서울특별시강남구압구정동현대1차(12,13,21,22,31,32,33동)">현대1차(12,13,21,22,31,32,33동)</a></td>
-    <td>3102</td>
+    <td><a href="/apt/서울특별시강남구역삼동">서울특별시강남구 역삼동</a></td>
+    <td style="font-weight: bold;"><a href="/apt/서울특별시강남구역삼동래미안그레이튼">래미안그레이튼</a></td>
+    <td>3106</td>
   </tr>
 
   <tr>
-    <td><a href="/apt/서울특별시강남구역삼동">서울특별시강남구 역삼동</a></td>
-    <td style="font-weight: bold;"><a href="/apt/서울특별시강남구역삼동래미안그레이튼">래미안그레이튼</a></td>
+    <td><a href="/apt/서울특별시강남구압구정동">서울특별시강남구 압구정동</a></td>
+    <td style="font-weight: bold;"><a href="/apt/서울특별시강남구압구정동현대1차(12,13,21,22,31,32,33동)">현대1차(12,13,21,22,31,32,33동)</a></td>
     <td>3102</td>
   </tr>
 
@@ -361,12 +367,6 @@ permalink: /analysis/아파트별매매평단가탑100랭킹
     <td><a href="/apt/서울특별시강남구일원동">서울특별시강남구 일원동</a></td>
     <td style="font-weight: bold;"><a href="/apt/서울특별시강남구일원동래미안개포루체하임">래미안 개포 루체하임</a></td>
     <td>3088</td>
-  </tr>
-
-  <tr>
-    <td><a href="/apt/서울특별시강남구대치동">서울특별시강남구 대치동</a></td>
-    <td style="font-weight: bold;"><a href="/apt/서울특별시강남구대치동선경2차(8동-12동)">선경2차(8동-12동)</a></td>
-    <td>3079</td>
   </tr>
 
   <tr>
@@ -456,7 +456,7 @@ permalink: /analysis/아파트별매매평단가탑100랭킹
   <tr>
     <td><a href="/apt/서울특별시강남구대치동">서울특별시강남구 대치동</a></td>
     <td style="font-weight: bold;"><a href="/apt/서울특별시강남구대치동은마">은마</a></td>
-    <td>2863</td>
+    <td>2865</td>
   </tr>
 
   <tr>

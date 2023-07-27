@@ -562,6 +562,14 @@ permalink: /analysis/아파트매매평단가탑100랭킹
   </tr>
 
   <tr>
+    <td><a href="/apt/서울특별시강남구대치동">서울특별시강남구 대치동</a></td>
+    <td style="font-weight: bold;"><a href="/apt/서울특별시강남구대치동래미안대치팰리스">래미안대치팰리스</a></td>
+    <td>84.97</td>
+    <td>310,000</td>
+    <td>3648</td>
+  </tr>
+
+  <tr>
     <td><a href="/apt/서울특별시서초구잠원동">서울특별시서초구 잠원동</a></td>
     <td style="font-weight: bold;"><a href="/apt/서울특별시서초구잠원동래미안신반포리오센트">래미안신반포리오센트</a></td>
     <td>59.92</td>
@@ -807,14 +815,6 @@ permalink: /analysis/아파트매매평단가탑100랭킹
     <td>59.993</td>
     <td>210,000</td>
     <td>3500</td>
-  </tr>
-
-  <tr>
-    <td><a href="/apt/서울특별시용산구이촌동">서울특별시용산구 이촌동</a></td>
-    <td style="font-weight: bold;"><a href="/apt/서울특별시용산구이촌동한강맨숀">한강맨숀</a></td>
-    <td>167.21</td>
-    <td>585,000</td>
-    <td>3499</td>
   </tr>
 
 </table>
