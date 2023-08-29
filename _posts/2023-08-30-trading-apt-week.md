@@ -25,7 +25,7 @@ permalink: /analysis/지난일주일매매거래량상위50아파트
 
   <tr>
     <td>2위</td>
-    <td>46</td>
+    <td>48</td>
     <td><a href="/apt/서울특별시구로구개봉동">서울특별시구로구 개봉동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시구로구개봉동현대">현대</a></td>
   </tr>
@@ -40,34 +40,34 @@ permalink: /analysis/지난일주일매매거래량상위50아파트
   <tr>
     <td>4위</td>
     <td>21</td>
-    <td><a href="/apt/부산광역시연제구연산동">부산광역시연제구 연산동</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/부산광역시연제구연산동주공">주공</a></td>
+    <td><a href="/apt/서울특별시동작구대방동">서울특별시동작구 대방동</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시동작구대방동주공2">주공2</a></td>
   </tr>
 
   <tr>
     <td>5위</td>
     <td>21</td>
-    <td><a href="/apt/인천광역시서구심곡동">인천광역시서구 심곡동</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/인천광역시서구심곡동삼성">삼성</a></td>
+    <td><a href="/apt/부산광역시연제구연산동">부산광역시연제구 연산동</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/부산광역시연제구연산동주공">주공</a></td>
   </tr>
 
   <tr>
     <td>6위</td>
-    <td>20</td>
+    <td>21</td>
     <td><a href="/apt/경상남도창원시성산구상남동">경상남도창원시성산구 상남동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/경상남도창원시성산구상남동성원">성원</a></td>
   </tr>
 
   <tr>
     <td>7위</td>
-    <td>19</td>
-    <td><a href="/apt/서울특별시동작구대방동">서울특별시동작구 대방동</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시동작구대방동주공2">주공2</a></td>
+    <td>21</td>
+    <td><a href="/apt/인천광역시서구심곡동">인천광역시서구 심곡동</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/인천광역시서구심곡동삼성">삼성</a></td>
   </tr>
 
   <tr>
     <td>8위</td>
-    <td>19</td>
+    <td>20</td>
     <td><a href="/apt/서울특별시노원구하계동">서울특별시노원구 하계동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시노원구하계동벽산">벽산</a></td>
   </tr>
@@ -166,106 +166,106 @@ permalink: /analysis/지난일주일매매거래량상위50아파트
   <tr>
     <td>22위</td>
     <td>11</td>
+    <td><a href="/apt/서울특별시구로구구로동">서울특별시구로구 구로동</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시구로구구로동삼성래미안">삼성래미안</a></td>
+  </tr>
+
+  <tr>
+    <td>23위</td>
+    <td>11</td>
     <td><a href="/apt/충청남도천안시서북구두정동">충청남도천안시서북구 두정동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/충청남도천안시서북구두정동두정역효성해링턴플레이스">두정역효성해링턴플레이스</a></td>
   </tr>
 
   <tr>
-    <td>23위</td>
+    <td>24위</td>
     <td>11</td>
     <td><a href="/apt/대구광역시수성구범어동">대구광역시수성구 범어동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/대구광역시수성구범어동두산위브더제니스">두산위브더제니스</a></td>
   </tr>
 
   <tr>
-    <td>24위</td>
+    <td>25위</td>
     <td>11</td>
     <td><a href="/apt/전라북도익산시동산동">전라북도익산시 동산동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/전라북도익산시동산동동신">동신</a></td>
   </tr>
 
   <tr>
-    <td>25위</td>
+    <td>26위</td>
     <td>10</td>
     <td><a href="/apt/경기도수원시팔달구우만동">경기도수원시팔달구 우만동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도수원시팔달구우만동풍림">풍림</a></td>
   </tr>
 
   <tr>
-    <td>26위</td>
+    <td>27위</td>
     <td>10</td>
     <td><a href="/apt/서울특별시구로구고척동">서울특별시구로구 고척동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시구로구고척동청구">청구</a></td>
   </tr>
 
   <tr>
-    <td>27위</td>
+    <td>28위</td>
     <td>10</td>
     <td><a href="/apt/경기도남양주시와부읍덕소리">경기도남양주시 와부읍덕소리</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도남양주시와부읍덕소리주공1">주공1</a></td>
   </tr>
 
   <tr>
-    <td>28위</td>
+    <td>29위</td>
     <td>10</td>
-    <td><a href="/apt/서울특별시구로구구로동">서울특별시구로구 구로동</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시구로구구로동삼성래미안">삼성래미안</a></td>
+    <td><a href="/apt/서울특별시용산구서빙고동">서울특별시용산구 서빙고동</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시용산구서빙고동신동아">신동아</a></td>
   </tr>
 
   <tr>
-    <td>29위</td>
+    <td>30위</td>
     <td>10</td>
     <td><a href="/apt/울산광역시동구방어동">울산광역시동구 방어동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/울산광역시동구방어동베이프런트">베이프런트</a></td>
   </tr>
 
   <tr>
-    <td>30위</td>
+    <td>31위</td>
     <td>10</td>
     <td><a href="/apt/경기도수원시영통구매탄동">경기도수원시영통구 매탄동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도수원시영통구매탄동동남">동남</a></td>
   </tr>
 
   <tr>
-    <td>31위</td>
+    <td>32위</td>
     <td>10</td>
     <td><a href="/apt/서울특별시강북구수유동">서울특별시강북구 수유동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시강북구수유동극동">극동</a></td>
   </tr>
 
   <tr>
-    <td>32위</td>
+    <td>33위</td>
     <td>9</td>
     <td><a href="/apt/경기도안산시상록구월피동">경기도안산시상록구 월피동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도안산시상록구월피동현대2차">현대2차</a></td>
   </tr>
 
   <tr>
-    <td>33위</td>
+    <td>34위</td>
     <td>9</td>
     <td><a href="/apt/충청남도아산시장존동">충청남도아산시 장존동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/충청남도아산시장존동청솔">청솔</a></td>
   </tr>
 
   <tr>
-    <td>34위</td>
+    <td>35위</td>
     <td>9</td>
     <td><a href="/apt/경기도안성시공도읍용두리">경기도안성시 공도읍용두리</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도안성시공도읍용두리주은풍림">주은풍림</a></td>
   </tr>
 
   <tr>
-    <td>35위</td>
+    <td>36위</td>
     <td>9</td>
     <td><a href="/apt/인천광역시연수구연수동">인천광역시연수구 연수동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/인천광역시연수구연수동우성2">우성2</a></td>
-  </tr>
-
-  <tr>
-    <td>36위</td>
-    <td>9</td>
-    <td><a href="/apt/서울특별시용산구서빙고동">서울특별시용산구 서빙고동</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시용산구서빙고동신동아">신동아</a></td>
   </tr>
 
   <tr>
@@ -306,64 +306,64 @@ permalink: /analysis/지난일주일매매거래량상위50아파트
   <tr>
     <td>42위</td>
     <td>8</td>
+    <td><a href="/apt/인천광역시서구당하동">인천광역시서구 당하동</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/인천광역시서구당하동태평">태평</a></td>
+  </tr>
+
+  <tr>
+    <td>43위</td>
+    <td>8</td>
     <td><a href="/apt/경기도수원시권선구고색동">경기도수원시권선구 고색동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도수원시권선구고색동우림필유">우림필유</a></td>
   </tr>
 
   <tr>
-    <td>43위</td>
+    <td>44위</td>
     <td>8</td>
     <td><a href="/apt/부산광역시연제구연산동">부산광역시연제구 연산동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/부산광역시연제구연산동연제SKVIEWCentral">연제SKVIEWCentral</a></td>
   </tr>
 
   <tr>
-    <td>44위</td>
+    <td>45위</td>
     <td>8</td>
     <td><a href="/apt/전라북도군산시소룡동">전라북도군산시 소룡동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/전라북도군산시소룡동성원상떼빌">성원상떼빌</a></td>
   </tr>
 
   <tr>
-    <td>45위</td>
+    <td>46위</td>
     <td>8</td>
     <td><a href="/apt/경기도안양시만안구석수동">경기도안양시만안구 석수동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도안양시만안구석수동석수엘지빌리지">석수엘지빌리지</a></td>
   </tr>
 
   <tr>
-    <td>46위</td>
+    <td>47위</td>
     <td>8</td>
     <td><a href="/apt/경상남도창원시성산구남양동">경상남도창원시성산구 남양동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/경상남도창원시성산구남양동동성">동성</a></td>
   </tr>
 
   <tr>
-    <td>47위</td>
+    <td>48위</td>
     <td>8</td>
     <td><a href="/apt/서울특별시관악구신림동">서울특별시관악구 신림동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시관악구신림동동부">동부</a></td>
   </tr>
 
   <tr>
-    <td>48위</td>
+    <td>49위</td>
     <td>8</td>
     <td><a href="/apt/부산광역시해운대구좌동">부산광역시해운대구 좌동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/부산광역시해운대구좌동대림">대림</a></td>
   </tr>
 
   <tr>
-    <td>49위</td>
+    <td>50위</td>
     <td>8</td>
     <td><a href="/apt/광주광역시동구계림동">광주광역시동구 계림동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/광주광역시동구계림동그랜드센트럴">그랜드센트럴</a></td>
-  </tr>
-
-  <tr>
-    <td>50위</td>
-    <td>7</td>
-    <td><a href="/apt/대전광역시서구복수동">대전광역시서구 복수동</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/대전광역시서구복수동현진에버빌">현진에버빌</a></td>
   </tr>
 
 </table>
