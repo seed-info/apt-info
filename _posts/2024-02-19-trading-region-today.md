@@ -15,4 +15,10 @@ permalink: /analysis/오늘매매거래량상위50지역
     <td>지역</td>
   </tr>
 
+  <tr>
+    <td>1위</td>
+    <td>1</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도파주시">경기도파주시 </a></td>
+  </tr>
+
 </table>

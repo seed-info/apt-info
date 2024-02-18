@@ -432,7 +432,7 @@ permalink: /analysis/지역별매매평단가랭킹
   <tr>
     <td>70위</td>
     <td><a href="/apt/경기도파주시{dong}">경기도파주시</a></td>
-    <td>462</td>
+    <td>461</td>
   </tr>
 
   <tr>

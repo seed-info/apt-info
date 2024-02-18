@@ -16,4 +16,11 @@ permalink: /analysis/오늘매매거래량상위50아파트
     <td>아파트명</td>
   </tr>
 
+  <tr>
+    <td>1위</td>
+    <td>1</td>
+    <td><a href="/apt/경기도파주시금촌동">경기도파주시 금촌동</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도파주시금촌동건일장미5차">건일장미5차</a></td>
+  </tr>
+
 </table>

@@ -627,6 +627,14 @@ permalink: /weekly/주간시세변화율랭킹
 
   <tr class="item">
     <td>75</td>
+    <td><a href="/apt/경기도파주시">경기도파주시</a></td>
+    <td>28,333</td>
+    <td>23,000</td>
+    <td>-18.82%</td>
+  </tr>
+
+  <tr class="item">
+    <td>76</td>
     <td><a href="/apt/울산광역시동구">울산광역시동구</a></td>
     <td>16,917</td>
     <td>13,500</td>
@@ -634,7 +642,7 @@ permalink: /weekly/주간시세변화율랭킹
   </tr>
 
   <tr class="item">
-    <td>76</td>
+    <td>77</td>
     <td><a href="/apt/경기도평택시">경기도평택시</a></td>
     <td>35,151</td>
     <td>27,969</td>
@@ -642,7 +650,7 @@ permalink: /weekly/주간시세변화율랭킹
   </tr>
 
   <tr class="item">
-    <td>77</td>
+    <td>78</td>
     <td><a href="/apt/서울특별시은평구">서울특별시은평구</a></td>
     <td>83,000</td>
     <td>53,500</td>
@@ -650,7 +658,7 @@ permalink: /weekly/주간시세변화율랭킹
   </tr>
 
   <tr class="item">
-    <td>78</td>
+    <td>79</td>
     <td><a href="/apt/대구광역시수성구">대구광역시수성구</a></td>
     <td>52,000</td>
     <td>32,500</td>
@@ -658,7 +666,7 @@ permalink: /weekly/주간시세변화율랭킹
   </tr>
 
   <tr class="item">
-    <td>79</td>
+    <td>80</td>
     <td><a href="/apt/경기도남양주시">경기도남양주시</a></td>
     <td>52,500</td>
     <td>25,750</td>
@@ -666,7 +674,7 @@ permalink: /weekly/주간시세변화율랭킹
   </tr>
 
   <tr class="item">
-    <td>80</td>
+    <td>81</td>
     <td><a href="/apt/경상북도구미시">경상북도구미시</a></td>
     <td>8,500</td>
     <td>4,000</td>
