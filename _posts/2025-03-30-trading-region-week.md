@@ -53,7 +53,7 @@ permalink: /analysis/지난일주일매매거래량상위50지역
 
   <tr>
     <td>7위</td>
-    <td>166</td>
+    <td>167</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시송파구">서울특별시송파구 </a></td>
   </tr>
 
@@ -83,14 +83,14 @@ permalink: /analysis/지난일주일매매거래량상위50지역
 
   <tr>
     <td>12위</td>
-    <td>145</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도평택시">경기도평택시 </a></td>
+    <td>147</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시동작구">서울특별시동작구 </a></td>
   </tr>
 
   <tr>
     <td>13위</td>
     <td>145</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시동작구">서울특별시동작구 </a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도평택시">경기도평택시 </a></td>
   </tr>
 
   <tr>
@@ -101,14 +101,14 @@ permalink: /analysis/지난일주일매매거래량상위50지역
 
   <tr>
     <td>15위</td>
-    <td>135</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/대구광역시달서구">대구광역시달서구 </a></td>
+    <td>136</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시영등포구">서울특별시영등포구 </a></td>
   </tr>
 
   <tr>
     <td>16위</td>
     <td>135</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시영등포구">서울특별시영등포구 </a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/대구광역시달서구">대구광역시달서구 </a></td>
   </tr>
 
   <tr>
@@ -125,50 +125,50 @@ permalink: /analysis/지난일주일매매거래량상위50지역
 
   <tr>
     <td>19위</td>
+    <td>131</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시서초구">서울특별시서초구 </a></td>
+  </tr>
+
+  <tr>
+    <td>20위</td>
     <td>124</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도시흥시">경기도시흥시 </a></td>
   </tr>
 
   <tr>
-    <td>20위</td>
-    <td>119</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시마포구">서울특별시마포구 </a></td>
-  </tr>
-
-  <tr>
     <td>21위</td>
-    <td>118</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도용인시기흥구">경기도용인시기흥구 </a></td>
+    <td>120</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시마포구">서울특별시마포구 </a></td>
   </tr>
 
   <tr>
     <td>22위</td>
     <td>118</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시노원구">서울특별시노원구 </a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도용인시기흥구">경기도용인시기흥구 </a></td>
   </tr>
 
   <tr>
     <td>23위</td>
+    <td>118</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시노원구">서울특별시노원구 </a></td>
+  </tr>
+
+  <tr>
+    <td>24위</td>
     <td>117</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시양천구">서울특별시양천구 </a></td>
   </tr>
 
   <tr>
-    <td>24위</td>
+    <td>25위</td>
     <td>114</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/광주광역시광산구">광주광역시광산구 </a></td>
   </tr>
 
   <tr>
-    <td>25위</td>
+    <td>26위</td>
     <td>114</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/광주광역시북구">광주광역시북구 </a></td>
-  </tr>
-
-  <tr>
-    <td>26위</td>
-    <td>112</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시서초구">서울특별시서초구 </a></td>
   </tr>
 
   <tr>
@@ -185,14 +185,14 @@ permalink: /analysis/지난일주일매매거래량상위50지역
 
   <tr>
     <td>29위</td>
-    <td>110</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도고양시덕양구">경기도고양시덕양구 </a></td>
+    <td>111</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시성북구">서울특별시성북구 </a></td>
   </tr>
 
   <tr>
     <td>30위</td>
     <td>110</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시성북구">서울특별시성북구 </a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도고양시덕양구">경기도고양시덕양구 </a></td>
   </tr>
 
   <tr>

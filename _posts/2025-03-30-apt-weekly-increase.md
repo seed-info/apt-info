@@ -125,8 +125,8 @@ permalink: /weekly/주간시세변화율랭킹
     <td>14</td>
     <td><a href="/apt/서울특별시동작구">서울특별시동작구</a></td>
     <td>127,823</td>
-    <td>147,695</td>
-    <td>15.55%</td>
+    <td>147,691</td>
+    <td>15.54%</td>
   </tr>
 
   <tr class="item">
@@ -523,14 +523,6 @@ permalink: /weekly/주간시세변화율랭킹
 
   <tr class="item">
     <td>62</td>
-    <td><a href="/apt/서울특별시서초구">서울특별시서초구</a></td>
-    <td>235,047</td>
-    <td>238,465</td>
-    <td>1.45%</td>
-  </tr>
-
-  <tr class="item">
-    <td>63</td>
     <td><a href="/apt/대구광역시중구">대구광역시중구</a></td>
     <td>65,672</td>
     <td>66,688</td>
@@ -538,7 +530,7 @@ permalink: /weekly/주간시세변화율랭킹
   </tr>
 
   <tr class="item">
-    <td>64</td>
+    <td>63</td>
     <td><a href="/apt/대전광역시중구">대전광역시중구</a></td>
     <td>45,648</td>
     <td>46,508</td>
@@ -546,7 +538,7 @@ permalink: /weekly/주간시세변화율랭킹
   </tr>
 
   <tr class="item">
-    <td>65</td>
+    <td>64</td>
     <td><a href="/apt/경기도수원시권선구">경기도수원시권선구</a></td>
     <td>59,460</td>
     <td>60,270</td>
@@ -554,7 +546,7 @@ permalink: /weekly/주간시세변화율랭킹
   </tr>
 
   <tr class="item">
-    <td>66</td>
+    <td>65</td>
     <td><a href="/apt/경기도수원시팔달구">경기도수원시팔달구</a></td>
     <td>67,281</td>
     <td>68,036</td>
@@ -562,7 +554,7 @@ permalink: /weekly/주간시세변화율랭킹
   </tr>
 
   <tr class="item">
-    <td>67</td>
+    <td>66</td>
     <td><a href="/apt/경기도고양시일산서구">경기도고양시일산서구</a></td>
     <td>57,020</td>
     <td>57,903</td>
@@ -570,7 +562,7 @@ permalink: /weekly/주간시세변화율랭킹
   </tr>
 
   <tr class="item">
-    <td>68</td>
+    <td>67</td>
     <td><a href="/apt/경기도여주시">경기도여주시</a></td>
     <td>30,797</td>
     <td>31,168</td>
@@ -578,7 +570,7 @@ permalink: /weekly/주간시세변화율랭킹
   </tr>
 
   <tr class="item">
-    <td>69</td>
+    <td>68</td>
     <td><a href="/apt/경상북도영천시">경상북도영천시</a></td>
     <td>17,562</td>
     <td>17,750</td>
@@ -586,7 +578,7 @@ permalink: /weekly/주간시세변화율랭킹
   </tr>
 
   <tr class="item">
-    <td>70</td>
+    <td>69</td>
     <td><a href="/apt/경상남도창원시마산회원구">경상남도창원시마산회원구</a></td>
     <td>24,241</td>
     <td>24,684</td>
@@ -594,7 +586,7 @@ permalink: /weekly/주간시세변화율랭킹
   </tr>
 
   <tr class="item">
-    <td>71</td>
+    <td>70</td>
     <td><a href="/apt/경상남도창원시진해구">경상남도창원시진해구</a></td>
     <td>20,406</td>
     <td>20,750</td>
@@ -602,7 +594,7 @@ permalink: /weekly/주간시세변화율랭킹
   </tr>
 
   <tr class="item">
-    <td>72</td>
+    <td>71</td>
     <td><a href="/apt/서울특별시성동구">서울특별시성동구</a></td>
     <td>180,785</td>
     <td>181,819</td>
@@ -610,7 +602,7 @@ permalink: /weekly/주간시세변화율랭킹
   </tr>
 
   <tr class="item">
-    <td>73</td>
+    <td>72</td>
     <td><a href="/apt/서울특별시도봉구">서울특별시도봉구</a></td>
     <td>56,004</td>
     <td>55,872</td>
@@ -618,11 +610,19 @@ permalink: /weekly/주간시세변화율랭킹
   </tr>
 
   <tr class="item">
-    <td>74</td>
+    <td>73</td>
     <td><a href="/apt/서울특별시금천구">서울특별시금천구</a></td>
     <td>59,812</td>
     <td>59,688</td>
     <td>-0.21%</td>
+  </tr>
+
+  <tr class="item">
+    <td>74</td>
+    <td><a href="/apt/서울특별시서초구">서울특별시서초구</a></td>
+    <td>235,100</td>
+    <td>234,047</td>
+    <td>-0.45%</td>
   </tr>
 
   <tr class="item">
@@ -1429,8 +1429,8 @@ permalink: /weekly/주간시세변화율랭킹
     <td>171</td>
     <td><a href="/apt/서울특별시관악구">서울특별시관악구</a></td>
     <td>106,971</td>
-    <td>75,951</td>
-    <td>-29.0%</td>
+    <td>79,076</td>
+    <td>-26.08%</td>
   </tr>
 
   <tr>

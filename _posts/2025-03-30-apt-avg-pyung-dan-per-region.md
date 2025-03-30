@@ -18,7 +18,7 @@ permalink: /analysis/지역별매매평단가랭킹
   <tr>
     <td>1위</td>
     <td><a href="/apt/서울특별시서초구{dong}">서울특별시서초구</a></td>
-    <td>3133</td>
+    <td>3144</td>
   </tr>
 
   <tr>
@@ -42,7 +42,7 @@ permalink: /analysis/지역별매매평단가랭킹
   <tr>
     <td>5위</td>
     <td><a href="/apt/서울특별시송파구{dong}">서울특별시송파구</a></td>
-    <td>2267</td>
+    <td>2268</td>
   </tr>
 
   <tr>
@@ -60,7 +60,7 @@ permalink: /analysis/지역별매매평단가랭킹
   <tr>
     <td>8위</td>
     <td><a href="/apt/서울특별시광진구{dong}">서울특별시광진구</a></td>
-    <td>1688</td>
+    <td>1689</td>
   </tr>
 
   <tr>
@@ -71,13 +71,13 @@ permalink: /analysis/지역별매매평단가랭킹
 
   <tr>
     <td>10위</td>
-    <td><a href="/apt/서울특별시동작구{dong}">서울특별시동작구</a></td>
+    <td><a href="/apt/서울특별시종로구{dong}">서울특별시종로구</a></td>
     <td>1632</td>
   </tr>
 
   <tr>
     <td>11위</td>
-    <td><a href="/apt/서울특별시종로구{dong}">서울특별시종로구</a></td>
+    <td><a href="/apt/서울특별시동작구{dong}">서울특별시동작구</a></td>
     <td>1632</td>
   </tr>
 
@@ -102,7 +102,7 @@ permalink: /analysis/지역별매매평단가랭킹
   <tr>
     <td>15위</td>
     <td><a href="/apt/서울특별시중구{dong}">서울특별시중구</a></td>
-    <td>1494</td>
+    <td>1492</td>
   </tr>
 
   <tr>
@@ -143,19 +143,19 @@ permalink: /analysis/지역별매매평단가랭킹
 
   <tr>
     <td>22위</td>
-    <td><a href="/apt/서울특별시은평구{dong}">서울특별시은평구</a></td>
+    <td><a href="/apt/서울특별시관악구{dong}">서울특별시관악구</a></td>
     <td>1081</td>
   </tr>
 
   <tr>
     <td>23위</td>
-    <td><a href="/apt/경기도성남시중원구{dong}">경기도성남시중원구</a></td>
+    <td><a href="/apt/서울특별시은평구{dong}">서울특별시은평구</a></td>
     <td>1080</td>
   </tr>
 
   <tr>
     <td>24위</td>
-    <td><a href="/apt/서울특별시관악구{dong}">서울특별시관악구</a></td>
+    <td><a href="/apt/경기도성남시중원구{dong}">경기도성남시중원구</a></td>
     <td>1080</td>
   </tr>
 
@@ -294,7 +294,7 @@ permalink: /analysis/지역별매매평단가랭킹
   <tr>
     <td>47위</td>
     <td><a href="/apt/부산광역시해운대구{dong}">부산광역시해운대구</a></td>
-    <td>624</td>
+    <td>623</td>
   </tr>
 
   <tr>
@@ -402,7 +402,7 @@ permalink: /analysis/지역별매매평단가랭킹
   <tr>
     <td>65위</td>
     <td><a href="/apt/부산광역시강서구{dong}">부산광역시강서구</a></td>
-    <td>508</td>
+    <td>507</td>
   </tr>
 
   <tr>
@@ -762,7 +762,7 @@ permalink: /analysis/지역별매매평단가랭킹
   <tr>
     <td>125위</td>
     <td><a href="/apt/부산광역시사하구{dong}">부산광역시사하구</a></td>
-    <td>289</td>
+    <td>288</td>
   </tr>
 
   <tr>

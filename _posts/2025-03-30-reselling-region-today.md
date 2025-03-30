@@ -240,55 +240,79 @@ permalink: /analysis/오늘전매거래량상위50지역
   <tr>
     <td>38위</td>
     <td>1</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/부산광역시강서구">부산광역시강서구 </a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/대구광역시동구">대구광역시동구 </a></td>
   </tr>
 
   <tr>
     <td>39위</td>
     <td>1</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/부산광역시사하구">부산광역시사하구 </a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/대구광역시중구">대구광역시중구 </a></td>
   </tr>
 
   <tr>
     <td>40위</td>
     <td>1</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시송파구">서울특별시송파구 </a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/부산광역시연제구">부산광역시연제구 </a></td>
   </tr>
 
   <tr>
     <td>41위</td>
     <td>1</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시강남구">서울특별시강남구 </a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/부산광역시강서구">부산광역시강서구 </a></td>
   </tr>
 
   <tr>
     <td>42위</td>
     <td>1</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시관악구">서울특별시관악구 </a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/부산광역시사하구">부산광역시사하구 </a></td>
   </tr>
 
   <tr>
     <td>43위</td>
     <td>1</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시영등포구">서울특별시영등포구 </a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시송파구">서울특별시송파구 </a></td>
   </tr>
 
   <tr>
     <td>44위</td>
     <td>1</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시성북구">서울특별시성북구 </a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시강남구">서울특별시강남구 </a></td>
   </tr>
 
   <tr>
     <td>45위</td>
     <td>1</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시성동구">서울특별시성동구 </a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시관악구">서울특별시관악구 </a></td>
   </tr>
 
   <tr>
     <td>46위</td>
     <td>1</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시중구">서울특별시중구 </a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시영등포구">서울특별시영등포구 </a></td>
+  </tr>
+
+  <tr>
+    <td>47위</td>
+    <td>1</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시구로구">서울특별시구로구 </a></td>
+  </tr>
+
+  <tr>
+    <td>48위</td>
+    <td>1</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시양천구">서울특별시양천구 </a></td>
+  </tr>
+
+  <tr>
+    <td>49위</td>
+    <td>1</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시마포구">서울특별시마포구 </a></td>
+  </tr>
+
+  <tr>
+    <td>50위</td>
+    <td>1</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시은평구">서울특별시은평구 </a></td>
   </tr>
 
 </table>

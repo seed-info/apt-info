@@ -137,7 +137,7 @@ permalink: /analysis/지난일주일전매거래량상위50지역
 
   <tr>
     <td>21위</td>
-    <td>119</td>
+    <td>120</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시마포구">서울특별시마포구 </a></td>
   </tr>
 
@@ -155,7 +155,7 @@ permalink: /analysis/지난일주일전매거래량상위50지역
 
   <tr>
     <td>24위</td>
-    <td>116</td>
+    <td>117</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시양천구">서울특별시양천구 </a></td>
   </tr>
 

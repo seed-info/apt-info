@@ -18,14 +18,14 @@ permalink: /analysis/지난일주일매매거래량상위50aptNm
 
   <tr>
     <td>1위</td>
-    <td>75</td>
+    <td>76</td>
     <td><a href="/apt/서울특별시노원구월계동">서울특별시노원구 월계동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시노원구월계동현대">현대</a></td>
   </tr>
 
   <tr>
     <td>2위</td>
-    <td>40</td>
+    <td>41</td>
     <td><a href="/apt/서울특별시마포구도화동">서울특별시마포구 도화동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시마포구도화동우성">우성</a></td>
   </tr>
@@ -278,71 +278,71 @@ permalink: /analysis/지난일주일매매거래량상위50aptNm
   <tr>
     <td>38위</td>
     <td>11</td>
+    <td><a href="/apt/서울특별시서초구반포동">서울특별시서초구 반포동</a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시서초구반포동반포자이">반포자이</a></td>
+  </tr>
+
+  <tr>
+    <td>39위</td>
+    <td>11</td>
     <td><a href="/apt/서울특별시동대문구답십리동">서울특별시동대문구 답십리동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시동대문구답십리동두산위브">두산위브</a></td>
   </tr>
 
   <tr>
-    <td>39위</td>
+    <td>40위</td>
     <td>11</td>
     <td><a href="/apt/서울특별시성동구금호동4가">서울특별시성동구 금호동4가</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시성동구금호동4가대우">대우</a></td>
   </tr>
 
   <tr>
-    <td>40위</td>
+    <td>41위</td>
     <td>11</td>
     <td><a href="/apt/경기도광명시광명동">경기도광명시 광명동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/경기도광명시광명동광명아크포레자이위브">광명아크포레자이위브</a></td>
   </tr>
 
   <tr>
-    <td>41위</td>
+    <td>42위</td>
     <td>11</td>
     <td><a href="/apt/서울특별시강동구고덕동">서울특별시강동구 고덕동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시강동구고덕동고덕그라시움">고덕그라시움</a></td>
   </tr>
 
   <tr>
-    <td>42위</td>
+    <td>43위</td>
     <td>10</td>
     <td><a href="/apt/서울특별시강남구개포동">서울특별시강남구 개포동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시강남구개포동현대2">현대2</a></td>
   </tr>
 
   <tr>
-    <td>43위</td>
+    <td>44위</td>
     <td>10</td>
     <td><a href="/apt/인천광역시남동구만수동">인천광역시남동구 만수동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/인천광역시남동구만수동한국">한국</a></td>
   </tr>
 
   <tr>
-    <td>44위</td>
+    <td>45위</td>
     <td>10</td>
     <td><a href="/apt/서울특별시송파구잠실동">서울특별시송파구 잠실동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시송파구잠실동잠실엘스">잠실엘스</a></td>
   </tr>
 
   <tr>
-    <td>45위</td>
+    <td>46위</td>
     <td>10</td>
     <td><a href="/apt/서울특별시구로구개봉동">서울특별시구로구 개봉동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시구로구개봉동삼환">삼환</a></td>
   </tr>
 
   <tr>
-    <td>46위</td>
+    <td>47위</td>
     <td>10</td>
     <td><a href="/apt/경상남도창원시마산합포구월포동">경상남도창원시마산합포구 월포동</a></td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/경상남도창원시마산합포구월포동벽산블루밍">벽산블루밍</a></td>
-  </tr>
-
-  <tr>
-    <td>47위</td>
-    <td>10</td>
-    <td><a href="/apt/서울특별시서초구반포동">서울특별시서초구 반포동</a></td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시서초구반포동반포자이">반포자이</a></td>
   </tr>
 
   <tr>

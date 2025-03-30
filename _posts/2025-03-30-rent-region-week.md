@@ -17,7 +17,7 @@ permalink: /analysis/지난일주일전월세거래량상위50지역
 
   <tr>
     <td>1위</td>
-    <td>250</td>
+    <td>251</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시강남구">서울특별시강남구 </a></td>
   </tr>
 
@@ -53,7 +53,7 @@ permalink: /analysis/지난일주일전월세거래량상위50지역
 
   <tr>
     <td>7위</td>
-    <td>166</td>
+    <td>167</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시송파구">서울특별시송파구 </a></td>
   </tr>
 
@@ -65,7 +65,7 @@ permalink: /analysis/지난일주일전월세거래량상위50지역
 
   <tr>
     <td>9위</td>
-    <td>157</td>
+    <td>158</td>
     <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시성동구">서울특별시성동구 </a></td>
   </tr>
 
@@ -101,14 +101,14 @@ permalink: /analysis/지난일주일전월세거래량상위50지역
 
   <tr>
     <td>15위</td>
-    <td>135</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/대구광역시달서구">대구광역시달서구 </a></td>
+    <td>136</td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시영등포구">서울특별시영등포구 </a></td>
   </tr>
 
   <tr>
     <td>16위</td>
     <td>135</td>
-    <td colspan="4" style="font-weight: bold;"><a href="/apt/서울특별시영등포구">서울특별시영등포구 </a></td>
+    <td colspan="4" style="font-weight: bold;"><a href="/apt/대구광역시달서구">대구광역시달서구 </a></td>
   </tr>
 
   <tr>

@@ -107,6 +107,14 @@ permalink: /analysis/아파트매매평단가탑100랭킹
 
   <tr>
     <td><a href="/apt/서울특별시서초구반포동">서울특별시서초구 반포동</a></td>
+    <td style="font-weight: bold;"><a href="/apt/서울특별시서초구반포동래미안원베일리">래미안원베일리</a></td>
+    <td>59.96</td>
+    <td>387,000</td>
+    <td>6454</td>
+  </tr>
+
+  <tr>
+    <td><a href="/apt/서울특별시서초구반포동">서울특별시서초구 반포동</a></td>
     <td style="font-weight: bold;"><a href="/apt/서울특별시서초구반포동아크로리버파크">아크로리버파크</a></td>
     <td>154.97</td>
     <td>1,000,000</td>
@@ -443,6 +451,14 @@ permalink: /analysis/아파트매매평단가탑100랭킹
 
   <tr>
     <td><a href="/apt/서울특별시서초구반포동">서울특별시서초구 반포동</a></td>
+    <td style="font-weight: bold;"><a href="/apt/서울특별시서초구반포동반포자이">반포자이</a></td>
+    <td>59.98</td>
+    <td>330,000</td>
+    <td>5502</td>
+  </tr>
+
+  <tr>
+    <td><a href="/apt/서울특별시서초구반포동">서울특별시서초구 반포동</a></td>
     <td style="font-weight: bold;"><a href="/apt/서울특별시서초구반포동아크로리버파크">아크로리버파크</a></td>
     <td>154.97</td>
     <td>850,000</td>
@@ -551,6 +567,14 @@ permalink: /analysis/아파트매매평단가탑100랭킹
     <td>78.48</td>
     <td>416,000</td>
     <td>5301</td>
+  </tr>
+
+  <tr>
+    <td><a href="/apt/서울특별시서초구반포동">서울특별시서초구 반포동</a></td>
+    <td style="font-weight: bold;"><a href="/apt/서울특별시서초구반포동래미안퍼스티지">래미안퍼스티지</a></td>
+    <td>84.93</td>
+    <td>450,000</td>
+    <td>5298</td>
   </tr>
 
   <tr>
@@ -791,30 +815,6 @@ permalink: /analysis/아파트매매평단가탑100랭킹
     <td>183.41</td>
     <td>920,000</td>
     <td>5016</td>
-  </tr>
-
-  <tr>
-    <td><a href="/apt/서울특별시강남구압구정동">서울특별시강남구 압구정동</a></td>
-    <td style="font-weight: bold;"><a href="/apt/서울특별시강남구압구정동신현대12차">신현대12차</a></td>
-    <td>155.52</td>
-    <td>780,000</td>
-    <td>5015</td>
-  </tr>
-
-  <tr>
-    <td><a href="/apt/서울특별시서초구반포동">서울특별시서초구 반포동</a></td>
-    <td style="font-weight: bold;"><a href="/apt/서울특별시서초구반포동반포써밋">반포써밋</a></td>
-    <td>59.3264</td>
-    <td>297,000</td>
-    <td>5006</td>
-  </tr>
-
-  <tr>
-    <td><a href="/apt/서울특별시서초구반포동">서울특별시서초구 반포동</a></td>
-    <td style="font-weight: bold;"><a href="/apt/서울특별시서초구반포동반포자이">반포자이</a></td>
-    <td>59.98</td>
-    <td>300,000</td>
-    <td>5002</td>
   </tr>
 
 </table>
